@@ -1,0 +1,41 @@
+{
+  "brand": "herman_miller",
+  "product": "striad sofas",
+  "product_slug": "striad-sofas",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-lounge-chair-classic/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-plywood-lounge-chair-wood-base-nonupholstered/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/striad_sofas/striad_sofa_low_back_2_seat_armless_wire_base/HMI_Striad_Sofa_Low_Back_2_Seat_Armless_Wire_Base_3D.dwg",
+      "stored_path": "striad_sofa_low_back_2_seat_armless_wire_base/autocad_3d/HMI_Striad_Sofa_Low_Back_2_Seat_Armless_Wire_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "54b88a2c5e97b551f5cee2d704d8d2c8bc4e2a33bcb875576c7659c59e9cd0b5",
+      "size_bytes": 553098,
+      "variant": "striad_sofa_low_back_2_seat_armless_wire_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/striad_sofas/striad_sofa_low_back_2_seat_armless_wire_base/HMI_Striad_Sofa_Low_Back_2_Seat_Armless_Wire_Base_rfa.zip",
+      "stored_path": "striad_sofa_low_back_2_seat_armless_wire_base/revit/HMI_Striad_Sofa_Low_Back_2_Seat_Armless_Wire_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "78c6af18e4e797ce596afdd083875c433102bb9daa30e43234c7c790fadfbcb0",
+      "size_bytes": 1105612,
+      "variant": "striad_sofa_low_back_2_seat_armless_wire_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/striad_sofas/striad_sofa_low_back_2_seat_armless_wire_base/HMI_Striad_Sofa_Low_Back_2_Seat_Armless_Wire_Base_rfa.zip#zip",
+      "stored_path": "striad_sofa_low_back_2_seat_armless_wire_base/revit/extracted/HermanMiller_Ancillary_StriadLow-BackArmless2Seat.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "6cab82d4057863b8b57f1a8c2e5635de3bea2e7382a11298cf875b4763e13dd1",
+      "size_bytes": 1191936,
+      "variant": "striad_sofa_low_back_2_seat_armless_wire_base"
+    }
+  ],
+  "updated_at": 1755361678
+}

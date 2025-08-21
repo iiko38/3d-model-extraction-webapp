@@ -1,0 +1,55 @@
+{
+  "brand": "herman_miller",
+  "product": "zeph stool",
+  "product_slug": "zeph_stool",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-stool/zeph_stool_armless/autocad_3d/HMI_Zeph_Stool_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c6db890b10705baa8c6ce19053ee79e8217699a422c4a4e45f0acfe87de22050",
+      "size_bytes": 1526669,
+      "variant": "zeph_stool_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-stool/zeph_stool_armless/sketchup/HMI_Zeph_Stool_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "0cbe1520d2a58ac5a4e63ec440625ec6b3a190dc431e404a47b54b2064b02ba4",
+      "size_bytes": 3381604,
+      "variant": "zeph_stool_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-stool/zeph_stool_armless/revit/extracted/HermanMiller_Seating_ZephMultipurposeStool.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "6155e92ea46124042d9d0764312b5fb705537840f95cb151ce9032eeb479fc3f",
+      "size_bytes": 8183808,
+      "variant": "zeph_stool_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-stool/zeph_stool_with_arms/autocad_3d/HMI_Zeph_Stool_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "dd2948ae593626b355b969e051446a0297238a2a57c44e0f765572f24c285645",
+      "size_bytes": 1558103,
+      "variant": "zeph_stool_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-stool/zeph_stool_with_arms/sketchup/HMI_Zeph_Stool_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7736817b2b2da698c5d6317c894b7c8dfdbd961146bd6831fee81a103b287042",
+      "size_bytes": 3414303,
+      "variant": "zeph_stool_with_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

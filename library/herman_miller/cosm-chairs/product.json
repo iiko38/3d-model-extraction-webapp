@@ -1,0 +1,277 @@
+{
+  "brand": "herman_miller",
+  "product": "cosm chairs",
+  "product_slug": "cosm-chairs",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/verus-chair-suspension-back-height-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/sayl-chair-suspension-mid-back-fully-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-soft-pad-chair-executive/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/cosm-chair-high-back-leaf-arms/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_armless/HMI_Cosm_Chair_High_Back_Armless_3D.dwg",
+      "stored_path": "cosm_chair_high_back_armless/autocad_3d/HMI_Cosm_Chair_High_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4cf9348a93483721230b5f266b4de10c4f05deff5a16aeef41baa89ff2d54bd1",
+      "size_bytes": 1592859,
+      "variant": "cosm_chair_high_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_fixed_arms/HMI_Cosm_Chair_Mid_Back_Fixed_Arms_rfa.zip",
+      "stored_path": "cosm_chair_mid_back_fixed_arms/revit/HMI_Cosm_Chair_Mid_Back_Fixed_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "c2fac7928cd1544ea578ddf4a4e8be8c3a28968917d9e79f570183580e385a75",
+      "size_bytes": 10429193,
+      "variant": "cosm_chair_mid_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_armless/HMI_Cosm_Chair_High_Back_Armless.skp",
+      "stored_path": "cosm_chair_high_back_armless/sketchup/HMI_Cosm_Chair_High_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "788b20e42c27f3fca9f0d3791c1e72a521731fedc9aa18416e3d56172ceafd50",
+      "size_bytes": 3984252,
+      "variant": "cosm_chair_high_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_leaf_arms/HMI_Cosm_Chair_Mid_Back_Leaf_Arms_rfa.zip#zip",
+      "stored_path": "cosm_chair_mid_back_leaf_arms/revit/extracted/HermanMiller_Seating_CosmWorkChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a6288ccece354f5b16655f2b1bbe12542c238ae4cf377bc668118319d5f7802e",
+      "size_bytes": 10936320,
+      "variant": "cosm_chair_mid_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_fixed_arms/HMI_Cosm_Chair_High_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "cosm_chair_high_back_fixed_arms/autocad_3d/HMI_Cosm_Chair_High_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "785b15b7eabbd605eb02c2c27583034cb580f3db2fce07d7f84400e97a0fd8c4",
+      "size_bytes": 1670212,
+      "variant": "cosm_chair_high_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_fixed_arms/HMI_Cosm_Chair_High_Back_Fixed_Arms.skp",
+      "stored_path": "cosm_chair_high_back_fixed_arms/sketchup/HMI_Cosm_Chair_High_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8ca65a5a57c7bda872a18702a440ffb830c0d6404a74002451ebb966b5ac556c",
+      "size_bytes": 4260997,
+      "variant": "cosm_chair_high_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_height_adjustable_arms/HMI_Cosm_Chair_High_Back_Height_Adjustable_Arms_3D.dwg",
+      "stored_path": "cosm_chair_high_back_height_adjustable_arms/autocad_3d/HMI_Cosm_Chair_High_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e79c8627cb901f6bc86c3a154f2bdf50457a89cc26a1278eb494728dc68257a8",
+      "size_bytes": 1762458,
+      "variant": "cosm_chair_high_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_height_adjustable_arms/HMI_Cosm_Chair_High_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "cosm_chair_high_back_height_adjustable_arms/sketchup/HMI_Cosm_Chair_High_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "747c842c1358a9476de9a3cbb1e88047969b25164ddae235a8dbf33f3a054724",
+      "size_bytes": 4440183,
+      "variant": "cosm_chair_high_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_leaf_arms/HMI_Cosm_Chair_High_Back_Leaf_Arms_3D.dwg",
+      "stored_path": "cosm_chair_high_back_leaf_arms/autocad_3d/HMI_Cosm_Chair_High_Back_Leaf_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "297c973cfc47b2853d5c4b9348856d613ea02347f6e6ffaf6eda9126894b75e9",
+      "size_bytes": 1727698,
+      "variant": "cosm_chair_high_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_high_back_leaf_arms/HMI_Cosm_Chair_High_Back_Leaf_Arms.skp",
+      "stored_path": "cosm_chair_high_back_leaf_arms/sketchup/HMI_Cosm_Chair_High_Back_Leaf_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "58c58a8741889776d597ff510ec2e27df7b8271dca449a0d2802193e0294b52a",
+      "size_bytes": 4418000,
+      "variant": "cosm_chair_high_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_armless/HMI_Cosm_Chair_Low_Back_Armless_3D.dwg",
+      "stored_path": "cosm_chair_low_back_armless/autocad_3d/HMI_Cosm_Chair_Low_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "275f21149dc91a7d95321cb58fc6354f5bee8e4319d7d92b6b139acf84bc27b5",
+      "size_bytes": 1558317,
+      "variant": "cosm_chair_low_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_leaf_arms/HMI_Cosm_Chair_Mid_Back_Leaf_Arms_rfa.zip",
+      "stored_path": "cosm_chair_mid_back_leaf_arms/revit/HMI_Cosm_Chair_Mid_Back_Leaf_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "e9d061fde45aab729dfc20dce9629dd4f972888ef06079bb6a4e215890d419f8",
+      "size_bytes": 10429193,
+      "variant": "cosm_chair_mid_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_armless/HMI_Cosm_Chair_Low_Back_Armless.skp",
+      "stored_path": "cosm_chair_low_back_armless/sketchup/HMI_Cosm_Chair_Low_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "6eab6e77727d4cca3143febf859c1fa215a4c30dceb2092a89a82deadbcf4411",
+      "size_bytes": 3914414,
+      "variant": "cosm_chair_low_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_fixed_arms/HMI_Cosm_Chair_Low_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "cosm_chair_low_back_fixed_arms/autocad_3d/HMI_Cosm_Chair_Low_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "275a0c88ec4ae3e8bf17a1d78aadb59f01e367b0f3ef833e76d8403df95b15cb",
+      "size_bytes": 1648795,
+      "variant": "cosm_chair_low_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_fixed_arms/HMI_Cosm_Chair_Low_Back_Fixed_Arms.skp",
+      "stored_path": "cosm_chair_low_back_fixed_arms/sketchup/HMI_Cosm_Chair_Low_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7f9309062790ee8ca7b855eed31106fed0ad2ffcc8201fae64065805d1504d91",
+      "size_bytes": 4188727,
+      "variant": "cosm_chair_low_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_height_adjustable_arms/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms_3D.dwg",
+      "stored_path": "cosm_chair_low_back_height_adjustable_arms/autocad_3d/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "044f833f3b2743f469bca1a6c7b9d16119e5daf0f4dbeeb5ae92969cff279651",
+      "size_bytes": 1732460,
+      "variant": "cosm_chair_low_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_height_adjustable_arms/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms_rfa.zip",
+      "stored_path": "cosm_chair_low_back_height_adjustable_arms/revit/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "7b6e17613f801dc4fb451cb84df588ce17a97ac1df6b501620b07adc6446027c",
+      "size_bytes": 10429193,
+      "variant": "cosm_chair_low_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_height_adjustable_arms/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "cosm_chair_low_back_height_adjustable_arms/sketchup/HMI_Cosm_Chair_Low_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "49f6475914d5268f839e159c396ae340649841979b72208aae18c061a1f1e257",
+      "size_bytes": 4368745,
+      "variant": "cosm_chair_low_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_leaf_arms/HMI_Cosm_Chair_Low_Back_Leaf_Arms_3D.dwg",
+      "stored_path": "cosm_chair_low_back_leaf_arms/autocad_3d/HMI_Cosm_Chair_Low_Back_Leaf_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "374f33dbb109072011f63cf7da6935d223c9706e3d48c2ce9ee424af4d8f246f",
+      "size_bytes": 1713591,
+      "variant": "cosm_chair_low_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_leaf_arms/HMI_Cosm_Chair_Low_Back_Leaf_Arms_rfa.zip",
+      "stored_path": "cosm_chair_low_back_leaf_arms/revit/HMI_Cosm_Chair_Low_Back_Leaf_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "38f7c1a9efb40050562232f32f6f687c7dbb4947a3f45919d67ba12f35a9e9af",
+      "size_bytes": 10429193,
+      "variant": "cosm_chair_low_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_low_back_leaf_arms/HMI_Cosm_Chair_Low_Back_Leaf_Arms.skp",
+      "stored_path": "cosm_chair_low_back_leaf_arms/sketchup/HMI_Cosm_Chair_Low_Back_Leaf_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "875d057f24396ea619aaef32f224aa505beb85b293191de693f5957e17179818",
+      "size_bytes": 4349483,
+      "variant": "cosm_chair_low_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_armless/HMI_Cosm_Chair_Mid_Back_Armless_3D.dwg",
+      "stored_path": "cosm_chair_mid_back_armless/autocad_3d/HMI_Cosm_Chair_Mid_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "2fc7a009bf519d1345b547b618e12f97f84eea6816966a9538095828056ea365",
+      "size_bytes": 1562373,
+      "variant": "cosm_chair_mid_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_armless/HMI_Cosm_Chair_Mid_Back_Armless.skp",
+      "stored_path": "cosm_chair_mid_back_armless/sketchup/HMI_Cosm_Chair_Mid_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e288c0eeff8c4a558023e1cea95ae8e9f050626b3afc47912fb7fb2444923766",
+      "size_bytes": 3941171,
+      "variant": "cosm_chair_mid_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_fixed_arms/HMI_Cosm_Chair_Mid_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "cosm_chair_mid_back_fixed_arms/autocad_3d/HMI_Cosm_Chair_Mid_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9e5cabc62c625965c0b295d3f98227995fc58014e3e0bc0a39dbef818957e494",
+      "size_bytes": 1659229,
+      "variant": "cosm_chair_mid_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_fixed_arms/HMI_Cosm_Chair_Mid_Back_Fixed_Arms.skp",
+      "stored_path": "cosm_chair_mid_back_fixed_arms/sketchup/HMI_Cosm_Chair_Mid_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "9f3aa296a826f4ece31e503a4c4057e3248357dcb3df0dc93312bc58577fdd02",
+      "size_bytes": 4221373,
+      "variant": "cosm_chair_mid_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_height_adjustable_arms/HMI_Cosm_Chair_Mid_Back_Height_Adjustable_Arms_3D.dwg",
+      "stored_path": "cosm_chair_mid_back_height_adjustable_arms/autocad_3d/HMI_Cosm_Chair_Mid_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0cc265094c43629aed702b4b0062f91d6330f77ac9dbb192681f542edaae3c8d",
+      "size_bytes": 1751411,
+      "variant": "cosm_chair_mid_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_height_adjustable_arms/HMI_Cosm_Chair_Mid_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "cosm_chair_mid_back_height_adjustable_arms/sketchup/HMI_Cosm_Chair_Mid_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f0f0305577cafb61e8f94e61d25f3e64a7ba2e73928c4dbbf225417dbb370137",
+      "size_bytes": 4397518,
+      "variant": "cosm_chair_mid_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_leaf_arms/HMI_Cosm_Chair_Mid_Back_Leaf_Arms_3D.dwg",
+      "stored_path": "cosm_chair_mid_back_leaf_arms/autocad_3d/HMI_Cosm_Chair_Mid_Back_Leaf_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e8bf874cc91dde488724f875d7ed162a9bdbcfe01ae83583893755eff9d36883",
+      "size_bytes": 1717232,
+      "variant": "cosm_chair_mid_back_leaf_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/cosm_chairs/cosm_chair_mid_back_leaf_arms/HMI_Cosm_Chair_Mid_Back_Leaf_Arms.skp",
+      "stored_path": "cosm_chair_mid_back_leaf_arms/sketchup/HMI_Cosm_Chair_Mid_Back_Leaf_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "34887c047fcac03aa97661500d04ea52af65273cb1106d9377557a22e4dc7e3e",
+      "size_bytes": 4377409,
+      "variant": "cosm_chair_mid_back_leaf_arms"
+    }
+  ],
+  "updated_at": 1755361678
+}

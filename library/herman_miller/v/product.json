@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_height_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms_rfa.zip",
+      "stored_path": "herman_miller\\v\\verus_chairs\\revit\\HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "6eab867a0a3ab237bdd2c686a703d8f23566a9f5195a6d957adc9d8d8375ba14",
+      "size_bytes": 4415263
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_height_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms_rfa.zip#zip",
+      "stored_path": "herman_miller\\v\\verus_chairs\\revit\\extracted\\HermanMiller_Seating_VerusWorkChairAssembledInterweave2SuspensionBack.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "51fa2a474cfe06d784b3bbcaad6908dba42fc58f54b594ad074a60f137993a16",
+      "size_bytes": 4886528
+    }
+  ],
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support"
+  ],
+  "brand": "herman_miller",
+  "product": "V",
+  "product_slug": "v",
+  "updated_at": 1755355635
+}

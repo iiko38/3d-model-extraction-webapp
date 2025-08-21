@@ -1,0 +1,190 @@
+{
+  "brand": "herman_miller",
+  "product": "eames tables",
+  "product_slug": "eames_tables",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/autocad_3d/HMI_Eames_Table_Round_Contract_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "beb5ba2399fecc9584558376698da41953aff67ecad99aa9ceba57cf9e43d65c",
+      "size_bytes": 253453,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/sketchup/HMI_Eames_Table_Round_Contract_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a1d2371e371cf7de0fc5e191bc7a3a88138a4d64dde1a9c93837733eb252ba29",
+      "size_bytes": 98057,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesLowRoundContractBaseGlassTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4d990de0234cfd0e0ff5de4ddb588543519bba1eef64a553e71b393fb9f0fab6",
+      "size_bytes": 1347584,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesLowRoundContractBaseLaminateTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "28501fb7f5a5675e332796a2ece66fcd535cd8ceddc08f119c244ca77ae73ac9",
+      "size_bytes": 1351680,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesLowRoundContractBaseStoneTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "81784a641ec6f196afbe0852b7794d6765d584e0fc9f698a43331b82d89c0a11",
+      "size_bytes": 1339392,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesLowRoundContractBaseThinProfileTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "022f341d22979a475796b92453568ca008dee044c431a883d1a80849e552011b",
+      "size_bytes": 1351680,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesLowRoundContractBaseVeneerTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "289a693a5a6dde4e21ac717563b7e5761a8896395f00a2291e0bffcdb5a3cd1e",
+      "size_bytes": 1363968,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesOutdoorLowRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "adfd1d9ffa73b7b71507baef02516a614326ff38938d9f859a95ffe330f1be03",
+      "size_bytes": 2363392,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesOutdoorOccasionalRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fe5da2edb948eb84f37df690ab2bb0462eb3bb19e2435d53bc936921a4942be6",
+      "size_bytes": 1851392,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesOutdoorRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "35d9860f47664f12d93fb91012688bf8bee2a65c38113647cd2ee37eb34954d6",
+      "size_bytes": 2363392,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesOutdoorStandingHeightRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "35a72715479c6db999b551738130579a26ce946a4f66b9ade13088442fa545a5",
+      "size_bytes": 2400256,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundContractBaseGlassTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "91ba8c429a0c0dd4d5817aa94a8eecce82cef92531797d3ea70b5867e40f42ff",
+      "size_bytes": 1347584,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundContractBaseLaminateTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "cf7113ec2b5d4b5b38fae27fedf115c445cb3dafb55d4ec9d86610abca2604d9",
+      "size_bytes": 1351680,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundContractBaseStoneTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7794587fc337b31ddcf8888f3a63f0454f764c31225a2201c592866d9f304c1d",
+      "size_bytes": 1339392,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundContractBaseThinProfileTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "439711d8bb35d355a745826fb522f2776ecbe30713bfe6b33a433100cd1f14d7",
+      "size_bytes": 1351680,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundContractBaseVeneerTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "18c1dc5b44125206acdfe6b8a48de98c9b185d8456155877c5c12d89d9ed6f9b",
+      "size_bytes": 1363968,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesRoundTableContractBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "82e7e2006615888921c427a9bbc6aaaccea859b9d88733c87e55ba4ccb0b9e17",
+      "size_bytes": 991232,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesStandingHeightRoundContractBaseGlassTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "88eacac88614246fdf0ec5f58bc2c79238d217f6cec2266e8a8134c6d5d8aa96",
+      "size_bytes": 1363968,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesStandingHeightRoundContractBaseLaminateTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "91c7cb1262c4f3275a24864fc28310df8cd3d20f1e634c452d77d640b14de2ef",
+      "size_bytes": 1368064,
+      "variant": "eames_table_round_contract_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-tables/eames_table_round_contract_base/revit/extracted/Herman Miller Ancillary/2 Desks and Tables/2 Tables/HermanMiller_Ancillary_EamesTablesStandingHeightRoundContractBaseStoneTop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "14555d6ef87b7949282dc21d4217e7a3eaba3b2e8ac9e4b6ccd50f088396b3bf",
+      "size_bytes": 1347584,
+      "variant": "eames_table_round_contract_base"
+    }
+  ],
+  "updated_at": 1755362530
+}

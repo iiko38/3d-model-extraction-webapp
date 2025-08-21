@@ -1,0 +1,226 @@
+{
+  "brand": "herman_miller",
+  "product": "aeron chairs",
+  "product_slug": "aeron_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_armless/autocad_3d/HMI_Aeron_Chair_A_Size_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "387fcc5b3e269a986d374974b409ee0ff939a60bd757b1e9993a9863a5f1fc6f",
+      "size_bytes": 1767304,
+      "variant": "aeron_chair_a_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_armless/sketchup/HMI_Aeron_Chair_A_Size_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "20ff764ce7cb8bc0e7aa448a501302be87e76801b8b5b4c50bebfb407b32cd78",
+      "size_bytes": 4903810,
+      "variant": "aeron_chair_a_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_armless/revit/extracted/HermanMiller_Seating_NewAeronWorkChairASize.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1cd862c95d76cdbdc839a40fd019c662fe370f1fdea16e5f634eaabf1e74c94a",
+      "size_bytes": 4648960,
+      "variant": "aeron_chair_a_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_fixed_arms/autocad_3d/HMI_Aeron_Chair_A_Size_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "74f54e7331585e103f37d7161f6e05c8554815e6f17334e8fb26bcf2627e9b51",
+      "size_bytes": 1858171,
+      "variant": "aeron_chair_a_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_fixed_arms/sketchup/HMI_Aeron_Chair_A_Size_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a753071117255ffabcc53382624f5435bcc4812466d0e0e1e8d9a2d0239bbf4d",
+      "size_bytes": 5263873,
+      "variant": "aeron_chair_a_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_fully_adjustable_arms/autocad_3d/HMI_Aeron_Chair_A_Size_Fully_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "6a22a24396866674c295761fd72e35edbdc4f5bc32bd62a5699d909feda5be90",
+      "size_bytes": 1874674,
+      "variant": "aeron_chair_a_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_fully_adjustable_arms/sketchup/HMI_Aeron_Chair_A_Size_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "9d6cad4e8d49c238c691d779f8c649de9b9b670fe7f08c3eb83d46111b666d94",
+      "size_bytes": 5313348,
+      "variant": "aeron_chair_a_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_a_size_height_adjustable_arms/sketchup/HMI_Aeron_Chair_A_Size_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "214baeb2a4d1aadf356aa144ffc071ea2c93f9ddb3de58e0003ee2737368ae80",
+      "size_bytes": 5305618,
+      "variant": "aeron_chair_a_size_height_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_armless/autocad_3d/HMI_Aeron_Chair_B_Size_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e75deb632031013acf4124c65234faed7e4c2b5488a98fca650feefb474a1b41",
+      "size_bytes": 1659119,
+      "variant": "aeron_chair_b_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_armless/sketchup/HMI_Aeron_Chair_B_Size_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e05d3358cab94967844d6195c9e83c1aaca7e0e515bf9f1381dc82407466a9e7",
+      "size_bytes": 4936611,
+      "variant": "aeron_chair_b_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_armless/revit/extracted/HermanMiller_Seating_NewAeronWorkChairBSize.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "eb06ef7938f5778adf16d2e929d7d0c8e4bd162c8c01dde2a6627d59470aaa2c",
+      "size_bytes": 6717440,
+      "variant": "aeron_chair_b_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_fixed_arms/autocad_3d/HMI_Aeron_Chair_B_Size_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1b457518e5032d4c00defab3dc6d18895e0175a0775af3aebac79b870f5fe85c",
+      "size_bytes": 1747753,
+      "variant": "aeron_chair_b_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_fixed_arms/sketchup/HMI_Aeron_Chair_B_Size_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b61c2bd4d6eae2c1cf1c6aa460afc57419fe561e17d90fd26518453c40a293a3",
+      "size_bytes": 5298260,
+      "variant": "aeron_chair_b_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_fully_adjustable_arms/autocad_3d/HMI_Aeron_Chair_B_Size_Fully_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "03a87ce06caa717bbcd5818eec58e00bafe4e1b3cd7bd2fb5230fb0a05f9183d",
+      "size_bytes": 1752367,
+      "variant": "aeron_chair_b_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_fully_adjustable_arms/sketchup/HMI_Aeron_Chair_B_Size_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "00d8b8be078a5a4d925509f92850f3213a10861073217091703312ddda9d2954",
+      "size_bytes": 5326396,
+      "variant": "aeron_chair_b_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_b_size_height_adjustable_arms/sketchup/HMI_Aeron_Chair_B_Size_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "4b95beb6c32eb2d048fe5666a815171d6f736589131fcbf23293134760d59513",
+      "size_bytes": 5350262,
+      "variant": "aeron_chair_b_size_height_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_armless/autocad_3d/HMI_Aeron_Chair_C_Size_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c02ac807eda5c11c56a624cdefd47eb7dffb94e465f51c9fe915f47d29d9fcef",
+      "size_bytes": 1793614,
+      "variant": "aeron_chair_c_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_armless/sketchup/HMI_Aeron_Chair_C_Size_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a62323e057ef3d6b5354bf7765e626dfb22c5c8a67ad5739c0323d8a4b59221a",
+      "size_bytes": 4957072,
+      "variant": "aeron_chair_c_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_armless/revit/extracted/HermanMiller_Seating_NewAeronWorkChairCSize.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0552cbab6bcbcd2cac20dc23563fb9e9a99ac4d465e502b2609ab40457c6d87b",
+      "size_bytes": 4739072,
+      "variant": "aeron_chair_c_size_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_fixed_arms/autocad_3d/HMI_Aeron_Chair_C_Size_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c65123e516525b98e10e70ba627145933526890381d326424414cf7a2e6b471b",
+      "size_bytes": 1871940,
+      "variant": "aeron_chair_c_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_fixed_arms/sketchup/HMI_Aeron_Chair_C_Size_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3ed13f148cb93e8aaa5562b9fcebef8670e66f56506b2807cb73486da3da62c8",
+      "size_bytes": 5271426,
+      "variant": "aeron_chair_c_size_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_fully_adjustable_arms/autocad_3d/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "75bc5c754063b0affa16f8700c9609959e2fcc11fd2ec9971ace48f19c662337",
+      "size_bytes": 1887737,
+      "variant": "aeron_chair_c_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_fully_adjustable_arms/sketchup/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2a492ca6c215242daca61ee3334f5465e1a191ee8ebe6a69c4db6317c1e9f7c2",
+      "size_bytes": 5295427,
+      "variant": "aeron_chair_c_size_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/aeron-chairs/aeron_chair_c_size_height_adjustable_arms/sketchup/HMI_Aeron_Chair_C_Size_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ce4517176cfc2f5a8c14fc68bb98025af74c84cfc246dbae0c8147521bbbea9c",
+      "size_bytes": 5304367,
+      "variant": "aeron_chair_c_size_height_adjustable_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

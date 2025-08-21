@@ -1,0 +1,37 @@
+{
+  "brand": "herman_miller",
+  "product": "girard stool",
+  "product_slug": "girard_stool",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-stool/HM_Girard_Stool.skp/sketchup/HM_Girard_Stool.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ede80e15e0eaea1ec2e05438e6c44fb5b017b5afc2c4e70820197d12ee1303a2",
+      "size_bytes": 1500990,
+      "variant": "HM_Girard_Stool.skp"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-stool/HM_Girard_Stool_3D.dwg/autocad_3d/HM_Girard_Stool_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c0bc9597fe8505bead0cf44cab3cb7766aafaf9165f0fce95eb62420d8843b26",
+      "size_bytes": 1558177,
+      "variant": "HM_Girard_Stool_3D.dwg"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-stool/HM_Girard_Stool_rfa.zip/revit/extracted/HermanMiller_Ancillary_GirardStool.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "9cdb3a59d0b6fba75cb8d025de49acf099985b8e835526a61bb79dfc2876fb55",
+      "size_bytes": 2629632,
+      "variant": "HM_Girard_Stool_rfa.zip"
+    }
+  ],
+  "updated_at": 1755362530
+}

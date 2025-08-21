@@ -1,0 +1,82 @@
+{
+  "brand": "herman_miller",
+  "product": "eames lounge chair and ottoman",
+  "product_slug": "eames_lounge_chair_and_ottoman",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_classic/autocad_3d/HMI_Eames_Lounge_Chair_Classic_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d17b14afce673900a087898af0f7298373d8a9bc682b62e8ef00c5d048634210",
+      "size_bytes": 284821,
+      "variant": "eames_lounge_chair_classic"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_classic/sketchup/HMI_Eames_Lounge_Chair_Classic.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c05e9164e26e55c6007d7cb5bcae18077832ec1a571f975b1fec8988b363518f",
+      "size_bytes": 989455,
+      "variant": "eames_lounge_chair_classic"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_classic/revit/extracted/HermanMiller_Ancillary_EamesLoungeChairAndOttoman.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7b55f278bcbd0f4e4b7376c3beb32a6f2c0a732afdec5822cb5434522bdf79bf",
+      "size_bytes": 1720320,
+      "variant": "eames_lounge_chair_classic"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_tall/autocad_3d/HMI_Eames_Lounge_Chair_Tall_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "a212b96835a206ff29722ab7fa14aa4a92b416f5f65e9b78022581ca930f6c4d",
+      "size_bytes": 310750,
+      "variant": "eames_lounge_chair_tall"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_tall/sketchup/HMI_Eames_Lounge_Chair_Tall.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "17cdc7522e775260a1a2fd65da25f615ae9b18ffc8226fb2f30973120dfd39dd",
+      "size_bytes": 984090,
+      "variant": "eames_lounge_chair_tall"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_lounge_chair_tall/revit/extracted/HermanMiller_Ancillary_EamesLoungeChairTallAndOttoman.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "ada4d9e4114d8dd4b9f87f7a63d4913d6560e569b9bc65458179faa551f5266b",
+      "size_bytes": 5128192,
+      "variant": "eames_lounge_chair_tall"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_ottoman/autocad_3d/HMI_Eames_Ottoman_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "eda1a658efcc3d3962431a912d25e4f520857a8a23346cf284872bdfa313eece",
+      "size_bytes": 88833,
+      "variant": "eames_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-lounge-chair-and-ottoman/eames_ottoman/sketchup/HMI_Eames_Ottoman.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "493e1ab83191f01fb2ab7a7713dbde59e9d7acb3f2ea935deaddd96f1f82e1c9",
+      "size_bytes": 282739,
+      "variant": "eames_ottoman"
+    }
+  ],
+  "updated_at": 1755362530
+}

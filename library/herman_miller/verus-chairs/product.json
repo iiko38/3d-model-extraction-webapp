@@ -1,0 +1,308 @@
+{
+  "brand": "herman_miller",
+  "product": "verus chairs",
+  "product_slug": "verus-chairs",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/zeph-chair-with-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/verus-chair-suspension-back-height-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/sayl-chair-suspension-mid-back-fully-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-soft-pad-chair-executive/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/cosm-chair-high-back-leaf-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/aeron-chair-b-size-fully-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-aluminum-group-chair-management-with-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/mirra-2-chair-suspension-back-adjustable-arms/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_armless/HMI_Verus_Chair_Polymer_Back_Armless_3D.dwg",
+      "stored_path": "verus_chair_polymer_back_armless/autocad_3d/HMI_Verus_Chair_Polymer_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "6bc4f81b8dccae72f5a0ff6a172321fb756d79a73630b87fc3d6ab286cec35f7",
+      "size_bytes": 930547,
+      "variant": "verus_chair_polymer_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_fixed_arms/HMI_Verus_Chair_Polymer_Back_Fixed_Arms_rfa.zip",
+      "stored_path": "verus_chair_polymer_back_fixed_arms/revit/HMI_Verus_Chair_Polymer_Back_Fixed_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "1fe901e27130531b45e0a7853c7fed420dd39da2953974f3ab59abb6c589c484",
+      "size_bytes": 4325881,
+      "variant": "verus_chair_polymer_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_armless/HMI_Verus_Chair_Polymer_Back_Armless.skp",
+      "stored_path": "verus_chair_polymer_back_armless/sketchup/HMI_Verus_Chair_Polymer_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "6d98e362262f79102ee3f9ab94e525d2b34571e875cf02c26ab758c17529d038",
+      "size_bytes": 2481511,
+      "variant": "verus_chair_polymer_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_height_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms_rfa.zip#zip",
+      "stored_path": "verus_chair_polymer_back_height_adjustable_arms/revit/extracted/HermanMiller_Seating_VerusWorkChairAssembledTriFlexPolymerBack.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "98e2180a4ff6f5151904b69fee3d25f8c2b918a85758aeb2fef196c6c90aee02",
+      "size_bytes": 4845568,
+      "variant": "verus_chair_polymer_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_fixed_arms/HMI_Verus_Chair_Polymer_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "verus_chair_polymer_back_fixed_arms/autocad_3d/HMI_Verus_Chair_Polymer_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e36864aa6311bb2625d8e99a33fba61fa54a596ea80fc016fbf905281610d489",
+      "size_bytes": 1187779,
+      "variant": "verus_chair_polymer_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_fixed_arms/HMI_Verus_Chair_Polymer_Back_Fixed_Arms.skp",
+      "stored_path": "verus_chair_polymer_back_fixed_arms/sketchup/HMI_Verus_Chair_Polymer_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "551015e5691b2dba0c9e5906c85d8a23a0d11e95b66a763ae0f65a068a1694f3",
+      "size_bytes": 3093694,
+      "variant": "verus_chair_polymer_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_height_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms_3D.dwg",
+      "stored_path": "verus_chair_polymer_back_height_adjustable_arms/autocad_3d/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5cd0c7994641a39ad2935857ad0d0ac8feedce9991dbf6963edbb151f1e87c6a",
+      "size_bytes": 1275801,
+      "variant": "verus_chair_polymer_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_fully_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Fully_Adjustable_Arms_rfa.zip",
+      "stored_path": "verus_chair_polymer_back_fully_adjustable_arms/revit/HMI_Verus_Chair_Polymer_Back_Fully_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "06e4bff4f1c08d2e90c98782856382acd33fabcf2ed47340ab25cb056e6feceb",
+      "size_bytes": 4325881,
+      "variant": "verus_chair_polymer_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_fully_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Fully_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_polymer_back_fully_adjustable_arms/sketchup/HMI_Verus_Chair_Polymer_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fca1eecab3b3e6a13981cfd8062e6c2b7b44e562bf9df19be5be04bae46689a7",
+      "size_bytes": 3365996,
+      "variant": "verus_chair_polymer_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_height_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms_rfa.zip",
+      "stored_path": "verus_chair_polymer_back_height_adjustable_arms/revit/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "4f6a99ddf074eada3b85d4cffe84e0b43e3ddd8b16f13a99ad12da5128f83d98",
+      "size_bytes": 4324159,
+      "variant": "verus_chair_polymer_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_polymer_back_height_adjustable_arms/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_polymer_back_height_adjustable_arms/sketchup/HMI_Verus_Chair_Polymer_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1b838111c31c04529a7ef0ef036bb2ce531e39ed100c46112670281980c91c36",
+      "size_bytes": 3374036,
+      "variant": "verus_chair_polymer_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_armless/HMI_Verus_Chair_Suspension_Back_Armless_3D.dwg",
+      "stored_path": "verus_chair_suspension_back_armless/autocad_3d/HMI_Verus_Chair_Suspension_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "dc092ddd03f259d712b5262cd8c65d8887634972d666d3189bebeaf562dd82c7",
+      "size_bytes": 1295633,
+      "variant": "verus_chair_suspension_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fixed_arms/HMI_Verus_Chair_Suspension_Back_Fixed_Arms_rfa.zip",
+      "stored_path": "verus_chair_suspension_back_height_adjustable_arms/revit/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "6eab867a0a3ab237bdd2c686a703d8f23566a9f5195a6d957adc9d8d8375ba14",
+      "size_bytes": 4415263,
+      "variant": "verus_chair_suspension_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_armless/HMI_Verus_Chair_Suspension_Back_Armless.skp",
+      "stored_path": "verus_chair_suspension_back_armless/sketchup/HMI_Verus_Chair_Suspension_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b8ca3599e7650df05ded94b32786e6ad473d5c56eb2bc2069c34e359363fb342",
+      "size_bytes": 3313767,
+      "variant": "verus_chair_suspension_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fully_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms_rfa.zip#zip",
+      "stored_path": "verus_chair_suspension_back_height_adjustable_arms/revit/extracted/HermanMiller_Seating_VerusWorkChairAssembledInterweave2SuspensionBack.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "51fa2a474cfe06d784b3bbcaad6908dba42fc58f54b594ad074a60f137993a16",
+      "size_bytes": 4886528,
+      "variant": "verus_chair_suspension_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fixed_arms/HMI_Verus_Chair_Suspension_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "verus_chair_suspension_back_fixed_arms/autocad_3d/HMI_Verus_Chair_Suspension_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0ee678316c94462d13df6d177b0a94f9316be2a80905dbbbd30865807eb7e877",
+      "size_bytes": 1496231,
+      "variant": "verus_chair_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fixed_arms/HMI_Verus_Chair_Suspension_Back_Fixed_Arms.skp",
+      "stored_path": "verus_chair_suspension_back_fixed_arms/sketchup/HMI_Verus_Chair_Suspension_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "24bf730abfbfc3ebd32e1da572b8caa11115bbf7be411835d2899bfc31ed55d0",
+      "size_bytes": 3925284,
+      "variant": "verus_chair_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fully_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms_3D.dwg",
+      "stored_path": "verus_chair_suspension_back_height_adjustable_arms/autocad_3d/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "62256aa610c2224bc120f4a520d9854af1e8046093d2dfd28443e878c8ec846b",
+      "size_bytes": 1572904,
+      "variant": "verus_chair_suspension_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fully_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms_rfa.zip",
+      "stored_path": "verus_chair_suspension_back_fully_adjustable_arms/revit/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "1b261f8f4aec2a074092bd2365d204034b7a0ed8becedefa7b43960c341fe087",
+      "size_bytes": 4415263,
+      "variant": "verus_chair_suspension_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_fully_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_suspension_back_fully_adjustable_arms/sketchup/HMI_Verus_Chair_Suspension_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "86b2ee7164ed42583c2329e70357f5bd2fd14fec157bc0298a35859f0cdf4bb5",
+      "size_bytes": 4165439,
+      "variant": "verus_chair_suspension_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_suspension_back_height_adjustable_arms/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_suspension_back_height_adjustable_arms/sketchup/HMI_Verus_Chair_Suspension_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "61c8f21b862d0c614820ca8e3fd1bcebe25419754ff2b8981475433409bda33a",
+      "size_bytes": 4164403,
+      "variant": "verus_chair_suspension_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_armless/HMI_Verus_Chair_Upholstered_Back_Armless_3D.dwg",
+      "stored_path": "verus_chair_upholstered_back_armless/autocad_3d/HMI_Verus_Chair_Upholstered_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "39cd8ebdecf31641b7e169fe4304f10f075a93198dd492960dcd0c9d607ba456",
+      "size_bytes": 1210479,
+      "variant": "verus_chair_upholstered_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_height_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms_rfa.zip",
+      "stored_path": "verus_chair_upholstered_back_height_adjustable_arms/revit/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "886e3c77f0126111ad94bbe84db27aaea4eae64698049aa1c6e1e774bba6f683",
+      "size_bytes": 4305065,
+      "variant": "verus_chair_upholstered_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_armless/HMI_Verus_Chair_Upholstered_Back_Armless.skp",
+      "stored_path": "verus_chair_upholstered_back_armless/sketchup/HMI_Verus_Chair_Upholstered_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fe4f67ebbb170548dcf44994e1f38f01f1e6fbafe659a90c350a1e55800b2259",
+      "size_bytes": 3381702,
+      "variant": "verus_chair_upholstered_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_height_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms_rfa.zip#zip",
+      "stored_path": "verus_chair_upholstered_back_height_adjustable_arms/revit/extracted/HermanMiller_Seating_VerusWorkChairAssembledUpholsteredBack.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c21240bb667fdbc9998874d0f8cc0a8862753134d5928438488f617a85cad261",
+      "size_bytes": 4399104,
+      "variant": "verus_chair_upholstered_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_fixed_arms/HMI_Verus_Chair_Upholstered_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "verus_chair_upholstered_back_fixed_arms/autocad_3d/HMI_Verus_Chair_Upholstered_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "88b4be51ac3603b107a4638183a4c6b3b2a0cf29683c0178e4d911de96987f7a",
+      "size_bytes": 1427765,
+      "variant": "verus_chair_upholstered_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_fixed_arms/HMI_Verus_Chair_Upholstered_Back_Fixed_Arms.skp",
+      "stored_path": "verus_chair_upholstered_back_fixed_arms/sketchup/HMI_Verus_Chair_Upholstered_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3a0d6f63d3437f28f92c4891bf14c19e4876069c5038cd415aeddec5e34724f2",
+      "size_bytes": 4055201,
+      "variant": "verus_chair_upholstered_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_fully_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms_3D.dwg",
+      "stored_path": "verus_chair_upholstered_back_fully_adjustable_arms/autocad_3d/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "2684b19234b58306fceebbecea9aa423f6a95a25a163a7437941e73a64d6cd89",
+      "size_bytes": 1493041,
+      "variant": "verus_chair_upholstered_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_fully_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms_rfa.zip",
+      "stored_path": "verus_chair_upholstered_back_fully_adjustable_arms/revit/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5bcce3360fcc7abbeccbd1295ef3600af7da121aa83ed2b2cc382ee79be34c4c",
+      "size_bytes": 4305065,
+      "variant": "verus_chair_upholstered_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_fully_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_upholstered_back_fully_adjustable_arms/sketchup/HMI_Verus_Chair_Upholstered_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a31366477c87a44356069fea0d0f186b1cc3d65883799407dcb749235794cb3b",
+      "size_bytes": 4325854,
+      "variant": "verus_chair_upholstered_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_height_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms_3D.dwg",
+      "stored_path": "verus_chair_upholstered_back_height_adjustable_arms/autocad_3d/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c4b2ffcde5aae9040205f06b07a54f19d2e8899c772d2eca91f7ddcab98f6b4b",
+      "size_bytes": 1347944,
+      "variant": "verus_chair_upholstered_back_height_adjustable_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_chairs/verus_chair_upholstered_back_height_adjustable_arms/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms.skp",
+      "stored_path": "verus_chair_upholstered_back_height_adjustable_arms/sketchup/HMI_Verus_Chair_Upholstered_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f9341a434cbf0e6e4cdef192b1e247a0dbccd54373bed1fdb99c1e98e060a7b7",
+      "size_bytes": 4325605,
+      "variant": "verus_chair_upholstered_back_height_adjustable_arms"
+    }
+  ],
+  "updated_at": 1755361678
+}

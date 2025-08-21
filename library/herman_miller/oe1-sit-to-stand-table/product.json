@@ -1,0 +1,84 @@
+{
+  "brand": "herman_miller",
+  "product": "oe1 sit to stand table",
+  "product_slug": "oe1-sit-to-stand-table",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/motia-sit-to-stand-table-rectangular-c-foot/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_rectangular_with_wrap/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap_3D.dwg",
+      "stored_path": "oe1_sit_to_stand_table_rectangular_with_wrap/autocad_3d/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "62b71ca47b149b4a093deb41641264ee13a4be93aa9aeb62ff4eda74b95d113d",
+      "size_bytes": 739044,
+      "variant": "oe1_sit_to_stand_table_rectangular_with_wrap"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_rectangular_with_wrap/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap_rfa.zip",
+      "stored_path": "oe1_sit_to_stand_table_rectangular_with_wrap/revit/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "a9d4aac89a696d70f6511a8cb3eaf8c14f4abed25f06054416d482c497eabb5d",
+      "size_bytes": 978610,
+      "variant": "oe1_sit_to_stand_table_rectangular_with_wrap"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_rectangular_with_wrap/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap.skp",
+      "stored_path": "oe1_sit_to_stand_table_rectangular_with_wrap/sketchup/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "93fcea0a33ec2b4e58d8df728f825f37c9b98292e79764fbc873d5219b32b669",
+      "size_bytes": 1982170,
+      "variant": "oe1_sit_to_stand_table_rectangular_with_wrap"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_rectangular_with_wrap/HMI_OE1_Sit_to_Stand_Table_Rectangular_with_Wrap_rfa.zip#zip",
+      "stored_path": "oe1_sit_to_stand_table_rectangular_with_wrap/revit/extracted/HermanMiller_OE1WorkspaceCollection_SitToStandTableRectangularRoundCorner.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "feabe3908645c993087c53e268c3993fc8d0a4901026bd3bc98ca578fa85b876",
+      "size_bytes": 1019904,
+      "variant": "oe1_sit_to_stand_table_rectangular_with_wrap"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_round/HMI_OE1_Sit_to_Stand_Table_Round_3D.dwg",
+      "stored_path": "oe1_sit_to_stand_table_round/autocad_3d/HMI_OE1_Sit_to_Stand_Table_Round_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1a100240203fc95adf7a9fdaa9b7b6f16f77a2807820d61dcd9363778e39b79a",
+      "size_bytes": 720537,
+      "variant": "oe1_sit_to_stand_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_round/HMI_OE1_Sit_to_Stand_Table_Round_rfa.zip",
+      "stored_path": "oe1_sit_to_stand_table_round/revit/HMI_OE1_Sit_to_Stand_Table_Round_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "54b39f159162360006fe671dc0a64e5ab3cae0a8b24614be6af02da206fa086b",
+      "size_bytes": 911806,
+      "variant": "oe1_sit_to_stand_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_round/HMI_OE1_Sit_to_Stand_Table_Round.skp",
+      "stored_path": "oe1_sit_to_stand_table_round/sketchup/HMI_OE1_Sit_to_Stand_Table_Round.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "0459ef9faefd1ea13e4e2f4b864dcb1c02a70d9e0fbcb15c42617896f69f0145",
+      "size_bytes": 1900236,
+      "variant": "oe1_sit_to_stand_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_sit_to_stand_table/oe1_sit_to_stand_table_round/HMI_OE1_Sit_to_Stand_Table_Round_rfa.zip#zip",
+      "stored_path": "oe1_sit_to_stand_table_round/revit/extracted/HermanMiller_OE1WorkspaceCollection_SitToStandTableRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "87f97f0b1a42ff500cd6e08554bbcfe3e2d52ffa536040f0e792b4bf9ffd7068",
+      "size_bytes": 954368,
+      "variant": "oe1_sit_to_stand_table_round"
+    }
+  ],
+  "updated_at": 1755361678
+}

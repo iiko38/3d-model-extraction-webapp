@@ -1,0 +1,48 @@
+{
+  "brand": "herman_miller",
+  "product": "mirra 2 stool",
+  "product_slug": "mirra-2-stool",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/leeway-stool-bar-height-wood-seat/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/m/mirra_2_stool/mirra_2_stool_suspension_back_fixed_arms/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "mirra_2_stool_suspension_back_fixed_arms/autocad_3d/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4850ac72ec763567e5ce7f6afa06b997be206bd5fd2bfc3ed7be4fe1bdc2d3e8",
+      "size_bytes": 2829165,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/m/mirra_2_stool/mirra_2_stool_suspension_back_fixed_arms/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_rfa.zip",
+      "stored_path": "mirra_2_stool_suspension_back_fixed_arms/revit/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "a5c1477570404e2a61688507c883ad1cbb52f1d94e2c85aceb43993f72cae902",
+      "size_bytes": 4473620,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/m/mirra_2_stool/mirra_2_stool_suspension_back_fixed_arms/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms.skp",
+      "stored_path": "mirra_2_stool_suspension_back_fixed_arms/sketchup/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ba70a0ed830183a389573968957ecd9b0d4532226c6c21dba941fb3d9259f45d",
+      "size_bytes": 5498679,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/m/mirra_2_stool/mirra_2_stool_suspension_back_fixed_arms/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_rfa.zip#zip",
+      "stored_path": "mirra_2_stool_suspension_back_fixed_arms/revit/extracted/HermanMiller_Seating_Mirra2Stool.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2cbffb796bfc81a4697a2f65a7072bc463ad900304d02b323dd7eeda9334d932",
+      "size_bytes": 4853760,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    }
+  ],
+  "updated_at": 1755361678
+}

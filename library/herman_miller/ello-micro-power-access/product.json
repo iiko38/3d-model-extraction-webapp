@@ -1,0 +1,48 @@
+{
+  "brand": "herman_miller",
+  "product": "ello micro power access",
+  "product_slug": "ello-micro-power-access",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_micro_power_access/HMI_Ello_Micro_Power_Access.skp",
+      "stored_path": "HMI_Ello_Micro_Power_Access.skp/sketchup/HMI_Ello_Micro_Power_Access.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "40bfe7f540287c94924b296f56d0dcc3829477dfa69f727fbade9236066aa7d4",
+      "size_bytes": 44482,
+      "variant": "HMI_Ello_Micro_Power_Access.skp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_micro_power_access/HMI_Ello_Micro_Power_Access_3D.dwg",
+      "stored_path": "HMI_Ello_Micro_Power_Access_3D.dwg/autocad_3d/HMI_Ello_Micro_Power_Access_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "afe44956ee5345b75430e9a0f3096e077ab57d9bfc5aac04d093b265dcc1eadc",
+      "size_bytes": 35976,
+      "variant": "HMI_Ello_Micro_Power_Access_3D.dwg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_micro_power_access/HMI_Ello_Micro_Power_Access_rfa.zip",
+      "stored_path": "HMI_Ello_Micro_Power_Access_rfa.zip/revit/HMI_Ello_Micro_Power_Access_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "7133d1b679bdf1345c0a7ad589c309b7062f01122d8d6f3c237e1f14fb24dd5f",
+      "size_bytes": 358800,
+      "variant": "HMI_Ello_Micro_Power_Access_rfa.zip"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_micro_power_access/HMI_Ello_Micro_Power_Access_rfa.zip#zip",
+      "stored_path": "HMI_Ello_Micro_Power_Access_rfa.zip/revit/extracted/HermanMiller_ThrivePortfolio_ElloDCUSBCPowerModuleInsurfaceAssembly.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "14e59f52465446272578512bb4e4a3f55fd5896b5986475b0de94826c2c0fb9c",
+      "size_bytes": 389120,
+      "variant": "HMI_Ello_Micro_Power_Access_rfa.zip"
+    }
+  ],
+  "updated_at": 1755361678
+}

@@ -1,0 +1,37 @@
+{
+  "brand": "herman_miller",
+  "product": "spout sit to stand table",
+  "product_slug": "spout_sit_to_stand_table",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/spout-sit-to-stand-table/HMI_Spout_Sit_to_Stand_Table.skp/sketchup/HMI_Spout_Sit_to_Stand_Table.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "68dd56c1d43d37783be827da86bf7957d9969fb6575bec0c38e077bd8feca10c",
+      "size_bytes": 2313213,
+      "variant": "HMI_Spout_Sit_to_Stand_Table.skp"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/spout-sit-to-stand-table/HMI_Spout_Sit_to_Stand_Table_3D.dwg/autocad_3d/HMI_Spout_Sit_to_Stand_Table_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "b3a8167fb22525c99e73eb18f6ede7627713b82785151edcd13d3be5ad7905b2",
+      "size_bytes": 621760,
+      "variant": "HMI_Spout_Sit_to_Stand_Table_3D.dwg"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/spout-sit-to-stand-table/HMI_Spout_Sit_to_Stand_Table_rfa.zip/revit/extracted/HermanMiller_TablesandFurniture_SpoutHeightAdjustableTablewith4Legs.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2d81ea80379de02b0dbdca0e851dbd6fe299b4a84ee2d850e2c06b594364c6bd",
+      "size_bytes": 3063808,
+      "variant": "HMI_Spout_Sit_to_Stand_Table_rfa.zip"
+    }
+  ],
+  "updated_at": 1755362530
+}

@@ -1,0 +1,127 @@
+{
+  "brand": "geiger",
+  "product": "leeway stool",
+  "product_slug": "leeway_stool",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_polyurethane_seat/autocad_3d/GGR_Leeway_Stool_Bar_Height_Polyurethane_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0e58bd1662a70235f874eab9231bd9d5dc3973fbd614d03e6be812c6b451fb26",
+      "size_bytes": 1739722,
+      "variant": "leeway_stool_bar_height_polyurethane_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_polyurethane_seat/sketchup/GGR_Leeway_Stool_Bar_Height_Polyurethane_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "243b1ab9318abd8525322743fd94dcdb56691cda758b1548bbec96825bb955db",
+      "size_bytes": 1710952,
+      "variant": "leeway_stool_bar_height_polyurethane_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_polyurethane_seat/revit/extracted/HermanMiller_Ancillary_LeewayStool.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1deb8f0c9078e28abdf3b09cb2f4a5580c3a5a3dfd9b39ebef4201c3a21e4786",
+      "size_bytes": 4653056,
+      "variant": "leeway_stool_bar_height_polyurethane_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_upholstered_seat/autocad_3d/GGR_Leeway_Stool_Bar_Height_Upholstered_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d06b0c08050e30e583daef9c185ec2c0cc09f09a1ad446562ef5ecd4e3ce25a8",
+      "size_bytes": 1804678,
+      "variant": "leeway_stool_bar_height_upholstered_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_upholstered_seat/sketchup/GGR_Leeway_Stool_Bar_Height_Upholstered_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "5bc0190c729c0ac13fbe57f9ef0943d52134178d88701044388c2685bdc88d38",
+      "size_bytes": 4551300,
+      "variant": "leeway_stool_bar_height_upholstered_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_wood_seat/autocad_3d/GGR_Leeway_Stool_Bar_Height_Wood_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0096d8d9ea0a6521e097a4ce7e2824b4791da5e3007b08cfb9fcedd0d15310a0",
+      "size_bytes": 1749905,
+      "variant": "leeway_stool_bar_height_wood_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_bar_height_wood_seat/sketchup/GGR_Leeway_Stool_Bar_Height_Wood_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "d8f947b35916d8099be2a45d5cbe476bd6ed483b3e58b490c3271f7f9176ddd4",
+      "size_bytes": 1808986,
+      "variant": "leeway_stool_bar_height_wood_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_polyurethane_seat/autocad_3d/GGR_Leeway_Stool_Counter_Height_Polyurethane_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "da0a3b77222641b974bfc2bb8be0592e246e3e29407cebb0d447e4352e2f8cbd",
+      "size_bytes": 1509290,
+      "variant": "leeway_stool_counter_height_polyurethane_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_polyurethane_seat/sketchup/GGR_Leeway_Stool_Counter_Height_Polyurethane_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f2d957927dba1026223bce8d9f463ddfff722ce920efd01ef43e3daf0aa9f1b5",
+      "size_bytes": 1722189,
+      "variant": "leeway_stool_counter_height_polyurethane_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_upholstered_seat/autocad_3d/GGR_Leeway_Stool_Counter_Height_Upholstered_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d71c0309564c148d7d7a40012791eed14e3250dce3090f2ff1fa6c6804820f48",
+      "size_bytes": 1556978,
+      "variant": "leeway_stool_counter_height_upholstered_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_upholstered_seat/sketchup/GGR_Leeway_Stool_Counter_Height_Upholstered_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "be5e65fd158fd30abc8d7f6db28d82c86176397dadd901064bcf6fa39c8803f1",
+      "size_bytes": 4551778,
+      "variant": "leeway_stool_counter_height_upholstered_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_wood_seat/autocad_3d/GGR_Leeway_Stool_Counter_Height_Wood_Seat_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5f0f0940f43a7f068d4ce1b3fd714f43b71239dd118a567de1d8711b0671b68d",
+      "size_bytes": 1520042,
+      "variant": "leeway_stool_counter_height_wood_seat"
+    },
+    {
+      "source_url": null,
+      "stored_path": "geiger/leeway-stool/leeway_stool_counter_height_wood_seat/sketchup/GGR_Leeway_Stool_Counter_Height_Wood_Seat.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b3eb645533545c46049ddcd3ed6353a2517bc6a3facb30ab649c9e87b6aa8996",
+      "size_bytes": 1801728,
+      "variant": "leeway_stool_counter_height_wood_seat"
+    }
+  ],
+  "updated_at": 1755362530
+}

@@ -1,0 +1,325 @@
+{
+  "brand": "herman_miller",
+  "product": "renew sit to stand tables",
+  "product_slug": "renew_sit_to_stand_tables",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Power_and_Data_Support/HermanMiller_TablesandFurniture_DU11B_RenewExternalCableManager.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "88820b6b954e8b462ae97a330e7bd531d63c9b3ec1529dd3404c6a4276621b0e",
+      "size_bytes": 364544,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Power_and_Data_Support/HermanMiller_TablesandFurniture_DU11S_RenewEnhancedCableTrough.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4428d987b1718ff91948f35bba95399a49627589fc1258655dea08a1118e02c0",
+      "size_bytes": 344064,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_NeviLinkEndCapsBasicCableTrough.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "3cc08819c58af5b894eb458d125226b9d06805acee6a5cbf9265011dbc49649e",
+      "size_bytes": 376832,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_TableBaseKit-2LegsC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e046e41cf28a653783fe7f8258f727feaeae3978a5ea364176d6fb7789b195f1",
+      "size_bytes": 1216512,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_TableBaseKit-2LegsT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "219b2a34eaf6d6ac1e69d2bd4a4aa159ac18bfecda5c3bb4a19c02c1b9f4ad64",
+      "size_bytes": 700416,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_TableBaseKit-3Legs.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fde3fc2f8d97661025eb1ea8ed1004ed714624e1fe3af7e30d895c7ad3fc78ce",
+      "size_bytes": 1523712,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_TablesandFurniture_RenewEnhancedCableTrough.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0cd80231611091d52716ee277cb3b9a611437e49b008ec4621e4a68a267c69c3",
+      "size_bytes": 372736,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_TablesandFurniture_RenewExternalCableManager.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "d11e91ee5f793812675f720ecd3799567c1c60d92d954e6b266ec34ef9a0aadd",
+      "size_bytes": 512000,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_Canvas_FlatEdgeScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "99c2c43adb94129ae521fbbd0df4e236edc8fdfb1d2ecbd53098f8791c0393c4",
+      "size_bytes": 1110016,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_Canvas_PariScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "6e9829f2d36935f7e95bda8d46352d0d19b1209acf7c1e655eb2287a5a4a0769",
+      "size_bytes": 626688,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_FabricModestyPanel.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e49bded9a3a9d78de782ef2f319b138182abb30494442d80ffed0ec124ca7113",
+      "size_bytes": 499712,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_LaminateScreenSurfaceAttached.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e96bf3c27ac69fd83b37b0029dec3a0eb7ab3d7f3ba64b2acd2f5d70becdcde4",
+      "size_bytes": 1433600,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_ModestyPanel.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a09b3cd093f15caa361ee4736ed3b1c5225cb64b609bd317fdfdd3de4df0ef3f",
+      "size_bytes": 544768,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_PersonalSideScreen.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7ab7d41b603a26305d7521143e99521ccfd1833f63e206f1b3450bebca62fe28",
+      "size_bytes": 585728,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_PersonalSideScreenRectangular.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bad98bc744f4067e5c6bcf17cc2c88504b45a911b553373316e0afc043106676",
+      "size_bytes": 569344,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_Surface-AttachedScreen.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f1ef21c343eae49364e038b41046f297fe3fb24e1c7772f0c4c83816422bb7eb",
+      "size_bytes": 1736704,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/hmi_renew_sit_to_stand_tables/revit/extracted/HMI_Renew_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_SurfaceAttachedScreenFlatEdge.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bd3de3b5da6b15c9321fc4398498f5f9abafc86383640326a4df3f591524832a",
+      "size_bytes": 1921024,
+      "variant": "hmi_renew_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_120_degree_corner/autocad_3d/HMI_Renew_Sit_to_Stand_Table_120_Degree_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0b8a69826d174156172b513df7f4082727e19476327bb2a71d425f1d7e29516d",
+      "size_bytes": 222746,
+      "variant": "renew_sit_to_stand_table_120_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_120_degree_corner/sketchup/HMI_Renew_Sit_to_Stand_Table_120_Degree_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "56e1c17d0fc7cf6c69de4f254f84fd562e78aaca9051427ba4a1a45c50bf4d95",
+      "size_bytes": 537317,
+      "variant": "renew_sit_to_stand_table_120_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_120_degree_corner/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_120CornerTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "88a1572b85a47bef22032af6fdbb109b10de5735a19dfa1eb12f4455bb02c066",
+      "size_bytes": 1114112,
+      "variant": "renew_sit_to_stand_table_120_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_90_degree_corner/autocad_3d/HMI_Renew_Sit_to_Stand_Table_90_Degree_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4dd3dfc93315e34c6df93cd5386189163d1da5af1161c0c7c46f8cb52640a738",
+      "size_bytes": 211453,
+      "variant": "renew_sit_to_stand_table_90_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_90_degree_corner/sketchup/HMI_Renew_Sit_to_Stand_Table_90_Degree_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e124c3c3af5ef329185046365e36ab69290b862d80a3dff8c85183cdbeea4ecf",
+      "size_bytes": 538809,
+      "variant": "renew_sit_to_stand_table_90_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_90_degree_corner/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_90CornerTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e302ca879c01bcee7ce0e225346b595d4f0e2a6b223f8fea078acb5def069354",
+      "size_bytes": 2072576,
+      "variant": "renew_sit_to_stand_table_90_degree_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_extended_corner/autocad_3d/HMI_Renew_Sit_to_Stand_Table_Extended_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "a0925965699b94c59090a7445692f2f034d7358e57f7e824a75cd4a3bf66f04b",
+      "size_bytes": 305528,
+      "variant": "renew_sit_to_stand_table_extended_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_extended_corner/sketchup/HMI_Renew_Sit_to_Stand_Table_Extended_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "6afe40cf8aa8b60632f393b7dc78678a824f3722bb74cc19668384c95efa86b0",
+      "size_bytes": 792373,
+      "variant": "renew_sit_to_stand_table_extended_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_extended_corner/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_90ExtendedCornerTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "93c44878a744962626b5748b728fff502051174ee8d1b9719ca5619b344b9570",
+      "size_bytes": 5677056,
+      "variant": "renew_sit_to_stand_table_extended_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_oval/autocad_3d/HMI_Renew_Sit_to_Stand_Table_Oval_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "ed5825f33de0caeb5487a97a24188b13e4e405f010133a14df99ef099feeccf6",
+      "size_bytes": 223110,
+      "variant": "renew_sit_to_stand_table_oval"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_oval/sketchup/HMI_Renew_Sit_to_Stand_Table_Oval.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "bc35610b6b4c6199a2b3e6100ad9f37502ec9a04fded7bd24c117739caed05dc",
+      "size_bytes": 561828,
+      "variant": "renew_sit_to_stand_table_oval"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_oval/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_OvalTableT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f8401f4cb1fc8436633f8871244211cf72788aca82a1cc4e6999a4fdc04517cd",
+      "size_bytes": 1679360,
+      "variant": "renew_sit_to_stand_table_oval"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_c_foot/autocad_3d/HMI_Renew_Sit_to_Stand_Table_Rectangular_C_Foot_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "61e8bf077b787d0e419c572d908d418ba3b89b447350eff21a9b5c8d90416b5d",
+      "size_bytes": 208186,
+      "variant": "renew_sit_to_stand_table_rectangular_c_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_c_foot/sketchup/HMI_Renew_Sit_to_Stand_Table_Rectangular_C_Foot.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "510085d4c36b43cd92e568099980b3baf3e1925386966311288fbe7cdf141c6f",
+      "size_bytes": 539573,
+      "variant": "renew_sit_to_stand_table_rectangular_c_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_c_foot/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_RectangularCounterbalanceTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "187264661876ca4287a48e32a41a6baa5421c93d3e57884138fbae3fda0711be",
+      "size_bytes": 2543616,
+      "variant": "renew_sit_to_stand_table_rectangular_c_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_t_foot/autocad_3d/HMI_Renew_Sit_to_Stand_Table_Rectangular_T_Foot_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "3f3e5f6337d73bf2faf783d3659f0e8b411d75ed4dd3c382f4adbdbb5092f496",
+      "size_bytes": 202334,
+      "variant": "renew_sit_to_stand_table_rectangular_t_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_t_foot/sketchup/HMI_Renew_Sit_to_Stand_Table_Rectangular_T_Foot.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "332cfb47fcb24a0d7cd80368ae058c182e55fdb12a261275b9eefa5f0891370d",
+      "size_bytes": 542684,
+      "variant": "renew_sit_to_stand_table_rectangular_t_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/renew-sit-to-stand-tables/renew_sit_to_stand_table_rectangular_t_foot/revit/extracted/HermanMiller_TablesandFurniture_Renew_SqEdge_RectangularTableT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a0dde3baf1d525cda5298cfe73f5c4a4644757208f751a4a3bdfc81f6009f5f1",
+      "size_bytes": 6799360,
+      "variant": "renew_sit_to_stand_table_rectangular_t_foot"
+    }
+  ],
+  "updated_at": 1755362530
+}

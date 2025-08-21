@@ -1,0 +1,37 @@
+{
+  "brand": "herman_miller",
+  "product": "oe1 communal tables",
+  "product_slug": "oe1_communal_tables",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/oe1-communal-tables/oe1_communal_table_screen_fabric-/autocad_3d/HMI_OE1_Communal_Table_Screen_Fabric_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8face3d022d9efc0dd2aab21d2b43d84bcbc9bf3039033ebf1e32550d5f3493d",
+      "size_bytes": 48647,
+      "variant": "oe1_communal_table_screen_fabric-"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/oe1-communal-tables/oe1_communal_table_screen_fabric-/sketchup/HMI_OE1_Communal_Table_Screen_Fabric.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "164a394eb818c7b5920218ef5787f387642e4a8796b269fb3ab3f3186d835ed2",
+      "size_bytes": 82045,
+      "variant": "oe1_communal_table_screen_fabric-"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/oe1-communal-tables/oe1_communal_table_screen_fabric-/revit/extracted/HermanMiller_OE1WorkspaceCollection_StandingWorkBarFlatEdgeScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4735b5cfe8bae98b23df4702026d37de560b4d975037b62299455baf5ff29291",
+      "size_bytes": 540672,
+      "variant": "oe1_communal_table_screen_fabric-"
+    }
+  ],
+  "updated_at": 1755362530
+}

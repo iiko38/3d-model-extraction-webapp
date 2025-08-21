@@ -1,0 +1,50 @@
+{
+  "brand": "herman_miller",
+  "product": "spout sit to stand table",
+  "product_slug": "spout-sit-to-stand-table",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/renew-sit-to-stand-table-120-degree-corner/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/motia-sit-to-stand-table-rectangular-c-foot/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/spout_sit_to_stand_table/HMI_Spout_Sit_to_Stand_Table.skp",
+      "stored_path": "HMI_Spout_Sit_to_Stand_Table.skp/sketchup/HMI_Spout_Sit_to_Stand_Table.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "68dd56c1d43d37783be827da86bf7957d9969fb6575bec0c38e077bd8feca10c",
+      "size_bytes": 2313213,
+      "variant": "HMI_Spout_Sit_to_Stand_Table.skp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/spout_sit_to_stand_table/HMI_Spout_Sit_to_Stand_Table_3D.dwg",
+      "stored_path": "HMI_Spout_Sit_to_Stand_Table_3D.dwg/autocad_3d/HMI_Spout_Sit_to_Stand_Table_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "b3a8167fb22525c99e73eb18f6ede7627713b82785151edcd13d3be5ad7905b2",
+      "size_bytes": 621760,
+      "variant": "HMI_Spout_Sit_to_Stand_Table_3D.dwg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/spout_sit_to_stand_table/HMI_Spout_Sit_to_Stand_Table_rfa.zip",
+      "stored_path": "HMI_Spout_Sit_to_Stand_Table_rfa.zip/revit/HMI_Spout_Sit_to_Stand_Table_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "c02dc3918d09ef68e04ae5baa1e508c7a528a6e94ef9051835ac35956a8e790b",
+      "size_bytes": 2949387,
+      "variant": "HMI_Spout_Sit_to_Stand_Table_rfa.zip"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/spout_sit_to_stand_table/HMI_Spout_Sit_to_Stand_Table_rfa.zip#zip",
+      "stored_path": "HMI_Spout_Sit_to_Stand_Table_rfa.zip/revit/extracted/HermanMiller_TablesandFurniture_SpoutHeightAdjustableTablewith4Legs.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2d81ea80379de02b0dbdca0e851dbd6fe299b4a84ee2d850e2c06b594364c6bd",
+      "size_bytes": 3063808,
+      "variant": "HMI_Spout_Sit_to_Stand_Table_rfa.zip"
+    }
+  ],
+  "updated_at": 1755361678
+}

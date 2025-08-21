@@ -1,0 +1,48 @@
+{
+  "brand": "herman_miller",
+  "product": "oe1 mobile easel",
+  "product_slug": "oe1-mobile-easel",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/everywhere-table-round-corner/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_mobile_easel/oe1_mobile_easel_project_board/HMI_OE1_Mobile_Easel_Project_Board_3D.dwg",
+      "stored_path": "oe1_mobile_easel_project_board/autocad_3d/HMI_OE1_Mobile_Easel_Project_Board_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4e3849f3a3ddb8c87031be5903cd208d7acc1b3b8550303409f2d1b0352c282f",
+      "size_bytes": 31424,
+      "variant": "oe1_mobile_easel_project_board"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_mobile_easel/oe1_mobile_easel_project_board/HMI_OE1_Mobile_Easel_Project_Board_rfa.zip",
+      "stored_path": "oe1_mobile_easel_project_board/revit/HMI_OE1_Mobile_Easel_Project_Board_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "30b2d3c46d85b36b4fdefec07b590a95509f7373d2cab99bee2693d6f1903d81",
+      "size_bytes": 335756,
+      "variant": "oe1_mobile_easel_project_board"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_mobile_easel/oe1_mobile_easel_project_board/HMI_OE1_Mobile_Easel_Project_Board.skp",
+      "stored_path": "oe1_mobile_easel_project_board/sketchup/HMI_OE1_Mobile_Easel_Project_Board.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e5f2caffb7b16d04a7ae20290f90a34be974391f07b97d878df60c5e564ea05e",
+      "size_bytes": 32972,
+      "variant": "oe1_mobile_easel_project_board"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_mobile_easel/oe1_mobile_easel_project_board/HMI_OE1_Mobile_Easel_Project_Board_rfa.zip#zip",
+      "stored_path": "oe1_mobile_easel_project_board/revit/extracted/HermanMiller_OE1WorkspaceCollection_ProjectBoard.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "9cad115f99c204c3e55b9dc66bf5978f888d75c955dba23a8bf8f5d7047ff8a0",
+      "size_bytes": 368640,
+      "variant": "oe1_mobile_easel_project_board"
+    }
+  ],
+  "updated_at": 1755361678
+}

@@ -1,0 +1,86 @@
+{
+  "brand": "herman_miller",
+  "product": "verus side chairs",
+  "product_slug": "verus-side-chairs",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-plastic-armchair-dowel-base-nonupholstered/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-fiberglass-armchair-dowel-base-nonupholstered/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_suspension_back_fixed_arms/HMI_Verus_Side_Chair_Suspension_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "verus_side_chair_suspension_back_fixed_arms/autocad_3d/HMI_Verus_Side_Chair_Suspension_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "26ac787904cf096886f0bb0b997613ec7ef411e8905e350b76ee31f3eab7e39b",
+      "size_bytes": 1235561,
+      "variant": "verus_side_chair_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_fixed_arms/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms_rfa.zip",
+      "stored_path": "verus_side_chair_upholstered_back_fixed_arms/revit/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "744e4ff538f98c1ceab63e7da14c021683e7f37bd9b02d6c2a00d6579f615fd2",
+      "size_bytes": 1969548,
+      "variant": "verus_side_chair_upholstered_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_suspension_back_fixed_arms/HMI_Verus_Side_Chair_Suspension_Back_Fixed_Arms.skp",
+      "stored_path": "verus_side_chair_suspension_back_fixed_arms/sketchup/HMI_Verus_Side_Chair_Suspension_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ce6a2d0ac88882b9e4de2355801be3c576c89c740a9c5327fefa2ddf36b593a7",
+      "size_bytes": 2817386,
+      "variant": "verus_side_chair_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_fixed_arms/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms_rfa.zip#zip",
+      "stored_path": "verus_side_chair_upholstered_back_fixed_arms/revit/extracted/HermanMiller_Seating_VerusSideChair4-LegBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4b65bfbf22b447c0aa2e23c6ad7c47c0052b1bf4f45d529fd2dce0532212b7ea",
+      "size_bytes": 2138112,
+      "variant": "verus_side_chair_upholstered_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_armless/HMI_Verus_Side_Chair_Upholstered_Back_Armless_3D.dwg",
+      "stored_path": "verus_side_chair_upholstered_back_armless/autocad_3d/HMI_Verus_Side_Chair_Upholstered_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "f80e68aa256e63266b8f91c6f0f667ad28e478b46b234d0d7a37ce441121ed80",
+      "size_bytes": 1023350,
+      "variant": "verus_side_chair_upholstered_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_armless/HMI_Verus_Side_Chair_Upholstered_Back_Armless.skp",
+      "stored_path": "verus_side_chair_upholstered_back_armless/sketchup/HMI_Verus_Side_Chair_Upholstered_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b66bd894b8329fb4aea4f5af119be7425059785679d01f5cf93a5a0d7b16ef79",
+      "size_bytes": 2327707,
+      "variant": "verus_side_chair_upholstered_back_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_fixed_arms/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms_3D.dwg",
+      "stored_path": "verus_side_chair_upholstered_back_fixed_arms/autocad_3d/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0abb652f033b3257b1563624781ea64031280e16d0fda2c7b20504e2e2e67f3e",
+      "size_bytes": 1212417,
+      "variant": "verus_side_chair_upholstered_back_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/v/verus_side_chairs/verus_side_chair_upholstered_back_fixed_arms/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms.skp",
+      "stored_path": "verus_side_chair_upholstered_back_fixed_arms/sketchup/HMI_Verus_Side_Chair_Upholstered_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e89b7c80a0bf968c69b60fd293adef5ac2ffcf3f79c3fc98f1626dcfe39ebd63",
+      "size_bytes": 2775369,
+      "variant": "verus_side_chair_upholstered_back_fixed_arms"
+    }
+  ],
+  "updated_at": 1755361678
+}

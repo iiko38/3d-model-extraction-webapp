@@ -1,0 +1,75 @@
+{
+  "brand": "herman_miller",
+  "product": "ello mini power access",
+  "product_slug": "ello-mini-power-access",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_surface_clamp/HMI_Ello_Mini_Power_Access_Surface_Clamp_3D.dwg",
+      "stored_path": "ello_mini_power_access_surface_clamp/autocad_3d/HMI_Ello_Mini_Power_Access_Surface_Clamp_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "bc6381e36bc809abe16a5e426b203c3a1e5ca7f332da4955cb0e2d1d18adc4e8",
+      "size_bytes": 59061,
+      "variant": "ello_mini_power_access_surface_clamp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_surface_clamp/HMI_Ello_Mini_Power_Access_Surface_Clamp_rfa.zip",
+      "stored_path": "ello_mini_power_access_surface_clamp/revit/HMI_Ello_Mini_Power_Access_Surface_Clamp_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "a3ec70b3dddf76fd8b7821a827a9e590b49980edb1bd9c851a8dd026aeb4b6c5",
+      "size_bytes": 387361,
+      "variant": "ello_mini_power_access_surface_clamp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_surface_clamp/HMI_Ello_Mini_Power_Access_Surface_Clamp.skp",
+      "stored_path": "ello_mini_power_access_surface_clamp/sketchup/HMI_Ello_Mini_Power_Access_Surface_Clamp.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "757bb80595cea8f904fe4385196883f07845749d60def022cd333f3880a1a0cd",
+      "size_bytes": 123529,
+      "variant": "ello_mini_power_access_surface_clamp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_undermount/HMI_Ello_Mini_Power_Access_Undermount_rfa.zip#zip",
+      "stored_path": "ello_mini_power_access_undermount/revit/extracted/HermanMiller_ThrivePortfolio_ElloDCUSBCPowerModuleAssembly.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e494fb3bff6e1a9f7692f6c1f599c8c7b5b740c41f194f2a69e956b2918626ee",
+      "size_bytes": 421888,
+      "variant": "ello_mini_power_access_undermount"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_undermount/HMI_Ello_Mini_Power_Access_Undermount_3D.dwg",
+      "stored_path": "ello_mini_power_access_undermount/autocad_3d/HMI_Ello_Mini_Power_Access_Undermount_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8992aa48484dccbd1e2e467647367ed7f8c5dc3e3df2bc9e8d120507457b96c1",
+      "size_bytes": 52233,
+      "variant": "ello_mini_power_access_undermount"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_undermount/HMI_Ello_Mini_Power_Access_Undermount_rfa.zip",
+      "stored_path": "ello_mini_power_access_undermount/revit/HMI_Ello_Mini_Power_Access_Undermount_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "7f826dd55d8eb45c983c204d55ab89345ac168246eaf5c332731716f740db61e",
+      "size_bytes": 387361,
+      "variant": "ello_mini_power_access_undermount"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/ello_mini_power_access/ello_mini_power_access_undermount/HMI_Ello_Mini_Power_Access_Undermount.skp",
+      "stored_path": "ello_mini_power_access_undermount/sketchup/HMI_Ello_Mini_Power_Access_Undermount.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e5350a5c8fc7107c0da6bf25b01f2e22c9690da325640f7f3541ea5518c1f7fa",
+      "size_bytes": 110278,
+      "variant": "ello_mini_power_access_undermount"
+    }
+  ],
+  "updated_at": 1755361678
+}

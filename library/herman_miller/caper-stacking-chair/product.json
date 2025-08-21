@@ -1,0 +1,142 @@
+{
+  "brand": "herman_miller",
+  "product": "caper stacking chair",
+  "product_slug": "caper-stacking-chair",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/zeph-chair-with-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-plastic-armchair-dowel-base-nonupholstered/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/caper-stacking-chair-fixed-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-fiberglass-armchair-dowel-base-nonupholstered/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_armless/HMI_Caper_Stacking_Chair_Armless_3D.dwg",
+      "stored_path": "caper_stacking_chair_armless/autocad_3d/HMI_Caper_Stacking_Chair_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "71a86e0443af96b4382a4eab0f43190b5f55ca345f8dacbb01e43b3bdd8e8193",
+      "size_bytes": 215806,
+      "variant": "caper_stacking_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_armless/HMI_Caper_Stacking_Chair_Armless_rfa.zip",
+      "stored_path": "caper_stacking_chair_armless/revit/HMI_Caper_Stacking_Chair_Armless_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "811a1af6eb1f93a3100fac727d1341a7902e6aa437f3d2ca1022310452b6238d",
+      "size_bytes": 1621341,
+      "variant": "caper_stacking_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_armless/HMI_Caper_Stacking_Chair_Armless.skp",
+      "stored_path": "caper_stacking_chair_armless/sketchup/HMI_Caper_Stacking_Chair_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "41773c6d90faeade26ccd2c3e95fc6fd22d0922f423b0b4d09066fedb2eb01d6",
+      "size_bytes": 680816,
+      "variant": "caper_stacking_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_armless/HMI_Caper_Stacking_Chair_Armless_rfa.zip#zip",
+      "stored_path": "caper_stacking_chair_fixed_arms/revit/extracted/HermanMiller_Seating_CaperStackingChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "9ffb4711a1728294a9da5f401795a9cb73234b43ffe3ec6060705d6b73c51031",
+      "size_bytes": 1683456,
+      "variant": "caper_stacking_chair_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_fixed_arms/HMI_Caper_Stacking_Chair_Fixed_Arms_3D.dwg",
+      "stored_path": "caper_stacking_chair_fixed_arms/autocad_3d/HMI_Caper_Stacking_Chair_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e1d4209f84b3220c13023eb7938248c0eb30715c20d7614dade2446bdea660ca",
+      "size_bytes": 261137,
+      "variant": "caper_stacking_chair_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_fixed_arms/HMI_Caper_Stacking_Chair_Fixed_Arms_rfa.zip",
+      "stored_path": "caper_stacking_chair_fixed_arms/revit/HMI_Caper_Stacking_Chair_Fixed_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "d032775046291e572eff0691d4d78feaed852a63c8348028ae9aa179cd7d962f",
+      "size_bytes": 1621341,
+      "variant": "caper_stacking_chair_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_fixed_arms/HMI_Caper_Stacking_Chair_Fixed_Arms.skp",
+      "stored_path": "caper_stacking_chair_fixed_arms/sketchup/HMI_Caper_Stacking_Chair_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e1e800f836d52cafb052b061485d34a101133d5e31d0dc9faa7e026483fe8796",
+      "size_bytes": 809748,
+      "variant": "caper_stacking_chair_fixed_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_left/HMI_Caper_Stacking_Chair_Tablet_Arm_Left_3D.dwg",
+      "stored_path": "caper_stacking_chair_tablet_arm_left/autocad_3d/HMI_Caper_Stacking_Chair_Tablet_Arm_Left_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "dc0d9c519b7a25adf4ac0d17364f936b91852753beaba05fa33a74935e353b02",
+      "size_bytes": 974416,
+      "variant": "caper_stacking_chair_tablet_arm_left"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_left/HMI_Caper_Stacking_Chair_Tablet_Arm_Left_rfa.zip",
+      "stored_path": "caper_stacking_chair_tablet_arm_left/revit/HMI_Caper_Stacking_Chair_Tablet_Arm_Left_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "99b4e6d3e493a69b9dbd57136e2f628f10979b72ba2ecaee56abd41748f1f8ea",
+      "size_bytes": 2120056,
+      "variant": "caper_stacking_chair_tablet_arm_left"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_left/HMI_Caper_Stacking_Chair_Tablet_Arm_Left.skp",
+      "stored_path": "caper_stacking_chair_tablet_arm_left/sketchup/HMI_Caper_Stacking_Chair_Tablet_Arm_Left.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "d4b50baa264e72dac126692498ccb2f57aa8b3b35b1861aca3be13db278c39af",
+      "size_bytes": 2372488,
+      "variant": "caper_stacking_chair_tablet_arm_left"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_right/HMI_Caper_Stacking_Chair_Tablet_Arm_Right_rfa.zip#zip",
+      "stored_path": "caper_stacking_chair_tablet_arm_right/revit/extracted/HermanMiller_Seating_CaperStackingChairwithTabletArm.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "347063e50b0b18e91d45698e839c6e8a8f67fcd44a8b541f21099bdd85fd372a",
+      "size_bytes": 2211840,
+      "variant": "caper_stacking_chair_tablet_arm_right"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_right/HMI_Caper_Stacking_Chair_Tablet_Arm_Right_3D.dwg",
+      "stored_path": "caper_stacking_chair_tablet_arm_right/autocad_3d/HMI_Caper_Stacking_Chair_Tablet_Arm_Right_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "cbd671670b009420f9b34d46860bfaf7b1e45c4ebb978b5723ede65aa5cc8fa3",
+      "size_bytes": 937685,
+      "variant": "caper_stacking_chair_tablet_arm_right"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_right/HMI_Caper_Stacking_Chair_Tablet_Arm_Right_rfa.zip",
+      "stored_path": "caper_stacking_chair_tablet_arm_right/revit/HMI_Caper_Stacking_Chair_Tablet_Arm_Right_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "cb2b2a3346d46a6476acff06d31ecf8ffba656e2aad1d2a39a23570fe9ad7833",
+      "size_bytes": 2120056,
+      "variant": "caper_stacking_chair_tablet_arm_right"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/c/caper_stacking_chair/caper_stacking_chair_tablet_arm_right/HMI_Caper_Stacking_Chair_Tablet_Arm_Right.skp",
+      "stored_path": "caper_stacking_chair_tablet_arm_right/sketchup/HMI_Caper_Stacking_Chair_Tablet_Arm_Right.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3a81c749e727cd0365acec94114aa45f8321270464477c1c0935249e4f1e5560",
+      "size_bytes": 2375136,
+      "variant": "caper_stacking_chair_tablet_arm_right"
+    }
+  ],
+  "updated_at": 1755361678
+}

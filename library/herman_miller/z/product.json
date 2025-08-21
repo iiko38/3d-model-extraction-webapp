@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_with_arms/HMI_Zeph_Chair_With_Arms_rfa.zip",
+      "stored_path": "herman_miller\\z\\zeph_chair\\revit\\HMI_Zeph_Chair_With_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "fa9f6ebd6e9c760d7498e307a28e4537af80f6fa19fc7283b0cd0982e437d086",
+      "size_bytes": 7593698
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_with_arms/HMI_Zeph_Chair_With_Arms_rfa.zip#zip",
+      "stored_path": "herman_miller\\z\\zeph_chair\\revit\\extracted\\HermanMiller_Seating_ZephMultipurposeChairFullyAssembled.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "619e2e5802ee642d4186e3f717ef90414692f2f88a47fd5e138af61e7cfefad9",
+      "size_bytes": 7790592
+    }
+  ],
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support"
+  ],
+  "brand": "herman_miller",
+  "product": "Z",
+  "product_slug": "z",
+  "updated_at": 1755355634
+}

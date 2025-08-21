@@ -1,0 +1,181 @@
+{
+  "brand": "herman_miller",
+  "product": "eames aluminum group chairs",
+  "product_slug": "eames_aluminum_group_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_executive/autocad_3d/HMI_Eames_Aluminum_Group_Chair_Executive_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "470e56f7c65340594235c15d8179c23fb7e24e47baf41a087e7608cd99ce3eda",
+      "size_bytes": 169868,
+      "variant": "eames_aluminum_group_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_executive/sketchup/HMI_Eames_Aluminum_Group_Chair_Executive.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "70f7423df3fb2c31441774a3b170039ea69fb167af9b4ab8defd80116f4f59ed",
+      "size_bytes": 841222,
+      "variant": "eames_aluminum_group_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_executive/revit/extracted/HermanMiller_Ancillary_EamesAluminumGroupExecutiveChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "44cf97f1bd6d49207438da4b20a23e5d9c50082af60f282aa3dbf01cc77b7a8f",
+      "size_bytes": 1073152,
+      "variant": "eames_aluminum_group_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_management_armless/autocad_3d/HMI_Eames_Aluminum_Group_Chair_Management_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "80a8fd1fb35b231755af0ac915587ed59c12e15a21fc1e249e1ae241afd16f32",
+      "size_bytes": 156493,
+      "variant": "eames_aluminum_group_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_management_armless/sketchup/HMI_Eames_Aluminum_Group_Chair_Management_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "90101796e9b89a7ce6568a0191a55d9c4c88d3a88149ab8d4b68877486cd3dcc",
+      "size_bytes": 610719,
+      "variant": "eames_aluminum_group_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_management_armless/revit/extracted/HermanMiller_Ancillary_EamesAluminumGroupManagementChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "d87ded108852724a5d2ffb4743dee44baa6d01bceb002a17794bd31661e30910",
+      "size_bytes": 1851392,
+      "variant": "eames_aluminum_group_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_management_with_arms/autocad_3d/HMI_Eames_Aluminum_Group_Chair_Management_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "b9d3f3823cd757b84d77a0b9383cded0637fcdfce7bc523075e0102becc4e9ae",
+      "size_bytes": 321475,
+      "variant": "eames_aluminum_group_chair_management_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_chair_management_with_arms/sketchup/HMI_Eames_Aluminum_Group_Chair_Management_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3cb0c4125c3e2db9e193e935c7dec5128a6bbce8ff3431072e81dc1195fe9b15",
+      "size_bytes": 805720,
+      "variant": "eames_aluminum_group_chair_management_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_lounge_chair/autocad_3d/HMI_Eames_Aluminum_Group_Lounge_Chair_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "027cfafaae5005cdcd9c10be307e3d84f6a20b115beb2ecfa230c928f6a4ee11",
+      "size_bytes": 317108,
+      "variant": "eames_aluminum_group_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_lounge_chair/sketchup/HMI_Eames_Aluminum_Group_Lounge_Chair.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "240da10358ed6ff219fbfb80f7b7e0a285a5c20cdd125c96d78ab6b811cab5e4",
+      "size_bytes": 803307,
+      "variant": "eames_aluminum_group_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_lounge_chair/revit/extracted/HermanMiller_Ancillary_EamesAluminumGroupLoungeChairTiltSwivel.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "de711b015c0a6d4a4faa4fa1ea090f5f4c10a875aea45e942c9b53fff549e315",
+      "size_bytes": 1703936,
+      "variant": "eames_aluminum_group_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_ottoman/autocad_3d/HMI_Eames_Aluminum_Group_Ottoman_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c8bed1c4f2df0ee844fa1450fa5fbe98ee52c3708f13933496e5fb6bb631d365",
+      "size_bytes": 146324,
+      "variant": "eames_aluminum_group_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_ottoman/sketchup/HMI_Eames_Aluminum_Group_Ottoman.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1d2594762f8e6bfa8a700e897ab89bc1c689c93f69397e8b7b990e4b56b8fec5",
+      "size_bytes": 351736,
+      "variant": "eames_aluminum_group_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_ottoman/revit/extracted/HermanMiller_Ancillary_EamesAluminumGroupOttoman.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0de846249b3e7560d34ebdb51ecb164b9ffb6f36dd35243a4a215f3c3cf8fce7",
+      "size_bytes": 1019904,
+      "variant": "eames_aluminum_group_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_side_chair_armless/autocad_3d/HMI_Eames_Aluminum_Group_Side_Chair_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d0352dcb50e4263655d85d9290e9cdc77d5dd6bad03318644b72cb3e74d2c047",
+      "size_bytes": 188209,
+      "variant": "eames_aluminum_group_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_side_chair_armless/sketchup/HMI_Eames_Aluminum_Group_Side_Chair_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8b586b3f7f4a343df39f03a603a3e9265a82374ab8f196252fd004ac232b7028",
+      "size_bytes": 469839,
+      "variant": "eames_aluminum_group_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_side_chair_armless/revit/extracted/HermanMiller_Ancillary_EamesAluminumGroupSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e8de06915c4a1a4e6aebe4bfd856967b8978a347d9006d61aa09689fe1507edb",
+      "size_bytes": 950272,
+      "variant": "eames_aluminum_group_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_side_chair_with_arms/autocad_3d/HMI_Eames_Aluminum_Group_Side_Chair_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "88aee76cb49af05e1b8106632dff68e66544f66cf40f3f0ae44bcdb7a4cbfc1e",
+      "size_bytes": 148063,
+      "variant": "eames_aluminum_group_side_chair_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-aluminum-group-chairs/eames_aluminum_group_side_chair_with_arms/sketchup/HMI_Eames_Aluminum_Group_Side_Chair_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c9bf797e8cd5f259c230f15bb8e3ca485b045de54192c0690936c40357b5b618",
+      "size_bytes": 723990,
+      "variant": "eames_aluminum_group_side_chair_with_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

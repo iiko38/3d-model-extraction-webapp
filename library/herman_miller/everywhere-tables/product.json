@@ -1,0 +1,1400 @@
+{
+  "brand": "herman_miller",
+  "product": "everywhere tables",
+  "product_slug": "everywhere-tables",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/renew-sit-to-stand-table-120-degree-corner/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/everywhere-table-round-corner/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_round/HMI_Everywhere_Coffee_Table_Round_3D.dwg",
+      "stored_path": "everywhere_coffee_table_round/autocad_3d/HMI_Everywhere_Coffee_Table_Round_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8f1d38123e273bc77ab04dfbd4351aa4213cfedcfd1ec7ed096171e7ff0a466a",
+      "size_bytes": 186971,
+      "variant": "everywhere_coffee_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_round/HMI_Everywhere_Coffee_Table_Round_rfa.zip",
+      "stored_path": "everywhere_coffee_table_round/revit/HMI_Everywhere_Coffee_Table_Round_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5a115166804317f202f008a2721e58c49ca224553845890eae41bf14c3c78621",
+      "size_bytes": 638225,
+      "variant": "everywhere_coffee_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_round/HMI_Everywhere_Coffee_Table_Round.skp",
+      "stored_path": "everywhere_coffee_table_round/sketchup/HMI_Everywhere_Coffee_Table_Round.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3ab8ecbc37c90c688a3c4b2dcd40c06d925270238db63d16e0d8d4930c4bfc4f",
+      "size_bytes": 342513,
+      "variant": "everywhere_coffee_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/1 Square-Edge/HermanMiller_TablesandFurniture_EverywhereOccasionalTableRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "9454cc9faf183b0d6d5686fe45620131f2cd3ad2a3efa933b95ca5071de27be5",
+      "size_bytes": 684032,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_square/HMI_Everywhere_Coffee_Table_Square_3D.dwg",
+      "stored_path": "everywhere_coffee_table_square/autocad_3d/HMI_Everywhere_Coffee_Table_Square_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0a254d1ac3382337f79955835ed952649a92fc08fa933217774fa6c1abda1d0f",
+      "size_bytes": 165651,
+      "variant": "everywhere_coffee_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_square/HMI_Everywhere_Coffee_Table_Square_rfa.zip",
+      "stored_path": "everywhere_coffee_table_square/revit/HMI_Everywhere_Coffee_Table_Square_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "cbae8913edcbc04510857acd96f887df3eb487d1e72b4e55df1800aaf68d2a26",
+      "size_bytes": 685091,
+      "variant": "everywhere_coffee_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_coffee_table_square/HMI_Everywhere_Coffee_Table_Square.skp",
+      "stored_path": "everywhere_coffee_table_square/sketchup/HMI_Everywhere_Coffee_Table_Square.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "cb65d3b8497876b5cf25a6c6c4b6c66898018dd7a47e43d9cf675dd27cedcd19",
+      "size_bytes": 298968,
+      "variant": "everywhere_coffee_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/1 Square-Edge/HermanMiller_TablesandFurniture_EverywhereOccasionalTableSquare.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7531defd3c608ad50c849920732df76557d1c6bc7a3f8bc232b2c2a6437949c2",
+      "size_bytes": 753664,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_round/HMI_Everywhere_Standing_Height_Table_Round_3D.dwg",
+      "stored_path": "everywhere_standing_height_table_round/autocad_3d/HMI_Everywhere_Standing_Height_Table_Round_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e5062dc0824fad5c4e3067fd7777e584b1ae08c477cfd4d2e7977a3025b3c9ff",
+      "size_bytes": 374555,
+      "variant": "everywhere_standing_height_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_round/HMI_Everywhere_Standing_Height_Table_Round_rfa.zip",
+      "stored_path": "everywhere_standing_height_table_round/revit/HMI_Everywhere_Standing_Height_Table_Round_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "81556da7a5c2f087ff3de2d6b3f329d4978ab6327bce9e910e3a093f8157953a",
+      "size_bytes": 744815,
+      "variant": "everywhere_standing_height_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_round/HMI_Everywhere_Standing_Height_Table_Round.skp",
+      "stored_path": "everywhere_standing_height_table_round/sketchup/HMI_Everywhere_Standing_Height_Table_Round.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "9a8f7f5b8b12d7cbb7b047994ab7ef6c6907037b1a8694b1d46c2071afac589b",
+      "size_bytes": 669005,
+      "variant": "everywhere_standing_height_table_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/2 Square-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightRoundTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "01994231177061d65ba50e9959a2d0502ac2bb20b1bc63600f452be58950fd1f",
+      "size_bytes": 794624,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_square/HMI_Everywhere_Standing_Height_Table_Square_3D.dwg",
+      "stored_path": "everywhere_standing_height_table_square/autocad_3d/HMI_Everywhere_Standing_Height_Table_Square_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "b8cf4324a9ea2d2e98432b55ce1cbb7601d65f383b2ef679267722e8cd77dcf4",
+      "size_bytes": 354488,
+      "variant": "everywhere_standing_height_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_square/HMI_Everywhere_Standing_Height_Table_Square_rfa.zip",
+      "stored_path": "everywhere_standing_height_table_square/revit/HMI_Everywhere_Standing_Height_Table_Square_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "64ef10febcba9fb190f0d1f648bc75494e5fa2a1330c33d4d33472cf2acdd864",
+      "size_bytes": 748164,
+      "variant": "everywhere_standing_height_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_standing_height_table_square/HMI_Everywhere_Standing_Height_Table_Square.skp",
+      "stored_path": "everywhere_standing_height_table_square/sketchup/HMI_Everywhere_Standing_Height_Table_Square.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ca4fa104758cea52934c2514d581658b5794ed16ef61aabbb71bfd76ef319552",
+      "size_bytes": 627143,
+      "variant": "everywhere_standing_height_table_square"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/2 Square-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightSquareTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a7e151e7b72f9e1aee6f82ce9098e990a91e39bd5766d0cefa038eb0c19a8166",
+      "size_bytes": 798720,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_classroom_curve_post_leg/HMI_Everywhere_Table_Classroom_Curve_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_classroom_curve_post_leg/autocad_3d/HMI_Everywhere_Table_Classroom_Curve_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "f08f9789b18710d282cddfd66821db5caebe3d7d8e7cb3a52c304daeaaf7ea4a",
+      "size_bytes": 298667,
+      "variant": "everywhere_table_classroom_curve_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_classroom_curve_post_leg/HMI_Everywhere_Table_Classroom_Curve_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_classroom_curve_post_leg/revit/HMI_Everywhere_Table_Classroom_Curve_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "92aada16c2f732599886644556e27b939f7b05962bafcff90da255a51eec2f82",
+      "size_bytes": 748621,
+      "variant": "everywhere_table_classroom_curve_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_classroom_curve_post_leg/HMI_Everywhere_Table_Classroom_Curve_Post_Leg.skp",
+      "stored_path": "everywhere_table_classroom_curve_post_leg/sketchup/HMI_Everywhere_Table_Classroom_Curve_Post_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "493ef06ab2e17e20000abf0ad9303e3f016c4b02302185a5717307e4e54cc68f",
+      "size_bytes": 659111,
+      "variant": "everywhere_table_classroom_curve_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_classroom_curve_post_leg/HMI_Everywhere_Table_Classroom_Curve_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_classroom_curve_post_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereClassroomPostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1e1f807b3e6eeb084916e06ca03b2bd3e55a8195902372a4c9a979eb7af40b74",
+      "size_bytes": 798720,
+      "variant": "everywhere_table_classroom_curve_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_concave_rectangular_c_leg/HMI_Everywhere_Table_Concave_Rectangular_C_Leg_3D.dwg",
+      "stored_path": "everywhere_table_concave_rectangular_c_leg/autocad_3d/HMI_Everywhere_Table_Concave_Rectangular_C_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5c374d21d55c7efcca4386d90488e4c396079169197aec55cd924b3a74de92fe",
+      "size_bytes": 290395,
+      "variant": "everywhere_table_concave_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_concave_rectangular_c_leg/HMI_Everywhere_Table_Concave_Rectangular_C_Leg_rfa.zip",
+      "stored_path": "everywhere_table_concave_rectangular_c_leg/revit/HMI_Everywhere_Table_Concave_Rectangular_C_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "25f45101f5144f7a7f328796e1873de8a46b697daddedbad00a7d35f3acc93cc",
+      "size_bytes": 839535,
+      "variant": "everywhere_table_concave_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_concave_rectangular_c_leg/HMI_Everywhere_Table_Concave_Rectangular_C_Leg.skp",
+      "stored_path": "everywhere_table_concave_rectangular_c_leg/sketchup/HMI_Everywhere_Table_Concave_Rectangular_C_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "08452c13b956def302295f2823fbf5a96161372454c4f2d5e6c0c38794e428fa",
+      "size_bytes": 763645,
+      "variant": "everywhere_table_concave_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_concave_rectangular_c_leg/HMI_Everywhere_Table_Concave_Rectangular_C_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_concave_rectangular_c_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereConcaveRectangleC-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0b96040241729413e0636fba6a6e763125e311fb2d3c0c6e003d3303ae0e79a5",
+      "size_bytes": 925696,
+      "variant": "everywhere_table_concave_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_conference_corner/HMI_Everywhere_Table_Conference_Corner_3D.dwg",
+      "stored_path": "everywhere_table_conference_corner/autocad_3d/HMI_Everywhere_Table_Conference_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9de06cfafc453be2c1f4bcab6f43ccf480d46f2993c638403cf51f3607ffe069",
+      "size_bytes": 333562,
+      "variant": "everywhere_table_conference_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_conference_corner/HMI_Everywhere_Table_Conference_Corner_rfa.zip",
+      "stored_path": "everywhere_table_conference_corner/revit/HMI_Everywhere_Table_Conference_Corner_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "d63f03534a521a5464be5f188f4752090b7719e612684a18160bb27c01591372",
+      "size_bytes": 719653,
+      "variant": "everywhere_table_conference_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_conference_corner/HMI_Everywhere_Table_Conference_Corner.skp",
+      "stored_path": "everywhere_table_conference_corner/sketchup/HMI_Everywhere_Table_Conference_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "d6ddd9cc3ab611368dd461f81e85f9c869eff3e710ebdd8ba345b1bc817e4c44",
+      "size_bytes": 853808,
+      "variant": "everywhere_table_conference_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_conference_corner/HMI_Everywhere_Table_Conference_Corner_rfa.zip#zip",
+      "stored_path": "everywhere_table_conference_corner/revit/extracted/HermanMiller_TablesandFurniture_EverywhereConferenceCornerTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "41360545e05aeb8092a73680a025617b9fc9cbf74e40d73f7d6db3e33266d94b",
+      "size_bytes": 790528,
+      "variant": "everywhere_table_conference_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_d_shape/HMI_Everywhere_Table_D_Shape_3D.dwg",
+      "stored_path": "everywhere_table_d_shape/autocad_3d/HMI_Everywhere_Table_D_Shape_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e232007524374881cf61a48f048e5c4da82445be8501e958e03add7d4dfab130",
+      "size_bytes": 287496,
+      "variant": "everywhere_table_d_shape"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_d_shape/HMI_Everywhere_Table_D_Shape_rfa.zip",
+      "stored_path": "everywhere_table_d_shape/revit/HMI_Everywhere_Table_D_Shape_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "a08225b367143c2687d081cb68b1a30b6e9010455674ce7c90073f63e4d2451a",
+      "size_bytes": 723199,
+      "variant": "everywhere_table_d_shape"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_d_shape/HMI_Everywhere_Table_D_Shape.skp",
+      "stored_path": "everywhere_table_d_shape/sketchup/HMI_Everywhere_Table_D_Shape.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2784c56b59750bdbf426473fe4424c288c2e9fe59a6257792ed758dc073dcf66",
+      "size_bytes": 659097,
+      "variant": "everywhere_table_d_shape"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_d_shape/HMI_Everywhere_Table_D_Shape_rfa.zip#zip",
+      "stored_path": "everywhere_table_d_shape/revit/extracted/HermanMiller_TablesandFurniture_EverywhereD-ShapedTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "69f0552f3651b961f99cdd6a214fe8276ec594d74a41d95cb8b3c996c0f71760",
+      "size_bytes": 811008,
+      "variant": "everywhere_table_d_shape"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_flip_top/HMI_Everywhere_Table_Flip_Top_3D.dwg",
+      "stored_path": "everywhere_table_flip_top/autocad_3d/HMI_Everywhere_Table_Flip_Top_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c8c2fb1643f903348ef206ac6a65cce3029999747658ed12fb5adf67002dd69f",
+      "size_bytes": 207062,
+      "variant": "everywhere_table_flip_top"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_flip_top/HMI_Everywhere_Table_Flip_Top_rfa.zip",
+      "stored_path": "everywhere_table_flip_top/revit/HMI_Everywhere_Table_Flip_Top_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "0f4d0da6a84bb381752254636c0cdd02c85f74b3f213edcd7e1ea5b405c54db7",
+      "size_bytes": 979027,
+      "variant": "everywhere_table_flip_top"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_flip_top/HMI_Everywhere_Table_Flip_Top.skp",
+      "stored_path": "everywhere_table_flip_top/sketchup/HMI_Everywhere_Table_Flip_Top.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "aa6acafbdb063300b6a3afaeaf28cf0780e3cbc5f6dfe3ea0ac380b401e26036",
+      "size_bytes": 631309,
+      "variant": "everywhere_table_flip_top"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_flip_top/HMI_Everywhere_Table_Flip_Top_rfa.zip#zip",
+      "stored_path": "everywhere_table_flip_top/revit/extracted/HermanMiller_TablesandFurniture_EverywhereFlip-TopRectangularTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0895f201203c53d9520ff93704ae0862beebafc1bf18b671277199e8ce22bb6c",
+      "size_bytes": 1949696,
+      "variant": "everywhere_table_flip_top"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_half_round/HMI_Everywhere_Table_Half_Round_3D.dwg",
+      "stored_path": "everywhere_table_half_round/autocad_3d/HMI_Everywhere_Table_Half_Round_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5dbfb4b78f25be92e95974c603e76d399d9a443b2392670d92f4aa36f4d722c8",
+      "size_bytes": 289787,
+      "variant": "everywhere_table_half_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_half_round/HMI_Everywhere_Table_Half_Round_rfa.zip",
+      "stored_path": "everywhere_table_half_round/revit/HMI_Everywhere_Table_Half_Round_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5d3267c1fad6f32e7c0e539f1f2fe14227db1d552cc3db881576f41e73b09d3c",
+      "size_bytes": 558253,
+      "variant": "everywhere_table_half_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_half_round/HMI_Everywhere_Table_Half_Round_rfa.zip#zip",
+      "stored_path": "everywhere_table_half_round/revit/extracted/HermanMiller_TablesandFurniture_DT1RS_EverywhereHalfRoundTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e55be6594320640eeab826ce27809c43066c5d9239d39a98ea47707ee875170e",
+      "size_bytes": 598016,
+      "variant": "everywhere_table_half_round"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_double_3_column_base/HMI_Everywhere_Table_Oval_Double_3_Column_Base_3D.dwg",
+      "stored_path": "everywhere_table_oval_double_3_column_base/autocad_3d/HMI_Everywhere_Table_Oval_Double_3_Column_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "af0330df25b30e33ac396afb5955e2160b83dfbfdb143c93298bb376d1ccdc9d",
+      "size_bytes": 347690,
+      "variant": "everywhere_table_oval_double_3_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_double_3_column_base/HMI_Everywhere_Table_Oval_Double_3_Column_Base_rfa.zip",
+      "stored_path": "everywhere_table_oval_double_3_column_base/revit/HMI_Everywhere_Table_Oval_Double_3_Column_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "441e6112bb099ddf96a4fd28f8a881e73de3574aa09891c2cdc1cdde109126aa",
+      "size_bytes": 869171,
+      "variant": "everywhere_table_oval_double_3_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_double_3_column_base/HMI_Everywhere_Table_Oval_Double_3_Column_Base.skp",
+      "stored_path": "everywhere_table_oval_double_3_column_base/sketchup/HMI_Everywhere_Table_Oval_Double_3_Column_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "4d4d99255987c43e73581ba4ea1d9ca6f59de5e49a77d0ac5f2ac21f0e28e92c",
+      "size_bytes": 851028,
+      "variant": "everywhere_table_oval_double_3_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_double_3_column_base/HMI_Everywhere_Table_Oval_Double_3_Column_Base_rfa.zip#zip",
+      "stored_path": "everywhere_table_oval_double_3_column_base/revit/extracted/HermanMiller_TablesandFurniture_EverywhereOvalTableSquaredEdge3ColumnBaseSpanner.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "b59dff1752c06ac4d1e5f941fe32ec266c20184a16fdf72a42eaea35ef51b661",
+      "size_bytes": 991232,
+      "variant": "everywhere_table_oval_double_3_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_post_leg/HMI_Everywhere_Table_Oval_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_oval_post_leg/autocad_3d/HMI_Everywhere_Table_Oval_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "6dc673f23e119967e0dca29025d1e31d77d90e635f131c44f6091709eafb3330",
+      "size_bytes": 269234,
+      "variant": "everywhere_table_oval_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_post_leg/HMI_Everywhere_Table_Oval_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_oval_post_leg/revit/HMI_Everywhere_Table_Oval_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5867824952a8a27b9dec2083b22b9c927ac44e8b1aac44e82aed71bf0a0fe19a",
+      "size_bytes": 738845,
+      "variant": "everywhere_table_oval_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_post_leg/HMI_Everywhere_Table_Oval_Post_Leg.skp",
+      "stored_path": "everywhere_table_oval_post_leg/sketchup/HMI_Everywhere_Table_Oval_Post_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "16adfe097bafab1083e8a52bd4ae55b0d770536fcb420578fe8af50b5c634060",
+      "size_bytes": 688759,
+      "variant": "everywhere_table_oval_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_oval_post_leg/HMI_Everywhere_Table_Oval_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_oval_post_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereOvalTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a636a635d6a47e911fd42793c68f285072a8a8ccb5a784e46b4311cac3ed81a6",
+      "size_bytes": 860160,
+      "variant": "everywhere_table_oval_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_c_leg/HMI_Everywhere_Table_Rectangular_C_Leg_3D.dwg",
+      "stored_path": "everywhere_table_rectangular_c_leg/autocad_3d/HMI_Everywhere_Table_Rectangular_C_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5682a292449bfdec36460f1806450b89b6e383e66bec85bed07e954c7e97a650",
+      "size_bytes": 284455,
+      "variant": "everywhere_table_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_c_leg/HMI_Everywhere_Table_Rectangular_C_Leg_rfa.zip",
+      "stored_path": "everywhere_table_rectangular_c_leg/revit/HMI_Everywhere_Table_Rectangular_C_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "e64b7dd57953355ae32289624c76e938d9fa7384d8f5f7167f10d6561da85e88",
+      "size_bytes": 861637,
+      "variant": "everywhere_table_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_c_leg/HMI_Everywhere_Table_Rectangular_C_Leg.skp",
+      "stored_path": "everywhere_table_rectangular_c_leg/sketchup/HMI_Everywhere_Table_Rectangular_C_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "bd93ee819d5b78d7ce6960b7659c3ced21ff1c6b7901cf55f345680ba520f225",
+      "size_bytes": 764448,
+      "variant": "everywhere_table_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_c_leg/HMI_Everywhere_Table_Rectangular_C_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_rectangular_c_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRectangularTableC-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "45ab58408df3ee7b0a2587e686c4883b3a21188a4088a84689478c45981151ab",
+      "size_bytes": 2383872,
+      "variant": "everywhere_table_rectangular_c_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_post_leg/HMI_Everywhere_Table_Rectangular_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_rectangular_post_leg/autocad_3d/HMI_Everywhere_Table_Rectangular_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4a70136602ea35b9941adf64883beda1d93a3e1dbe5c72e35957fa8e81c235dc",
+      "size_bytes": 251747,
+      "variant": "everywhere_table_rectangular_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_post_leg/HMI_Everywhere_Table_Rectangular_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_rectangular_post_leg/revit/HMI_Everywhere_Table_Rectangular_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "167cbe5a505d35e295ace19983693f6bb863b1ac6ba037d7630efff7ccbd9f48",
+      "size_bytes": 786541,
+      "variant": "everywhere_table_rectangular_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_post_leg/HMI_Everywhere_Table_Rectangular_Post_Leg.skp",
+      "stored_path": "everywhere_table_rectangular_post_leg/sketchup/HMI_Everywhere_Table_Rectangular_Post_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "afabe708c612613cad6b72947e2d4f9d18b52eead03176b4b37a9022bc02f4e5",
+      "size_bytes": 660048,
+      "variant": "everywhere_table_rectangular_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_post_leg/HMI_Everywhere_Table_Rectangular_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_rectangular_post_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRectangularTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "b16976748c76e2769f6922b522cae6d8ecf533dfd668a9e7828c60aa1e6d4b0a",
+      "size_bytes": 2011136,
+      "variant": "everywhere_table_rectangular_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg/HMI_Everywhere_Table_Rectangular_T_Leg_3D.dwg",
+      "stored_path": "everywhere_table_rectangular_t_leg/autocad_3d/HMI_Everywhere_Table_Rectangular_T_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8c8c68e6fafcabeca0a7b3a8f04b282f4bda22a6e61fedafdf7b1668dbe20009",
+      "size_bytes": 306966,
+      "variant": "everywhere_table_rectangular_t_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg_with_height_adjustment/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment_rfa.zip",
+      "stored_path": "everywhere_table_rectangular_t_leg_with_height_adjustment/revit/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "87cf6845bb6c4572cd76c394eb65458a5aa8e32ab87d05e64941b83e2e3a9ab3",
+      "size_bytes": 875323,
+      "variant": "everywhere_table_rectangular_t_leg_with_height_adjustment"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg/HMI_Everywhere_Table_Rectangular_T_Leg.skp",
+      "stored_path": "everywhere_table_rectangular_t_leg/sketchup/HMI_Everywhere_Table_Rectangular_T_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c6e2aae7056fcb3c5d4a087ade46ea06ac9211395fca3dc6592dda90e1b8d52f",
+      "size_bytes": 768329,
+      "variant": "everywhere_table_rectangular_t_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg_with_height_adjustment/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment_rfa.zip#zip",
+      "stored_path": "everywhere_table_rectangular_t_leg_with_height_adjustment/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRectangularTableT-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fc55bf09315856249f2234f60acce3b3664a90b9d30af55386cec47f3632c79b",
+      "size_bytes": 3145728,
+      "variant": "everywhere_table_rectangular_t_leg_with_height_adjustment"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg_with_height_adjustment/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment_3D.dwg",
+      "stored_path": "everywhere_table_rectangular_t_leg_with_height_adjustment/autocad_3d/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c501b7d98cba28552a0aad9ec9112c85b28b2ffec57caff8a1bf2ced664e61ae",
+      "size_bytes": 289419,
+      "variant": "everywhere_table_rectangular_t_leg_with_height_adjustment"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_rectangular_t_leg_with_height_adjustment/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment.skp",
+      "stored_path": "everywhere_table_rectangular_t_leg_with_height_adjustment/sketchup/HMI_Everywhere_Table_Rectangular_T_Leg_With_Height_Adjustment.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "40ded4cf21a51749256eb0136714bf63ce86d4c70c8921ab1e79d6e845b033c8",
+      "size_bytes": 794586,
+      "variant": "everywhere_table_rectangular_t_leg_with_height_adjustment"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_4_column_base/HMI_Everywhere_Table_Round_4_Column_Base_3D.dwg",
+      "stored_path": "everywhere_table_round_4_column_base/autocad_3d/HMI_Everywhere_Table_Round_4_Column_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8f455f42af65cecd2923e60bbb92875512838e99a4a6c7cb76c3fa04b9f72508",
+      "size_bytes": 306140,
+      "variant": "everywhere_table_round_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_4_column_base/HMI_Everywhere_Table_Round_4_Column_Base_rfa.zip",
+      "stored_path": "everywhere_table_round_4_column_base/revit/HMI_Everywhere_Table_Round_4_Column_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "57a15d13c8ed6ef45820c4d237107b41d05879e477efd3bc252fc840db17227d",
+      "size_bytes": 945059,
+      "variant": "everywhere_table_round_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_4_column_base/HMI_Everywhere_Table_Round_4_Column_Base.skp",
+      "stored_path": "everywhere_table_round_4_column_base/sketchup/HMI_Everywhere_Table_Round_4_Column_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e62f3eed8a6f481fef9ffb3af3874079295ba7bcfa785bad85ad1364c63a4e99",
+      "size_bytes": 574168,
+      "variant": "everywhere_table_round_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_4_column_base/HMI_Everywhere_Table_Round_4_Column_Base_rfa.zip#zip",
+      "stored_path": "everywhere_table_round_4_column_base/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRoundTable4-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fe1cd5b3307cb067547b87b6532a7518fdc517d954f967b57351db3a4e9927ba",
+      "size_bytes": 1064960,
+      "variant": "everywhere_table_round_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_corner/HMI_Everywhere_Table_Round_Corner_3D.dwg",
+      "stored_path": "everywhere_table_round_corner/autocad_3d/HMI_Everywhere_Table_Round_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "40cc7ab754ea56f3e0fb22f19bd2e684d808d5e86d6556b5bc667b17dcf6663f",
+      "size_bytes": 341084,
+      "variant": "everywhere_table_round_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_corner/HMI_Everywhere_Table_Round_Corner_rfa.zip",
+      "stored_path": "everywhere_table_round_corner/revit/HMI_Everywhere_Table_Round_Corner_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "587519c2b63445802b47be7a8f2be6e7934fe282e6f920fbef5a8c0e637d9afd",
+      "size_bytes": 747831,
+      "variant": "everywhere_table_round_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_corner/HMI_Everywhere_Table_Round_Corner.skp",
+      "stored_path": "everywhere_table_round_corner/sketchup/HMI_Everywhere_Table_Round_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "58897551c79eac7ced3cebf77707a4015f5fb7f73bb357794b39289ecc9aa79b",
+      "size_bytes": 859598,
+      "variant": "everywhere_table_round_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_corner/HMI_Everywhere_Table_Round_Corner_rfa.zip#zip",
+      "stored_path": "everywhere_table_round_corner/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRoundCornerTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bcf2107fc6c5ccd032b2e40a944d51ad35469e059b74acf853d5987759e2c681",
+      "size_bytes": 835584,
+      "variant": "everywhere_table_round_corner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_post_leg/HMI_Everywhere_Table_Round_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_round_post_leg/autocad_3d/HMI_Everywhere_Table_Round_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "cf0dc575e9289ada2a082945b5c41001476a67b87c3923621e3cb76ae10b0780",
+      "size_bytes": 432279,
+      "variant": "everywhere_table_round_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_post_leg/HMI_Everywhere_Table_Round_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_round_post_leg/revit/HMI_Everywhere_Table_Round_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "4e5a6e3d9815d5ac9f5a6f2042a228b7cad27e88039d9eb83327ada1832a1184",
+      "size_bytes": 681721,
+      "variant": "everywhere_table_round_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_post_leg/HMI_Everywhere_Table_Round_Post_Leg.skp",
+      "stored_path": "everywhere_table_round_post_leg/sketchup/HMI_Everywhere_Table_Round_Post_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "09d2606a808f4d74adab791b90ec0ac0e658b4525e89ca8bd4e46eaf90945dd8",
+      "size_bytes": 695570,
+      "variant": "everywhere_table_round_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_post_leg/HMI_Everywhere_Table_Round_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_round_post_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRoundTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e27929f831beb819b44be999c68ce3df30df3c6c6bdbda763d6cf8249da938cd",
+      "size_bytes": 856064,
+      "variant": "everywhere_table_round_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_single_column_base/HMI_Everywhere_Table_Round_Single_Column_Base_3D.dwg",
+      "stored_path": "everywhere_table_round_single_column_base/autocad_3d/HMI_Everywhere_Table_Round_Single_Column_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "235b6936de306ead0abea4823f70ba928eab052b428fe0a0d629a816d94c411e",
+      "size_bytes": 350263,
+      "variant": "everywhere_table_round_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_single_column_base/HMI_Everywhere_Table_Round_Single_Column_Base_rfa.zip",
+      "stored_path": "everywhere_table_round_single_column_base/revit/HMI_Everywhere_Table_Round_Single_Column_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "c6d81e6e8163ca72b5f9cc0715079717c5b3f52ff833b5ebabe6dddc1e1c5402",
+      "size_bytes": 944178,
+      "variant": "everywhere_table_round_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_single_column_base/HMI_Everywhere_Table_Round_Single_Column_Base.skp",
+      "stored_path": "everywhere_table_round_single_column_base/sketchup/HMI_Everywhere_Table_Round_Single_Column_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fa097d2dbb0e9f6fea479a933c0c5db3918e8ab75cf137e01ee7d4139dca591e",
+      "size_bytes": 560782,
+      "variant": "everywhere_table_round_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_round_single_column_base/HMI_Everywhere_Table_Round_Single_Column_Base_rfa.zip#zip",
+      "stored_path": "everywhere_table_round_single_column_base/revit/extracted/HermanMiller_TablesandFurniture_EverywhereRoundTableSingle-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f3151d336adc28912fe6e5575fe0b610fc68bb881fd723e3597b99324021b052",
+      "size_bytes": 1040384,
+      "variant": "everywhere_table_round_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_rectangular_double_3_column_base_spanner/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner_3D.dwg",
+      "stored_path": "everywhere_table_soft_rectangular_double_3_column_base_spanner/autocad_3d/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "efdab0263e8e14cb76fa2345c202433dcd0be1393a2bb256253baaeb44ec3e03",
+      "size_bytes": 318736,
+      "variant": "everywhere_table_soft_rectangular_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_rectangular_double_3_column_base_spanner/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner_rfa.zip",
+      "stored_path": "everywhere_table_soft_rectangular_double_3_column_base_spanner/revit/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "26dc46ab43e682c7592034cdcce4021b52a99f67475dd5c2b9ae4ecaa2e9c5c2",
+      "size_bytes": 889604,
+      "variant": "everywhere_table_soft_rectangular_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_rectangular_double_3_column_base_spanner/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner.skp",
+      "stored_path": "everywhere_table_soft_rectangular_double_3_column_base_spanner/sketchup/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "650eda49988cb9ced2e957af9fb3e6c1917442c18eb7063ac2463b498fba3c89",
+      "size_bytes": 785578,
+      "variant": "everywhere_table_soft_rectangular_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_rectangular_double_3_column_base_spanner/HMI_Everywhere_Table_Soft_Rectangular_Double_3_Column_Base_Spanner_rfa.zip#zip",
+      "stored_path": "everywhere_table_soft_rectangular_double_3_column_base_spanner/revit/extracted/HermanMiller_TablesandFurniture_EverywhereSoftRectangleMeetingTable3-ColumnBaseSpanner.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "ee3192756bb1f02950eed559fc60242c3162986182616ffbcb371ca64cce4a20",
+      "size_bytes": 1028096,
+      "variant": "everywhere_table_soft_rectangular_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_post_leg/HMI_Everywhere_Table_Soft_Square_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_soft_square_post_leg/autocad_3d/HMI_Everywhere_Table_Soft_Square_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "286add6f589a69047e55bd6fe0f85afeb6caa2fbe4bf830897e893ee35f341b5",
+      "size_bytes": 304557,
+      "variant": "everywhere_table_soft_square_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_post_leg/HMI_Everywhere_Table_Soft_Square_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_soft_square_post_leg/revit/HMI_Everywhere_Table_Soft_Square_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "946f252abcc5542f23da1158bd6d330351b8bb3e413f69946bf008675c45969c",
+      "size_bytes": 745326,
+      "variant": "everywhere_table_soft_square_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_post_leg/HMI_Everywhere_Table_Soft_Square_Post_Leg.skp",
+      "stored_path": "everywhere_table_soft_square_post_leg/sketchup/HMI_Everywhere_Table_Soft_Square_Post_Leg.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3f58b5d5aa6adaa0c486bd9dca66e35d0b81dc8d05359add143e27f7be9fc9cc",
+      "size_bytes": 672251,
+      "variant": "everywhere_table_soft_square_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_post_leg/HMI_Everywhere_Table_Soft_Square_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_soft_square_post_leg/revit/extracted/HermanMiller_TablesandFurniture_EverywhereSoftSquareTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "d4dd02a23e171efcc047a6c6ab34ae3f7640b17e0b6af498727cfd4f7fbd2d86",
+      "size_bytes": 847872,
+      "variant": "everywhere_table_soft_square_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_single_column_base/HMI_Everywhere_Table_Soft_Square_Single_Column_Base_3D.dwg",
+      "stored_path": "everywhere_table_soft_square_single_column_base/autocad_3d/HMI_Everywhere_Table_Soft_Square_Single_Column_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d22cee93a2b69d09614fe786c9ab14eca4b8177d939dc68d168ed0efab41bfd5",
+      "size_bytes": 229207,
+      "variant": "everywhere_table_soft_square_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_single_column_base/HMI_Everywhere_Table_Soft_Square_Single_Column_Base_rfa.zip",
+      "stored_path": "everywhere_table_soft_square_single_column_base/revit/HMI_Everywhere_Table_Soft_Square_Single_Column_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5cf6371bfa37abe9d42cda2dac22c58b42c36cde6108d19d6eaf06e8ca0e4695",
+      "size_bytes": 1000888,
+      "variant": "everywhere_table_soft_square_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_single_column_base/HMI_Everywhere_Table_Soft_Square_Single_Column_Base.skp",
+      "stored_path": "everywhere_table_soft_square_single_column_base/sketchup/HMI_Everywhere_Table_Soft_Square_Single_Column_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1adffb23d3a4206cef6c2febe4ec8589da15cfbe633e7d51754094a6d084283c",
+      "size_bytes": 542615,
+      "variant": "everywhere_table_soft_square_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_soft_square_single_column_base/HMI_Everywhere_Table_Soft_Square_Single_Column_Base_rfa.zip#zip",
+      "stored_path": "everywhere_table_soft_square_single_column_base/revit/extracted/HermanMiller_TablesandFurniture_EverywhereSoftSquareTableSingle-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "ab54160f9b0542346eeca15315eaf9e80828d9ccbe5b2916ddb2e8d2711606dc",
+      "size_bytes": 1073152,
+      "variant": "everywhere_table_soft_square_single_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_square_4_column_base/HMI_Everywhere_Table_Square_4_Column_Base_3D.dwg",
+      "stored_path": "everywhere_table_square_4_column_base/autocad_3d/HMI_Everywhere_Table_Square_4_Column_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "fd52b420d6b97c634a2deab0d26bf257011712e827b4e952de63364cc06238ee",
+      "size_bytes": 354085,
+      "variant": "everywhere_table_square_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_square_4_column_base/HMI_Everywhere_Table_Square_4_Column_Base_rfa.zip",
+      "stored_path": "everywhere_table_square_4_column_base/revit/HMI_Everywhere_Table_Square_4_Column_Base_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "2de302d62a3a23b1306093d15ad34ae3386a55e0b3f6cedf5aec64aa01172c6d",
+      "size_bytes": 921648,
+      "variant": "everywhere_table_square_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_square_4_column_base/HMI_Everywhere_Table_Square_4_Column_Base.skp",
+      "stored_path": "everywhere_table_square_4_column_base/sketchup/HMI_Everywhere_Table_Square_4_Column_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "dc92b0c94c41d35287e29ba944b4f575c452c5cceb77bb9afd6bf48e84d54d65",
+      "size_bytes": 519444,
+      "variant": "everywhere_table_square_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_square_4_column_base/HMI_Everywhere_Table_Square_4_Column_Base_rfa.zip#zip",
+      "stored_path": "everywhere_table_square_4_column_base/revit/extracted/HermanMiller_TablesandFurniture_EverywhereSquareTable4-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "cb5721a2d176d9585c8f9711c17ba4235eff34253b8835281ada1a90907b338c",
+      "size_bytes": 1073152,
+      "variant": "everywhere_table_square_4_column_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_teardrop/HMI_Everywhere_Table_Teardrop_3D.dwg",
+      "stored_path": "everywhere_table_teardrop/autocad_3d/HMI_Everywhere_Table_Teardrop_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "549f209ec509170e05863c7c3b3c1ebfd8972e63e620b9ce05b3e28bd99ca003",
+      "size_bytes": 199440,
+      "variant": "everywhere_table_teardrop"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_teardrop/HMI_Everywhere_Table_Teardrop_rfa.zip",
+      "stored_path": "everywhere_table_teardrop/revit/HMI_Everywhere_Table_Teardrop_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "bc88b8d1c691f5929a3a4fa2f935d24c00ebf04c864cc5a04f0549265c6fd5ba",
+      "size_bytes": 1108596,
+      "variant": "everywhere_table_teardrop"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_teardrop/HMI_Everywhere_Table_Teardrop.skp",
+      "stored_path": "everywhere_table_teardrop/sketchup/HMI_Everywhere_Table_Teardrop.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "be2c7f5e12a1fb6180773b024784d31c8bdd5b42e0277a3d86cd086ce010127d",
+      "size_bytes": 541925,
+      "variant": "everywhere_table_teardrop"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_teardrop/HMI_Everywhere_Table_Teardrop_rfa.zip#zip",
+      "stored_path": "everywhere_table_teardrop/revit/extracted/HermanMiller_TablesandFurniture_EverywhereTearDrop.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "aa11f55572724a94a65cfe3d6cfe909febdb723293cc75ca12bf6f8772ec41b1",
+      "size_bytes": 1179648,
+      "variant": "everywhere_table_teardrop"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_trapezoid_post_leg/HMI_Everywhere_Table_Trapezoid_Post_Leg_3D.dwg",
+      "stored_path": "everywhere_table_trapezoid_post_leg/autocad_3d/HMI_Everywhere_Table_Trapezoid_Post_Leg_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "119bd3d8ed57c886b4fc840caf419cd540036b880aca2e788c5a68d5d372d79f",
+      "size_bytes": 313148,
+      "variant": "everywhere_table_trapezoid_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_trapezoid_post_leg/HMI_Everywhere_Table_Trapezoid_Post_Leg_rfa.zip",
+      "stored_path": "everywhere_table_trapezoid_post_leg/revit/HMI_Everywhere_Table_Trapezoid_Post_Leg_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5065d4c35b08a605a442c1edb1ab6911929f26818de77373a5f1cf7f1f0eee9b",
+      "size_bytes": 1155241,
+      "variant": "everywhere_table_trapezoid_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_trapezoid_post_leg/HMI_Everywhere_Table_Trapezoid_Post_Leg_rfa.zip#zip",
+      "stored_path": "everywhere_table_trapezoid_post_leg/revit/extracted/HermanMiller_TablesandFurniture_DT1TS_EverywhereTrapezoidTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "b7d13ae7cffca7d0d574520cacbcea907f9d3d139ae9d625e35ea164f2f31915",
+      "size_bytes": 1204224,
+      "variant": "everywhere_table_trapezoid_post_leg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_video_oval_double_3_column_base_spanner/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner_3D.dwg",
+      "stored_path": "everywhere_table_video_oval_double_3_column_base_spanner/autocad_3d/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "007fe8bc3074bd06118379853d1206a5ec9d7a20da947afad1db4525940a6524",
+      "size_bytes": 320504,
+      "variant": "everywhere_table_video_oval_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_video_oval_double_3_column_base_spanner/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner_rfa.zip",
+      "stored_path": "everywhere_table_video_oval_double_3_column_base_spanner/revit/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "4e6e42a62d1a537381e63f7271d3f06859a43f6cab2e48dfaf765fff767dbe8e",
+      "size_bytes": 844855,
+      "variant": "everywhere_table_video_oval_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_video_oval_double_3_column_base_spanner/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner.skp",
+      "stored_path": "everywhere_table_video_oval_double_3_column_base_spanner/sketchup/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e35fe96a9cc48684d41479faf28648a35f70ed963291045468c5ce4adb96adb0",
+      "size_bytes": 793637,
+      "variant": "everywhere_table_video_oval_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_video_oval_double_3_column_base_spanner/HMI_Everywhere_Table_Video_Oval_Double_3_Column_Base_Spanner_rfa.zip#zip",
+      "stored_path": "everywhere_table_video_oval_double_3_column_base_spanner/revit/extracted/HermanMiller_TablesandFurniture_EverywhereVideoOvalMeetingTable3-ColumnBaseSpanner.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4f0e3c7e5484845fb7718c1631542b3e76fe4eefa517ff78880496c1da17094b",
+      "size_bytes": 917504,
+      "variant": "everywhere_table_video_oval_double_3_column_base_spanner"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_wedge/HMI_Everywhere_Table_Wedge_3D.dwg",
+      "stored_path": "everywhere_table_wedge/autocad_3d/HMI_Everywhere_Table_Wedge_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "14fbb905b60d8adea8b0e079133e5977b431308ab3659d08fc01c3a064a1aece",
+      "size_bytes": 299865,
+      "variant": "everywhere_table_wedge"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_wedge/HMI_Everywhere_Table_Wedge_rfa.zip",
+      "stored_path": "everywhere_table_wedge/revit/HMI_Everywhere_Table_Wedge_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "6157eee334171b382a3f39d7464c208aa80d8efca2fb6ae1c479c2c8860a6076",
+      "size_bytes": 540736,
+      "variant": "everywhere_table_wedge"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/everywhere_table_wedge/HMI_Everywhere_Table_Wedge_rfa.zip#zip",
+      "stored_path": "everywhere_table_wedge/revit/extracted/HermanMiller_TablesandFurniture_DT1WS_EverywhereWedgeTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "805f6fdad8b1c80f17c956efee60b23fea8224d5f51e0102d08ed6306ced8b71",
+      "size_bytes": 581632,
+      "variant": "everywhere_table_wedge"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "fb93a39760b8048f909aaa4b997aa3ba10713ab0b3cacf45d15f354d70cb6e74",
+      "size_bytes": 109975816,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Accessories.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "d81d279242c455a943924c097e4fbff34d025fdf0270ac654ec2a0cf8c481be3",
+      "size_bytes": 499359,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip",
+      "stored_path": "hmi_everywhere_tables/revit/HMI_Everywhere_Tables_Occasional.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "d260d97b7df59b7021423c05e3a11da7cafa1cb7a158503fedbd71eb517c7d1f",
+      "size_bytes": 115993735,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip",
+      "stored_path": "hmi_everywhere_tables/revit/HMI_Everywhere_Tables_Screens.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "6dcab04d01da8158e7dbb710701f7893d512b90fec90f28a44892205b9a15bfb",
+      "size_bytes": 8430856,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip",
+      "stored_path": "hmi_everywhere_tables/revit/HMI_Everywhere_Tables_Seated_Height.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "5d601455995a704708435ea003c3e87222593d54ae1ecb694ec994d53f9146ec",
+      "size_bytes": 90615520,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip",
+      "stored_path": "hmi_everywhere_tables/revit/HMI_Everywhere_Tables_Standing_Height.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "051a25c3b75ba69ddac09b66bfb012dbc7276d69e6e4e702fcaa63976c524602",
+      "size_bytes": 4698653,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Accessories.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Accessories/HermanMiller_TablesandFurniture_EverywhereCableManagementClip.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "343be4f2366b23056ca965c723c8ec675306d2f556d995a0fd2884a64b0b8cba",
+      "size_bytes": 565248,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_FlatEdgeScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c8fc864c99eb25e8d713a69528eb84f28810c45345f523ef556e69f1acaf0e9d",
+      "size_bytes": 888832,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_FlatEdgeScreenSurfaceAttached.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bd72ca46dab37e05cd5e0e9c9adc6c39884c8de6132ddb2fa258bfa556b5e342",
+      "size_bytes": 876544,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_FlatEdgeScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "6876aac5c57483f2e94f72483e47c16a1ff504fc0e187f3793cf4ab2d5f7c0ec",
+      "size_bytes": 1155072,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_LaminateScreenSurfaceAttached.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1bea7dacf01fd9366025a40f43d64ba0522c48b55ce6a29c3f52a8f6c73ce7c3",
+      "size_bytes": 917504,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_LaminateScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e32c013453dae62a9c206f7d3e653f3765dbdc1e1d208cb028a8c4b0773a6fe0",
+      "size_bytes": 1081344,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_PariScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2e2d64e1120d2dd5e52cdb7ec6c60d2321169385193012887e0cd16829f96a6d",
+      "size_bytes": 716800,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_PariScreenSurfaceAttached.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "54379fd451b74e519af66d9bf7364797f3612e1ac5a8fcbb1c555ea5eca980cc",
+      "size_bytes": 1261568,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_Canvas_PariScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "43f9fa83c9f3d3db0ca4cad4d02f3d61477f202b67844ce9fad56fcbe6eaec0c",
+      "size_bytes": 1785856,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_ThrivePortfolio_FabricModestyPanel.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "75519ad343f95a75461dba0649b46b10f91cfdfa43d9b99a614982e00e3687de",
+      "size_bytes": 802816,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Screens.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Screens/HermanMiller_ThrivePortfolio_MetalStraightScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7452822222b21198569993a79618f311d189a114b8a301e4d32cdf4908f84c58",
+      "size_bytes": 999424,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/1 Square-Edge/HermanMiller_TablesandFurniture_EverywhereHalfRoundTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "239b508303eae8322828a8830a474e094b5cca6da36d07e56f4433c2dd604692",
+      "size_bytes": 1060864,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/1 Square-Edge/HermanMiller_TablesandFurniture_EverywhereTrapezoidTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "8510587f345833b190bc3307bc397766129a8dbc9f9eff6247980b6089996daf",
+      "size_bytes": 1458176,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/1 Square-Edge/HermanMiller_TablesandFurniture_EverywhereWedgeTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fbd90a46f08d6839b218db978afb747f54b9d95554b4bfa5d9cd7d71f20807be",
+      "size_bytes": 897024,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/2 Thin-Edge/HermanMiller_TablesandFurniture_EverywhereOccasionalTableRound.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "ba12705f51dbdab2e227f8cf2caa86002d4a3fc6a5578a39f07a7af6e6dc9c84",
+      "size_bytes": 753664,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Occasional.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Occasional/2 Thin-Edge/HermanMiller_TablesandFurniture_EverywhereOccasionalTableSquare.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "47929bcb1a94c9bd5409e76a9c90e7fd2d4910aa0cd3720e83eb75b5aaa760ad",
+      "size_bytes": 675840,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereClassroomPostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "444fe4b57153b9d9c8c636da86d00127de2ced089de2fcdf117028c83e07999d",
+      "size_bytes": 880640,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereClassroomT-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "dab38103aaaacb260141cf5b42135f226dd589ae67043a5c1e88f97bf8cd5a37",
+      "size_bytes": 966656,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereConcaveRectangleC-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "fff2fb456b9a3bfface4e6df32db51ec5a963974d9bb2999f9f3046077d0331a",
+      "size_bytes": 999424,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereConcaveRectangleD-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2e3e1b0aa09ebbd5d26f69c4d627ceead882172fb51943ef71d5cdfc6f632474",
+      "size_bytes": 999424,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereConcaveRectanglePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c41a209a9d696ca78eb7e459eed0f0f706a35d01236626c84d3754b0d412a0aa",
+      "size_bytes": 962560,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereConcaveRectangleT-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "73886a4fb63f59cbd74ed2ffb51785c11ef77da9ecd1610218c41284fab3f78f",
+      "size_bytes": 1036288,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereConferenceCornerTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1c70421071114873cf640ff9e67856e9fc2b1583e338771b3d2b7adb67afc0e5",
+      "size_bytes": 864256,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereD-ShapedTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "70d0fcbb878461ea9a4ebf6a76eb07262656f93e657cad3153072924b4e3f368",
+      "size_bytes": 905216,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereD-ShapedTableT-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bbf9534f3f3630a10c744818ecd95221850c8ab736d0d763b9cff61744d0ecdd",
+      "size_bytes": 1081344,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereFlip-TopRectangularTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c88c0db803982f8f1712a7cd78e923b3ba309ba263d6369f2d086dcafa8380db",
+      "size_bytes": 1175552,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereOvalTable3-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0ded40961acaddc9312bcef79bb09da4e582f1095fe509282e1dcb4972b3f224",
+      "size_bytes": 1163264,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereOvalTableEasedEdge3ColumnBaseSpanner.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c0ec2914476467d4bf3d522deaf4fab638ebe9a2b6ada4e8ea3452b44758b8a1",
+      "size_bytes": 1126400,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereOvalTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "430f5ceef8ef2d72f93c6fe68c82dbd74f95698bc89a664c80cd1944f5540589",
+      "size_bytes": 999424,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRectangularTableC-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "39343240be86f155cdd7da0d63bbaa031ced52f70628f4876d866c1a802fef4a",
+      "size_bytes": 1032192,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRectangularTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "cfb2742084ffcd029d5c9310ded803f4c105cac91dd6843224398153716b1385",
+      "size_bytes": 929792,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRectangularTableT-Leg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c8bc7f3a84d53afda4696272b9d7ec7ba45843dc7395b2ad7a6e1400d28de498",
+      "size_bytes": 1077248,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRoundCornerTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "44fda13f06502a4ab8b558fcdeef13f61cfcca03961ce230282d10f6129ebf73",
+      "size_bytes": 757760,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRoundTable4-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2f203909c610ecbf57b947872bb031c58ec435a49cb5363cb60e956d77103682",
+      "size_bytes": 1064960,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRoundTablePostLeg.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "5d1030ffc361d8021cb69c45c8252cbcb205fc1fc1d4a8da128fe8759bac3d04",
+      "size_bytes": 815104,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereRoundTableSingle-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a395404d62ce08cbf309ab4c46c8bd295c6fad47fab108a535bd993e942febd6",
+      "size_bytes": 1056768,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Seated_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Seated_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereSoftRectangleMeetingTable3-ColumnBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "9751fce2e377da4e1e2bf5a8193e054cdb4349b5d2f3ea49e79d4cdadf76ee61",
+      "size_bytes": 1277952,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightRoundTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "b053c878ea474090b7eda6e40f07ecd6d0de4a5f1f7a38ce4f4f66847f9a1224",
+      "size_bytes": 864256,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/1 Eased-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightSquareTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "744e96c78b85cbf32584f6242073307b6fe2506190db131878c5aec993d58731",
+      "size_bytes": 872448,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/3 Thin-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightRoundTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "297c3b9cc65034d81cf8e95fb69bbff459a3c9144d6e063cc8e68f1c2851b6a2",
+      "size_bytes": 864256,
+      "variant": "hmi_everywhere_tables"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/everywhere_tables/hmi_everywhere_tables/HMI_Everywhere_Tables_Standing_Height.zip#zip",
+      "stored_path": "hmi_everywhere_tables/revit/extracted/HMI_Everywhere_Tables_Standing_Height/3 Thin-Edge/HermanMiller_TablesandFurniture_EverywhereStanding-HeightSquareTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a456f34fd0ed62844f786b1e5ab86f78195267e7d4ddd36f4334ebeb112df95d",
+      "size_bytes": 782336,
+      "variant": "hmi_everywhere_tables"
+    }
+  ],
+  "updated_at": 1755361678
+}

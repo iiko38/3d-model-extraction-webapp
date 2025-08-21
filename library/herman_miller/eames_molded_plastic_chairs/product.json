@@ -1,0 +1,469 @@
+{
+  "brand": "herman_miller",
+  "product": "eames molded plastic chairs",
+  "product_slug": "eames_molded_plastic_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4b6e41c1d58591a945bf9a0dd72659e8e6d85c42ad5e68b9736c92035e40e32e",
+      "size_bytes": 220643,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "bc4530709f83080f8ac67e3bfde7eee90006b13e85cb137e30110dedc1e3c7c4",
+      "size_bytes": 736382,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_fully_upholstered/revit/extracted/HermanMiller_Ancillary_EamesUpholsteredMoldedArmChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0304bcfcad62b6fb73beabced7b0d315ef77636c1c202ee49abba05a86ce4d81",
+      "size_bytes": 2293760,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "89048339bc727f644242e7213d75f1e5c8e9f165467c480b7687e94b23346370",
+      "size_bytes": 229068,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "4c200fb2f056790b4628533981f0d1f1d81ad5f79c34f02df3d83c8ebb928435",
+      "size_bytes": 713329,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_nonupholstered/revit/extracted/HAY_Seating_EamesMoldedSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1bdf9214f2d1f1777d89341972159c035e2c5a63c5219a172b6248fdaf10a789",
+      "size_bytes": 1777664,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedArmChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c618bed150834ede524f05f996d7674548c36d4619cbb4440a905968963e5349",
+      "size_bytes": 1835008,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d7f029c65abf2a1215bde28d644691fc1cd5eb7cd337cd1af0cf0c91a19b3be7",
+      "size_bytes": 265153,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_4_leg_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Armchair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8e543faa49c69aba6e9c358df1b28e19a51ac68f834900fb1541bb22a46f5de4",
+      "size_bytes": 838547,
+      "variant": "eames_molded_plastic_armchair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c5d01d2036f19bbf754f0551bce161790352d1b9f9b41282df235dd165c14bd5",
+      "size_bytes": 215617,
+      "variant": "eames_molded_plastic_armchair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a5555c8574cb20fb1fffb1960970d08c18f1037f7a845782c2b15d4b8e9cd931",
+      "size_bytes": 669570,
+      "variant": "eames_molded_plastic_armchair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0257ea7db6929fea28fc46a46df7baaaee2e836f5b73425ef2fe9319de1731c8",
+      "size_bytes": 227613,
+      "variant": "eames_molded_plastic_armchair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "503d521905544000e8c568fbf796c76737a161749683f149dc63766c1309bd27",
+      "size_bytes": 646449,
+      "variant": "eames_molded_plastic_armchair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d98e625294dc2ae2352f14a0946702c63eace55e3e6ae0c90bf669d5ffe3fca8",
+      "size_bytes": 260059,
+      "variant": "eames_molded_plastic_armchair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_dowel_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Armchair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "dd4b3df3591cdb948bb2a7ebbe8a38e5b1ce6c6010f349b9581a9b8e44c16f58",
+      "size_bytes": 758237,
+      "variant": "eames_molded_plastic_armchair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "fe13102dc64b9227e0537da68c9ae2721121eb9a96be0ae83938ea5d87291d0b",
+      "size_bytes": 250519,
+      "variant": "eames_molded_plastic_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c6b379875dc0fb5c7d32601cc564645cda88f796c255ecd92a2cf67a8b16f8a0",
+      "size_bytes": 838944,
+      "variant": "eames_molded_plastic_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "485f19411cf2d78725e0aa663de8d563cbcb4b69573d69bd84fc31707278ebf5",
+      "size_bytes": 245587,
+      "variant": "eames_molded_plastic_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "bd6e7c2abcdaed2e23018a6d2629a591117243a32cccf61c6ebff9b58d0ad104",
+      "size_bytes": 813912,
+      "variant": "eames_molded_plastic_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1844cdf3a7d19ecc11c4f634b81cd294a2d7d5413b927eec361001c5715b1813",
+      "size_bytes": 293098,
+      "variant": "eames_molded_plastic_armchair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_armchair_wire_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Armchair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fbe18ea3f5c498f1afaeddce8aef3ca3e2ea616590e3561bbbcec4e0a8bb60e9",
+      "size_bytes": 946714,
+      "variant": "eames_molded_plastic_armchair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Rocking_Chair_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "b4dcabbdba3cbca45fc09c597f766fe269dfe83d9e549ca611d0d35a880f022f",
+      "size_bytes": 238408,
+      "variant": "eames_molded_plastic_rocking_chair_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Rocking_Chair_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "bc4b65a57e457949e5751e3c888c45951938f1e71ae51fd16488fa6b08bd3221",
+      "size_bytes": 695980,
+      "variant": "eames_molded_plastic_rocking_chair_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_fully_upholstered/revit/extracted/HermanMiller_Ancillary_EamesUpholsteredMoldedArmChairRockerBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a3d9bb3c3f49df80d3e94341e9701ff24e41034586a91d89bd4373210b64afc7",
+      "size_bytes": 2015232,
+      "variant": "eames_molded_plastic_rocking_chair_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Rocking_Chair_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "39f431537421ebaeb42e77b776af093b817e0df0adafebf75c428407d3d3999f",
+      "size_bytes": 246988,
+      "variant": "eames_molded_plastic_rocking_chair_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Rocking_Chair_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "0b8a9b4c846873e5182f7ea7be1bfb947b3d8e6319544ebdb0bceeba17aeec80",
+      "size_bytes": 690617,
+      "variant": "eames_molded_plastic_rocking_chair_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedArmChairRockerBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "8ced0da06a8f191b2cb59f998dd6dd8ffdfd26c0a20e7aeee4b86b01abeed509",
+      "size_bytes": 925696,
+      "variant": "eames_molded_plastic_rocking_chair_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Rocking_Chair_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "61ad97aa7549501448e105b30386b8f895c9cadc4f5ba4c07f322bbe9c6de149",
+      "size_bytes": 289701,
+      "variant": "eames_molded_plastic_rocking_chair_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_rocking_chair_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Rocking_Chair_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "5604079c431ebf6ce16353d9ae10b0d15892220835c3e1ff58603017c11eda87",
+      "size_bytes": 790647,
+      "variant": "eames_molded_plastic_rocking_chair_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "cc4398195415a42167cf7ddf502c084f69ba83715f146e328bf73086a682bfd3",
+      "size_bytes": 202844,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "9e7b549b68238ef1330f9eb1bc542488ebddd979fc4dbb116040ef3815903f15",
+      "size_bytes": 611686,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_fully_upholstered/revit/extracted/HermanMiller_Ancillary_EamesUpholsteredMoldedSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0684ee5d911289a93b2a0f073ee662a09f1263e3b107359c9fc656be5272dffd",
+      "size_bytes": 1683456,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "a3e3b8517b5e5ba9a06676da7a910e78cf0b9818b12a1fa7478bf8e936988384",
+      "size_bytes": 212533,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2937e61aae64372705abf59f6dfe7e180765b65eb8d359923d0aad7cb4129118",
+      "size_bytes": 540524,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "662e159da42b0bda1615058775d0c66293ea79fe3bc98fcea3113a95aaa58ce4",
+      "size_bytes": 1814528,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "52204b784d36ad3ae62cc1b8e4e9d5aa0fcd2331708eb4ac0fb7c1d33c10dbe8",
+      "size_bytes": 268377,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_4_leg_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "78899df5c56e6386c3a583d228518562b0074742ef7732084ca6ed8a7986892e",
+      "size_bytes": 782159,
+      "variant": "eames_molded_plastic_side_chair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "2da41fd8c854df082c7a2344711212de75e31229a1dd3ef6c9540254cdddedf8",
+      "size_bytes": 183346,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b5d47f5dbad768f7898a06bd66c3e4b8f031c31e1947330caf865edb1c056f0d",
+      "size_bytes": 528400,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "08d1b2aacb2ba507d320903c7c8b705c0b9dab198397e6904481cd14d65e48cb",
+      "size_bytes": 157675,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7c24dc3ba6756b7a6b5d1e49d48ebe23ec1cbddb5d1d4ec89a4a8b242498d1ae",
+      "size_bytes": 455771,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d5f6bab18d2583851912cac3d98715635e112c64348c88248ab97d2763603074",
+      "size_bytes": 246968,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_dowel_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "5efd7a774bc77e731b365192af5d05fff88a117b225d37c129a7d23199872c12",
+      "size_bytes": 689194,
+      "variant": "eames_molded_plastic_side_chair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_stacking_base/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Stacking_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d32ae605797daf46877fbc01c73b2c465112470c72a3941f20d9b8b2f2036435",
+      "size_bytes": 263507,
+      "variant": "eames_molded_plastic_side_chair_stacking_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_stacking_base/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Stacking_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c0f3b89854d2c8dfbc43aa533939814667b85d1f2c8be99f3111a5d48d77884d",
+      "size_bytes": 698270,
+      "variant": "eames_molded_plastic_side_chair_stacking_base"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "3866fd8b88b1b6d397c710a5cde68af499f4434329f1ff03bb06353bf03bb4b8",
+      "size_bytes": 217797,
+      "variant": "eames_molded_plastic_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_fully_upholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a453b15d6656757bf43a5e3eb401f94ffa08444710ed701616d7b20d03bd1b97",
+      "size_bytes": 638051,
+      "variant": "eames_molded_plastic_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "f33f8f7957980149145b06d1b82cf7464a3222bdfab1a584ce925c4b072925d0",
+      "size_bytes": 287568,
+      "variant": "eames_molded_plastic_side_chair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_nonupholstered/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7b450bb551cbfec3d0a020c060475fa8abafc42db45f55a5ff9ebb1a03fb20a3",
+      "size_bytes": 570854,
+      "variant": "eames_molded_plastic_side_chair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0ee91c1abe434161c9caeeee5c04eb88c4a1b77a685b78e3d21e9a62c2e5037b",
+      "size_bytes": 275682,
+      "variant": "eames_molded_plastic_side_chair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plastic-chairs/eames_molded_plastic_side_chair_wire_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Plastic_Side_Chair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "dbeecd72be63fe71fceaddda1c2b3474797397870878cdb197f554d71f0f232d",
+      "size_bytes": 814433,
+      "variant": "eames_molded_plastic_side_chair_wire_base_upholstered_seat_pad"
+    }
+  ],
+  "updated_at": 1755362530
+}

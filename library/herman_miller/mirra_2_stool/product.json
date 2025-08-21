@@ -1,0 +1,37 @@
+{
+  "brand": "herman_miller",
+  "product": "mirra 2 stool",
+  "product_slug": "mirra_2_stool",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-stool/mirra_2_stool_suspension_back_fixed_arms/autocad_3d/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4850ac72ec763567e5ce7f6afa06b997be206bd5fd2bfc3ed7be4fe1bdc2d3e8",
+      "size_bytes": 2829165,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-stool/mirra_2_stool_suspension_back_fixed_arms/sketchup/HMI_Mirra_2_Stool_Suspension_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ba70a0ed830183a389573968957ecd9b0d4532226c6c21dba941fb3d9259f45d",
+      "size_bytes": 5498679,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-stool/mirra_2_stool_suspension_back_fixed_arms/revit/extracted/HermanMiller_Seating_Mirra2Stool.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2cbffb796bfc81a4697a2f65a7072bc463ad900304d02b323dd7eeda9334d932",
+      "size_bytes": 4853760,
+      "variant": "mirra_2_stool_suspension_back_fixed_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

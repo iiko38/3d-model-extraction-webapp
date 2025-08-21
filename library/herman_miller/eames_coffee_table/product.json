@@ -1,0 +1,55 @@
+{
+  "brand": "herman_miller",
+  "product": "eames coffee table",
+  "product_slug": "eames_coffee_table",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-coffee-table/eames_coffee_table_rectangular/autocad_3d/HMI_Eames_Coffee_Table_Rectangular_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d3becee45b0cd9f4d9c179e6255d9f618bf6bd62602b6dd425ee15af4adc992d",
+      "size_bytes": 87303,
+      "variant": "eames_coffee_table_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-coffee-table/eames_coffee_table_rectangular/sketchup/HMI_Eames_Coffee_Table_Rectangular.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "17a6242a82b416e875923ed0eba391dd1ea799111df34a209282f469bb0c58bf",
+      "size_bytes": 178874,
+      "variant": "eames_coffee_table_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-coffee-table/eames_coffee_table_rectangular/revit/extracted/HermanMiller_Ancillary_EamesCoffeeTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4cdf1a4941261cc24369799fd272666a202f911e0583fa1b541658c03d369fcc",
+      "size_bytes": 1728512,
+      "variant": "eames_coffee_table_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-coffee-table/eames_coffee_table_square/autocad_3d/HMI_Eames_Coffee_Table_Square_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "90dc78ba7ccbbd96cc43d1922835fc0b569fd2b44a51119513ddf8d7277962fe",
+      "size_bytes": 86535,
+      "variant": "eames_coffee_table_square"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-coffee-table/eames_coffee_table_square/sketchup/HMI_Eames_Coffee_Table_Square.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "08f8ef2840a5ade06d6adff000894e6151b794c180f97fa3e324bb1f85320260",
+      "size_bytes": 183918,
+      "variant": "eames_coffee_table_square"
+    }
+  ],
+  "updated_at": 1755362530
+}

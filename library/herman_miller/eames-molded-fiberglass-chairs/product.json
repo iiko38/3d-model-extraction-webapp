@@ -1,0 +1,447 @@
+{
+  "brand": "herman_miller",
+  "product": "eames molded fiberglass chairs",
+  "product_slug": "eames-molded-fiberglass-chairs",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-plastic-armchair-dowel-base-nonupholstered/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/caper-stacking-chair-fixed-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-fiberglass-armchair-dowel-base-nonupholstered/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "cf41b363e446d20ce739112d9d2f9f664cfe08ae9d1da60fbc977d8b001ab5f9",
+      "size_bytes": 220106,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered/revit/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "3f2381d0f6f52e467e1a9d6bf7d69ca7f2e038e58322b56b9da871cefbc7edbc",
+      "size_bytes": 2216067,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8f180c76ad828e63bc5ddb135d297421472f505a4f61cbac6f6148b159b25c4a",
+      "size_bytes": 736613,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered_rfa.zip#zip",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered/revit/extracted/HermanMiller_Ancillary_EamesUpholsteredMoldedArmChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0304bcfcad62b6fb73beabced7b0d315ef77636c1c202ee49abba05a86ce4d81",
+      "size_bytes": 2293760,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1865e1a07b406cfa3fe8b6ef8dec0b10df8717a7e41ec6c57f19801798a1948b",
+      "size_bytes": 238381,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Nonupholstered_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered/revit/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Nonupholstered_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "401a5e467856897b32ee40c8d18e8a65e9775017b186a3e3bb2d634fb8c4b7b0",
+      "size_bytes": 1771850,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1835056b66f0a8be5067563d9b87198171f1d6ccdf1c4bde121e2a84c39b1f2a",
+      "size_bytes": 713340,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered_rfa.zip#zip",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedArmChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "c618bed150834ede524f05f996d7674548c36d4619cbb4440a905968963e5349",
+      "size_bytes": 1835008,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8f110f1e5eaa593b07fa3c0a9148d0db9d71287f2a7aeea12c5d6669f59d69b6",
+      "size_bytes": 265316,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "073889b4d17920e65e688929ada8c0ada210190323d5e18099ac2e9ceceea8fa",
+      "size_bytes": 842110,
+      "variant": "eames_molded_fiberglass_armchair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "57cb6cf5fcaaa149d82cfd9abd3dd5fb4567fe771dea614b8422e556c9bf96e6",
+      "size_bytes": 215555,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "ab175a4b46ff2ecf16df36b290ba93244ce7d670e5f79ae532d68d050451b672",
+      "size_bytes": 669580,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0e6b5be040b95c35b01f8c5478dfba5698610351def450c8c53b9350ce53abc2",
+      "size_bytes": 237830,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a7e4479c8b484e17945046917ecb163f00e255d3d8a8de05780f849b7b783bd6",
+      "size_bytes": 646263,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c5ab361492cb3efa4e8982d4b1d64ba2c68316baea7e6ad3db623c6ae4621a38",
+      "size_bytes": 260319,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f6c2181812a478ad29316d08e1ec706b969c7329eeb2faa984d7aae29612cc88",
+      "size_bytes": 758260,
+      "variant": "eames_molded_fiberglass_armchair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "77cb5a34177fc69d66b799f9c9b6ed7596873330f867d1a3504bd43b81883bb1",
+      "size_bytes": 232405,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1e12dea0203736f4179bb3a9238b19371f8ee0b06abf8bdd56452da48cf74aa6",
+      "size_bytes": 837071,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "76b150c3f793dd6c798c212a28c3560e7e2990db7ac9c5581474ae741a8f37e5",
+      "size_bytes": 245841,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_nonupholstered/revit/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "4010dbad0c071aed81d8b418802556f4848ffa09467447ed9fdc1e5aa1328de5",
+      "size_bytes": 1771850,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "406cc039fbe66131a00d695812bcbe720bb613e4d21cb17b895d2a3174a967c9",
+      "size_bytes": 813921,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4ab130ff80ce5a20049408a42d5ceca1f0ea9365d2c50df97015e5134b3c9bf8",
+      "size_bytes": 276941,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Armchair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "402383af991f305b147b711b518c9d3285b31a987f13a9f40af8c258b5302027",
+      "size_bytes": 944297,
+      "variant": "eames_molded_fiberglass_armchair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "fac2d6d1eafcd806ed447090d10739fc40d09b1c1df5e9d3e07d0e2b6a658a42",
+      "size_bytes": 208030,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/revit/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "68606150cbe315b5aca93f43b461f33ffcd0cc7841ba69f449aa2f84dec482fe",
+      "size_bytes": 1612622,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "cb21acd8d42554de0bb98e0cbb945583cffbf08f107033c66c630356ca3007ff",
+      "size_bytes": 611698,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered_rfa.zip#zip",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/revit/extracted/HermanMiller_Ancillary_EamesUpholsteredMoldedSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0684ee5d911289a93b2a0f073ee662a09f1263e3b107359c9fc656be5272dffd",
+      "size_bytes": 1683456,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d65225958bbc307dc7132f83c047ba59b74ccc522b39539acb3177847663dd52",
+      "size_bytes": 175433,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/revit/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "4b62411af7d7eb5893677bfbbf33a5d9c8eed6e3e524caec9b80d3b6e54256c1",
+      "size_bytes": 1715365,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c08c44071e8e734824b7a732ecaf5781b1be8d2fa0c207bb3ea6131ba7412770",
+      "size_bytes": 540539,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad_rfa.zip#zip",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/revit/extracted/HermanMiller_Ancillary_EamesMoldedSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "662e159da42b0bda1615058775d0c66293ea79fe3bc98fcea3113a95aaa58ce4",
+      "size_bytes": 1814528,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "37f0aecf2d9f516c8caf0be081bf52b07bd8f8c353df65f9b78e0fe2b825e476",
+      "size_bytes": 264764,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad_rfa.zip",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/revit/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "7ac03a74f4501bf69859c11a0e2e899036f4652845f1dc57ae20ca69893958a6",
+      "size_bytes": 1715365,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_4_Leg_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b60ddfeef2d82bd55824b83da57aa3b7bd1effcd6a21b0b6bf615d7a789dd1c1",
+      "size_bytes": 782140,
+      "variant": "eames_molded_fiberglass_side_chair_4_leg_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "fcbd3fd7e0ee10e6c149cab99e1cf9c479995d63659fa4946eb4a7b272119cf4",
+      "size_bytes": 186162,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "22fb77aa0a4c6d9a178318cec0a1e5508ee83fd4b1e80ad476a0090903a246b3",
+      "size_bytes": 528412,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d617b883d373f3162a6480eb9712f05f686ba18155e9522656bc13f3e6cab535",
+      "size_bytes": 159827,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "033d97bc12f618f25778bf2661d87e161dc71235815914ca13349d812867cfe5",
+      "size_bytes": 455526,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "68a590cd755ca61304076f7dbf8c1447938ad7880d891d83ac6571c9ed7b9262",
+      "size_bytes": 247443,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Dowel_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e13c7a00ff5707f3107e620de7da1eca349423b4e4761d886565345491ab0127",
+      "size_bytes": 689279,
+      "variant": "eames_molded_fiberglass_side_chair_dowel_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_stacking_base/HMI_Eames_Molded_Fiberglass_Side_Chair_Stacking_Base_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_stacking_base/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Stacking_Base_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9c4b4e2d46f4f640258bca75e5e2979bde56bfc601da3da893a80ee0c6fae455",
+      "size_bytes": 273429,
+      "variant": "eames_molded_fiberglass_side_chair_stacking_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_stacking_base/HMI_Eames_Molded_Fiberglass_Side_Chair_Stacking_Base.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_stacking_base/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Stacking_Base.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c2d48bd4cffde519659ec042646c72a54b7104f4b011c2a3e2bacb56868dee99",
+      "size_bytes": 698282,
+      "variant": "eames_molded_fiberglass_side_chair_stacking_base"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e5ba51edad6b7e2de30b8ea8efc1a1bba45e7de107d30066020443c49d24ff26",
+      "size_bytes": 217795,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Fully_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "373282faebc9babc4e21cfef1a370c1d67bcbfa460f785827907712f83505c42",
+      "size_bytes": 638323,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_fully_upholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Nonupholstered_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8a5d90f77698fcc8f12b8de4bab33e4e7fd9a536ebfaf4df957111f2264429bd",
+      "size_bytes": 188378,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_nonupholstered/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Nonupholstered.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_nonupholstered/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8fc4ae3b29c4a0f4541ac3db2761de5da16362ae9427a413ced33f14f41bbb29",
+      "size_bytes": 570867,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_nonupholstered"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/autocad_3d/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e227226e3f4c4be5f9ee74957dd8dbb7e8e38505a065180e91a295769fc2e214",
+      "size_bytes": 275621,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/e/eames_molded_fiberglass_chairs/eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "stored_path": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad/sketchup/HMI_Eames_Molded_Fiberglass_Side_Chair_Wire_Base_Upholstered_Seat_Pad.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "cec464e6c835f68ad9dd0c4a14d7fd4f555644cd0be0417ea08f61f59f931fb1",
+      "size_bytes": 814315,
+      "variant": "eames_molded_fiberglass_side_chair_wire_base_upholstered_seat_pad"
+    }
+  ],
+  "updated_at": 1755361678
+}

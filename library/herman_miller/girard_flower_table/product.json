@@ -1,0 +1,37 @@
+{
+  "brand": "herman_miller",
+  "product": "girard flower table",
+  "product_slug": "girard_flower_table",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-flower-table/girard_flower_table_large/autocad_3d/HMI_Girard_Flower_Table_Large_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4c22bf25baa02d1a7fe3e0bd000d35f8e5c187df0b56ed491483c64639b4d268",
+      "size_bytes": 1839761,
+      "variant": "girard_flower_table_large"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-flower-table/girard_flower_table_large/sketchup/HMI_Girard_Flower_Table_Large.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7fbeb45a3accaed8ad4afa6bd797cf7833499dcb583bdd997dbabc29c6299bf2",
+      "size_bytes": 3847677,
+      "variant": "girard_flower_table_large"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/girard-flower-table/girard_flower_table_large/revit/extracted/HermanMiller_Ancillary_GirardFlowerTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "283010eb1503ad55eff45295cf71d9fe0641b7ff9bf7b64baa7eb4cd637eba99",
+      "size_bytes": 856064,
+      "variant": "girard_flower_table_large"
+    }
+  ],
+  "updated_at": 1755362530
+}

@@ -1,0 +1,50 @@
+{
+  "brand": "herman_miller",
+  "product": "rohde easy chair",
+  "product_slug": "rohde-easy-chair",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-lounge-chair-classic/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-molded-plywood-lounge-chair-wood-base-nonupholstered/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_easy_chair/HMI_Rohde_Easy_Chair.skp",
+      "stored_path": "HMI_Rohde_Easy_Chair.skp/sketchup/HMI_Rohde_Easy_Chair.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "786c153b29fdb8d98dbf810fdd492726b877c2282d190143b86e9d5cac07c464",
+      "size_bytes": 17180131,
+      "variant": "HMI_Rohde_Easy_Chair.skp"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_easy_chair/HMI_Rohde_Easy_Chair_3D.dwg",
+      "stored_path": "HMI_Rohde_Easy_Chair_3D.dwg/autocad_3d/HMI_Rohde_Easy_Chair_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "009e55be1a8c9f3f9b228c7e52d8561aff27cb136adea45cf878945b7642a595",
+      "size_bytes": 4265969,
+      "variant": "HMI_Rohde_Easy_Chair_3D.dwg"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_easy_chair/HMI_Rohde_Easy_Chair_rfa.zip",
+      "stored_path": "HMI_Rohde_Easy_Chair_rfa.zip/revit/HMI_Rohde_Easy_Chair_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "fba39a40b3552640b8901efa00a4c2723792a0e7d2a07dde9685e55c19932109",
+      "size_bytes": 954388,
+      "variant": "HMI_Rohde_Easy_Chair_rfa.zip"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_easy_chair/HMI_Rohde_Easy_Chair_rfa.zip#zip",
+      "stored_path": "HMI_Rohde_Easy_Chair_rfa.zip/revit/extracted/HermanMiller_Seating_RohdeEasyChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4bd32b1921e878c9ebd51805db93e438b7a5cf6f91dca59f50553331c147e46c",
+      "size_bytes": 995328,
+      "variant": "HMI_Rohde_Easy_Chair_rfa.zip"
+    }
+  ],
+  "updated_at": 1755361678
+}

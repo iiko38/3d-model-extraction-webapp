@@ -1,0 +1,55 @@
+{
+  "brand": "herman_miller",
+  "product": "product models",
+  "product_slug": "product_models",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/product-models/autocad_2d/HMI_Zeph_Chair_With_Arms_2D.dwg",
+      "file_type": "autocad_2d",
+      "ext": ".dwg",
+      "sha256": "9bf2611fb98eb70bab162fd1fa8bfca9c9db2b4a54d857c2eb200f96adb77bfe",
+      "size_bytes": 42061,
+      "variant": null
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/product-models/autocad_3d/HMI_Zeph_Chair_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9fd404eeae2ed0197919042b8e4ab09d38f4930c85eda0ce1c00c3035d9f2254",
+      "size_bytes": 1334617,
+      "variant": null
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/product-models/sketchup/HMI_Zeph_Chair_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "190dcaf2829fb4effec6ec12cd0edca372fb91df67863fc4a58863a674a12f72",
+      "size_bytes": 2924927,
+      "variant": null
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/product-models/revit/extracted/HermanMiller_Seating_VerusWorkChairAssembledInterweave2SuspensionBack.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "51fa2a474cfe06d784b3bbcaad6908dba42fc58f54b594ad074a60f137993a16",
+      "size_bytes": 4886528,
+      "variant": null
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/product-models/revit/extracted/HermanMiller_Seating_ZephMultipurposeChairFullyAssembled.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "619e2e5802ee642d4186e3f717ef90414692f2f88a47fd5e138af61e7cfefad9",
+      "size_bytes": 7790592,
+      "variant": null
+    }
+  ],
+  "updated_at": 1755362530
+}

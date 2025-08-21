@@ -1,0 +1,316 @@
+{
+  "brand": "herman_miller",
+  "product": "motia sit to stand tables",
+  "product_slug": "motia_sit_to_stand_tables",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Adjustable_Height/HermanMiller_TablesandFurniture_ExtendedCornerTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "bf6527b758b4ee92d69d183693c5740b4f88b803eceed7faf7af5ae863e1b1ed",
+      "size_bytes": 13631488,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Adjustable_Height/HermanMiller_TablesandFurniture_MotiaRectangularTableC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "2b90f5e3c636f65c4fad0c2dff91024174c1b2522a1b4b2f95990705e605e7c6",
+      "size_bytes": 2052096,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Adjustable_Height/HermanMiller_TablesandFurniture_MotiaRectangularTableT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "e9662d52a38c25cb94bc2029b066e417f1de7ee7c3f7abe7c60fd3819154d82e",
+      "size_bytes": 10842112,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_C-Foot3LegBaseKit.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "24a83fbac9d2ee7726c23bf6a40d0365b7e2342ead745728104822e59d26c190",
+      "size_bytes": 1327104,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_HeightAdjustableBaseKitC-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "7aad7ee12d1887a78d8da64de64d2b5624a5007a5bb9ab6a6abb428b7e4caac1",
+      "size_bytes": 1175552,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_MotiaHeightAdjustableBaseKitT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "132ff87fc0af3996e3f7e1549a2cc557bbabfdd4bcdc4bf494b100df8db5baf3",
+      "size_bytes": 1306624,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Bases/HermanMiller_TablesandFurniture_TableBaseKit2Legs.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "3a1c772dfb27d1f3a2dadadee2a933e307787ae1ca6f4705b8c862fdf13b43fb",
+      "size_bytes": 983040,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_CanvasVista_HingedCableTrough.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "dc035d66826af70fa716883a3b298cfc0cdaf951864010a620cf432751f97059",
+      "size_bytes": 1277952,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_CanvasVista_PowerPlugStrip.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "18234857da4c3e28b73b45f70ba6e4aaae686db7d323fe0719666d958cdd16de",
+      "size_bytes": 999424,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_TablesandFurniture_RenewEnhancedCableTrough.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "dc81a5a7e77d9e581b1abf4ef0047bb609bf240883acd9d605970a5938ea89de",
+      "size_bytes": 565248,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_TablesandFurniture_RenewExternalCableManager.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "5e59b188f48d79c859d3ee0c2018951ca711f4ffcebafd6cdda421b2f39fc9eb",
+      "size_bytes": 565248,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_ThrivePortfolio_LogicMini.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "74b18c41e7269407e951fb2d344c4c39319cafa175d3a02066936b00c8f1321c",
+      "size_bytes": 1474560,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Power_and_Data_Support/HermanMiller_ThrivePortfolio_LogicMiniGrommet.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "032fd27afd13da793c098278bed04b52072bb1cb21ef85692d1076770f33f647",
+      "size_bytes": 827392,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_CanvasVista_VistaModestyScreen-DoubleSidedHeightAdjustableTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "69d81973ac09f45ce337c67a44882afd59e625517a0d662b588e55b0a438e82f",
+      "size_bytes": 929792,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_CanvasVista_VistaPrivacyModestyScreen-DoubleSidedHeightAdjustable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "d718f944f9c9cae856022fd77e89cb53cab07add6282fd837c675a511036aa0d",
+      "size_bytes": 1728512,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_Canvas_FlatEdgeScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "299dd09f69c088adf9adde13375492e23ccd9f0bdb7930100229c6483f17c604",
+      "size_bytes": 823296,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_Canvas_PariScreenDelineation.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "136ff6b25c4fb184ce7cec08e549363d5031bdd6c5a55e995d306d59ad608c44",
+      "size_bytes": 626688,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_LaminateScreenSurfaceAttached.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "54c071aab2b37ab89dd5245086302045a4a9c4e0ca7f1373205e95a0be11a34a",
+      "size_bytes": 1044480,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_PersonalSideScreen.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "0d4d16b08b27b12e436148368e783192d80d22f9b0f0dd1bdb51dedfc049b977",
+      "size_bytes": 585728,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_PersonalSideScreenRectangular.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "8b7a796e7faf0a96d0ecd8f171cb60166236893279d14ad38084c24616bb6c9d",
+      "size_bytes": 569344,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_Surface-AttachedScreen.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "1651b9db629cdb197e8b1ae97a127aaa9c0df47c2b9e1a3855bfcad7fc9cf09f",
+      "size_bytes": 1736704,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Screens/HermanMiller_ThrivePortfolio_SurfaceAttachedScreenFlatEdge.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "73f2db3eaeeeb293890dffecc1b1bd7836b678c1a27458066989b0da7d63c01a",
+      "size_bytes": 1380352,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Storage/HermanMiller_CanvasVista_SuspendedCubby.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f8817fa6d0a8994b667f2c6513de101f62d5d30f221019a19809179a4a267d3b",
+      "size_bytes": 1425408,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Storage/HermanMiller_CanvasVista_SuspendedDrawer.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "899874838181b0e840fe54ccff169632f83da934a5d4633084d651a057096ac1",
+      "size_bytes": 1208320,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/hmi_motia_sit_to_stand_tables/revit/extracted/HMI_Motia_Sit_to_Stand_Tables_Structure/HermanMiller_TablesandFurniture_HeightAdjustableTableAttachmentBracket.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "cc012d0b0a5808dd040dad8e2698c35752ec0f61712df861bb18c7c4eb330685",
+      "size_bytes": 405504,
+      "variant": "hmi_motia_sit_to_stand_tables"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_extended_corner/autocad_3d/HMI_Motia_Sit_to_Stand_Table_Extended_Corner_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "693dd3809ff00b2134b08ed9637a398224e3c3048af54ef0c9d6e480dc741388",
+      "size_bytes": 122409,
+      "variant": "motia_sit_to_stand_table_extended_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_extended_corner/sketchup/HMI_Motia_Sit_to_Stand_Table_Extended_Corner.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "4a2755f6e66f23a57565a943ea99eac3209bd3d2fa3b1ddba07fbb5684a93e9f",
+      "size_bytes": 289902,
+      "variant": "motia_sit_to_stand_table_extended_corner"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_rectangular_c_foot/autocad_3d/HMI_Motia_Sit_to_Stand_Table_Rectangular_C_Foot_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "4569c0f6fc18a2324c41284b9db53768cb350bcdcfc7d6b42e2cfe9561e254b6",
+      "size_bytes": 130783,
+      "variant": "motia_sit_to_stand_table_rectangular_c_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_rectangular_c_foot/sketchup/HMI_Motia_Sit_to_Stand_Table_Rectangular_C_Foot.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e41e18ec922e590f63e9fe242e2c919789d1ea7e4fa5ae701452d1732d401a06",
+      "size_bytes": 200090,
+      "variant": "motia_sit_to_stand_table_rectangular_c_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_rectangular_t_foot/autocad_3d/HMI_Motia_Sit_to_Stand_Table_Rectangular_T_Foot_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "722081c0b2bcbee4ac1ff548e3b1f0593dda2d8b2774432bd1104ade62a56eed",
+      "size_bytes": 144977,
+      "variant": "motia_sit_to_stand_table_rectangular_t_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_rectangular_t_foot/sketchup/HMI_Motia_Sit_to_Stand_Table_Rectangular_T_Foot.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2771e8c55e478bf8e34f5a85393d6007ea1c375e5d0dd84eb4b24edc856ccd8e",
+      "size_bytes": 364800,
+      "variant": "motia_sit_to_stand_table_rectangular_t_foot"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_vista_rectangular/autocad_3d/HMI_Motia_Sit_to_Stand_Table_Vista_Rectangular_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "2f18ea18b18e70b24427077b55dacf0f623254dc276ce1fa71f19740b14b4155",
+      "size_bytes": 207094,
+      "variant": "motia_sit_to_stand_table_vista_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_vista_rectangular/sketchup/HMI_Motia_Sit_to_Stand_Table_Vista_Rectangular.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e72df4f42281ce715bcb5160f45dff3c546de13c4bdac2cfc66a311619ee6704",
+      "size_bytes": 491213,
+      "variant": "motia_sit_to_stand_table_vista_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/motia-sit-to-stand-tables/motia_sit_to_stand_table_vista_rectangular/revit/extracted/HermanMiller_CanvasVista_MotiaVistaRectangularTablewithT-Foot.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "5449f1a7a7606082bfdae2751fbcb481beffe9a93734b7ec99619692d8b71f49",
+      "size_bytes": 15351808,
+      "variant": "motia_sit_to_stand_table_vista_rectangular"
+    }
+  ],
+  "updated_at": 1755362530
+}

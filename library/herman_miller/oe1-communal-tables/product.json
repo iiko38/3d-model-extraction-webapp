@@ -1,0 +1,48 @@
+{
+  "brand": "herman_miller",
+  "product": "oe1 communal tables",
+  "product_slug": "oe1-communal-tables",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/everywhere-table-round-corner/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_communal_tables/oe1_communal_table_screen_fabric-/HMI_OE1_Communal_Table_Screen_Fabric_3D.dwg",
+      "stored_path": "oe1_communal_table_screen_fabric-/autocad_3d/HMI_OE1_Communal_Table_Screen_Fabric_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "8face3d022d9efc0dd2aab21d2b43d84bcbc9bf3039033ebf1e32550d5f3493d",
+      "size_bytes": 48647,
+      "variant": "oe1_communal_table_screen_fabric-"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_communal_tables/oe1_communal_table_screen_fabric-/HMI_OE1_Communal_Table_Screen_Fabric_rfa.zip",
+      "stored_path": "oe1_communal_table_screen_fabric-/revit/HMI_OE1_Communal_Table_Screen_Fabric_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "46a7e7ce8f585e9321782658353167fa53dd227e60e02012d8cdfbf9eeb43602",
+      "size_bytes": 473140,
+      "variant": "oe1_communal_table_screen_fabric-"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_communal_tables/oe1_communal_table_screen_fabric-/HMI_OE1_Communal_Table_Screen_Fabric.skp",
+      "stored_path": "oe1_communal_table_screen_fabric-/sketchup/HMI_OE1_Communal_Table_Screen_Fabric.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "164a394eb818c7b5920218ef5787f387642e4a8796b269fb3ab3f3186d835ed2",
+      "size_bytes": 82045,
+      "variant": "oe1_communal_table_screen_fabric-"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/o/oe1_communal_tables/oe1_communal_table_screen_fabric-/HMI_OE1_Communal_Table_Screen_Fabric_rfa.zip#zip",
+      "stored_path": "oe1_communal_table_screen_fabric-/revit/extracted/HermanMiller_OE1WorkspaceCollection_StandingWorkBarFlatEdgeScreenSurfaceAttachedwithModesty.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "4735b5cfe8bae98b23df4702026d37de560b4d975037b62299455baf5ff29291",
+      "size_bytes": 540672,
+      "variant": "oe1_communal_table_screen_fabric-"
+    }
+  ],
+  "updated_at": 1755361678
+}

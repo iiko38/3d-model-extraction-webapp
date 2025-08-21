@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/sayl_chairs/sayl_chair_suspension_mid_back_fully_adjustable_arms/HMI_Sayl_Chair_Suspension_Mid_Back_Fully_Adjustable_Arms_rfa.zip",
+      "stored_path": "herman_miller\\s\\sayl_chairs\\revit\\HMI_Sayl_Chair_Suspension_Mid_Back_Fully_Adjustable_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "8f68ec45c9b4fb0f1e8b686b78a206fc396a579f2151442d00616ad185cfb38c",
+      "size_bytes": 1771856
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/s/sayl_chairs/sayl_chair_suspension_mid_back_fully_adjustable_arms/HMI_Sayl_Chair_Suspension_Mid_Back_Fully_Adjustable_Arms_rfa.zip#zip",
+      "stored_path": "herman_miller\\s\\sayl_chairs\\revit\\extracted\\HermanMiller_Seating_SaylWorkChairSuspensionMid-Back.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f6fe0e69466ba667a7e4027ff3b16d1be5201f053f821dbb55363da5ae504b15",
+      "size_bytes": 1900544
+    }
+  ],
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support"
+  ],
+  "brand": "herman_miller",
+  "product": "S",
+  "product_slug": "s",
+  "updated_at": 1755355636
+}

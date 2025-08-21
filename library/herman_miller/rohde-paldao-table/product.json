@@ -1,0 +1,113 @@
+{
+  "brand": "herman_miller",
+  "product": "rohde paldao table",
+  "product_slug": "rohde-paldao-table",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-coffee-table-rectangular/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/knot-side-table-round/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_coffee_table/HMI_Rohde_Paldao_Coffee_Table_3D.dwg",
+      "stored_path": "rohde_paldao_coffee_table/autocad_3d/HMI_Rohde_Paldao_Coffee_Table_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c50183d22adf4929ceda442616e87f6bf9dfffbecacd504bcf7fbd176e5ed997",
+      "size_bytes": 52796,
+      "variant": "rohde_paldao_coffee_table"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_coffee_table/HMI_Rohde_Paldao_Coffee_Table_rfa.zip",
+      "stored_path": "rohde_paldao_coffee_table/revit/HMI_Rohde_Paldao_Coffee_Table_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "52fb9bea04a6e513427ae01a61b9c3aa19ebae034e92a15cd49c0df75eba9719",
+      "size_bytes": 447064,
+      "variant": "rohde_paldao_coffee_table"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_coffee_table/HMI_Rohde_Paldao_Coffee_Table.skp",
+      "stored_path": "rohde_paldao_coffee_table/sketchup/HMI_Rohde_Paldao_Coffee_Table.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "725870ae19353c32b7e84f379adffe984e5e63edde0d62f320a451f1020cc953",
+      "size_bytes": 130382,
+      "variant": "rohde_paldao_coffee_table"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_coffee_table/HMI_Rohde_Paldao_Coffee_Table_rfa.zip#zip",
+      "stored_path": "rohde_paldao_coffee_table/revit/extracted/HermanMiller_Ancillary_RohdePaldaoCoffeeTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "697b6fa7b198a0ffafaab9c5a0a830b9fbdfbfada17f2e76169f57cbd82a96b5",
+      "size_bytes": 507904,
+      "variant": "rohde_paldao_coffee_table"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_high/HMI_Rohde_Paldao_Side_Table_High_3D.dwg",
+      "stored_path": "rohde_paldao_side_table_high/autocad_3d/HMI_Rohde_Paldao_Side_Table_High_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "644600cd77eb48537860fca806b2c81d96001231bba605130f20f9f797ed0952",
+      "size_bytes": 47114,
+      "variant": "rohde_paldao_side_table_high"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_high/HMI_Rohde_Paldao_Side_Table_High_rfa.zip",
+      "stored_path": "rohde_paldao_side_table_high/revit/HMI_Rohde_Paldao_Side_Table_High_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "99801c3794ecf1a6e6c58922b345b92dd4d2d994ff2589c99df96ed6e73d9b09",
+      "size_bytes": 406428,
+      "variant": "rohde_paldao_side_table_high"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_high/HMI_Rohde_Paldao_Side_Table_High.skp",
+      "stored_path": "rohde_paldao_side_table_high/sketchup/HMI_Rohde_Paldao_Side_Table_High.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "df98377ef6f0f4e616c6ef7946394f3f77fba1254640f60c7eb87cbfa28f4030",
+      "size_bytes": 88439,
+      "variant": "rohde_paldao_side_table_high"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_low/HMI_Rohde_Paldao_Side_Table_Low_rfa.zip#zip",
+      "stored_path": "rohde_paldao_side_table_low/revit/extracted/HermanMiller_Ancillary_RohdePaldaoSideTable.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a20d277ef8365312265465e0a0c99a752375c3ddf794b2e7dc1485fe4aedaf44",
+      "size_bytes": 466944,
+      "variant": "rohde_paldao_side_table_low"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_low/HMI_Rohde_Paldao_Side_Table_Low_3D.dwg",
+      "stored_path": "rohde_paldao_side_table_low/autocad_3d/HMI_Rohde_Paldao_Side_Table_Low_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1b1277e6741138604251bbc50b3769d3218ca1a07eaa1f3188020508c902473a",
+      "size_bytes": 51375,
+      "variant": "rohde_paldao_side_table_low"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_low/HMI_Rohde_Paldao_Side_Table_Low_rfa.zip",
+      "stored_path": "rohde_paldao_side_table_low/revit/HMI_Rohde_Paldao_Side_Table_Low_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "73a2b21c35f3e2799d32ec45e644aa6a5ea58a4416a98b8eb405fe21156df81e",
+      "size_bytes": 406428,
+      "variant": "rohde_paldao_side_table_low"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/r/rohde_paldao_table/rohde_paldao_side_table_low/HMI_Rohde_Paldao_Side_Table_Low.skp",
+      "stored_path": "rohde_paldao_side_table_low/sketchup/HMI_Rohde_Paldao_Side_Table_Low.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f40b7948fd7510791ae9c790fd6da4902dc7c7b9cba868b1eeb130bd97de20a6",
+      "size_bytes": 85843,
+      "variant": "rohde_paldao_side_table_low"
+    }
+  ],
+  "updated_at": 1755361678
+}

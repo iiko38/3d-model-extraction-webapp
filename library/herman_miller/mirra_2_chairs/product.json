@@ -1,0 +1,109 @@
+{
+  "brand": "herman_miller",
+  "product": "mirra 2 chairs",
+  "product_slug": "mirra_2_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_adjustable_arms/autocad_3d/HMI_Mirra_2_Chair_Polymer_Back_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "59f8d3c0c0138674ef9026f7f7d3e5a52bad1a8e1835ec23e9edf3ffc2752e5f",
+      "size_bytes": 2557830,
+      "variant": "mirra_2_chair_polymer_back_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_adjustable_arms/sketchup/HMI_Mirra_2_Chair_Polymer_Back_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c6d179d0452375ecd4d8f46f43ada511a4a64215fde441bf76ec9fb5f4ecf153",
+      "size_bytes": 4590706,
+      "variant": "mirra_2_chair_polymer_back_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_adjustable_arms/revit/extracted/HermanMiller_Seating_Mirra2WorkChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "8a3344b4741d582b89e079f6647e1530d66dc0ee5074dc25309c93b2c03de2a5",
+      "size_bytes": 3260416,
+      "variant": "mirra_2_chair_polymer_back_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_armless/autocad_3d/HMI_Mirra_2_Chair_Polymer_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "7d83e8dfce6335d63393b95eee504e101824e997b9a208b0847e6860982e30af",
+      "size_bytes": 2577919,
+      "variant": "mirra_2_chair_polymer_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_armless/sketchup/HMI_Mirra_2_Chair_Polymer_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7d2d388cd4a526f08a79b51e03f2b467be4f560c1ae236c74b4f424ca6e14f6f",
+      "size_bytes": 4266969,
+      "variant": "mirra_2_chair_polymer_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_polymer_back_fixed_arms/sketchup/HMI_Mirra_2_Chair_Polymer_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "c701b7104dedde6a1bab0edf5ad9a8526e2449916ec41e34eb084a0f6281ed52",
+      "size_bytes": 4566796,
+      "variant": "mirra_2_chair_polymer_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_suspension_back_adjustable_arms/autocad_3d/HMI_Mirra_2_Chair_Suspension_Back_Adjustable_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "a1e4c1f17d51fb3e9783819b03c6205c0b50d686644fe69a722ec5920c9f6947",
+      "size_bytes": 2644226,
+      "variant": "mirra_2_chair_suspension_back_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_suspension_back_adjustable_arms/sketchup/HMI_Mirra_2_Chair_Suspension_Back_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "62fdfec19828eb542aa82ac350ed178de30981fb2737224f015a3a4823c43c7c",
+      "size_bytes": 4756133,
+      "variant": "mirra_2_chair_suspension_back_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_suspension_back_armless/autocad_3d/HMI_Mirra_2_Chair_Suspension_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d03f81dcdea26bad11f5d7561c75a199a690d22fe341544bd2a2d3e2d7fcade9",
+      "size_bytes": 2654801,
+      "variant": "mirra_2_chair_suspension_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_suspension_back_armless/sketchup/HMI_Mirra_2_Chair_Suspension_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b235717141b78e9b24dcc5510678e597a2db49e16aa3a69bb41ae4df1861e7f2",
+      "size_bytes": 4441392,
+      "variant": "mirra_2_chair_suspension_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/mirra-2-chairs/mirra_2_chair_suspension_back_fixed_arms/sketchup/HMI_Mirra_2_Chair_Suspension_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fddb142756fd9bc019200f28dc569dd567f0cb43dd2412543cd8dd3276a784ef",
+      "size_bytes": 4804989,
+      "variant": "mirra_2_chair_suspension_back_fixed_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

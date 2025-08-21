@@ -1,0 +1,199 @@
+{
+  "brand": "herman_miller",
+  "product": "sayl chairs",
+  "product_slug": "sayl_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_armless/autocad_3d/HMI_Sayl_Chair_Suspension_Mid_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "19129a8744a2b0d4b448a716a5ff1f8602b6995af8ed000d7ffd2c5ae5f09dff",
+      "size_bytes": 787265,
+      "variant": "sayl_chair_suspension_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_armless/sketchup/HMI_Sayl_Chair_Suspension_Mid_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2ae4a76cfb26b4861e4dd80a8cb679e73bbf03c4cb3e3bd7a99c8357234644e6",
+      "size_bytes": 2569979,
+      "variant": "sayl_chair_suspension_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_armless/revit/extracted/HermanMiller_Seating_SaylWorkChairSuspensionMid-Back.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "f6fe0e69466ba667a7e4027ff3b16d1be5201f053f821dbb55363da5ae504b15",
+      "size_bytes": 1900544,
+      "variant": "sayl_chair_suspension_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_fixed_arms/autocad_3d/HMI_Sayl_Chair_Suspension_Mid_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "644ee6f554f16e1425dd3748ae9a9f9a19d0ddbd7ba7f209d7b9d53c9d522a3c",
+      "size_bytes": 846333,
+      "variant": "sayl_chair_suspension_mid_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_fixed_arms/sketchup/HMI_Sayl_Chair_Suspension_Mid_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "48761d8f6385c6a41981cce4ed579d38f1e1deab34f8ce819b44815828f2e23c",
+      "size_bytes": 2800238,
+      "variant": "sayl_chair_suspension_mid_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_fully_adjustable_arms/sketchup/HMI_Sayl_Chair_Suspension_Mid_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "880ff0192e0e36d58a13947980b60dcd64f23135281f0e2d6b1d1bb8ef5a2d5d",
+      "size_bytes": 2796839,
+      "variant": "sayl_chair_suspension_mid_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_suspension_mid_back_height_adjustable_arms/sketchup/HMI_Sayl_Chair_Suspension_Mid_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e6ae081c17354eced3e4a1e387369c6c526f567cd6a9f1921ec510f2f01a2dad",
+      "size_bytes": 2799871,
+      "variant": "sayl_chair_suspension_mid_back_height_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_armless/autocad_3d/HMI_Sayl_Chair_Upholstered_High_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "5bdc26c721be6173263b84aaa2086c6938a97330ee653503f92f1311b9e4045a",
+      "size_bytes": 789063,
+      "variant": "sayl_chair_upholstered_high_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_armless/sketchup/HMI_Sayl_Chair_Upholstered_High_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e8b6a08b5ece90ee3692bdd0692df4a249821a0c621b8ff17d014bc7e0f5eb9f",
+      "size_bytes": 2568952,
+      "variant": "sayl_chair_upholstered_high_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_armless/revit/extracted/HermanMiller_Seating_SaylWorkChairUpholsteredHigh-Back.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "99ac22f8a7ef3c6f264be8659b5396765f4e52f5009d873c68d163d4b5ae2e3b",
+      "size_bytes": 1949696,
+      "variant": "sayl_chair_upholstered_high_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_fixed_arms/autocad_3d/HMI_Sayl_Chair_Upholstered_High_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "0d25507b5ff51f72879ec70bd2d100f87a62e7569bb0f2734b4384b305601593",
+      "size_bytes": 845632,
+      "variant": "sayl_chair_upholstered_high_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_fixed_arms/sketchup/HMI_Sayl_Chair_Upholstered_High_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b1362f7e0ba8f0e6cb955af6f0810f378b45ec5d1d2c247cb2ba5c395d25bfa4",
+      "size_bytes": 2797469,
+      "variant": "sayl_chair_upholstered_high_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_fully_adjustable_arms/sketchup/HMI_Sayl_Chair_Upholstered_High_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "51c55781823b368d1f8bf38030975fd367fe0023b598affe189c5d907333e8ad",
+      "size_bytes": 2798899,
+      "variant": "sayl_chair_upholstered_high_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_high_back_height_adjustable_arms/sketchup/HMI_Sayl_Chair_Upholstered_High_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "a7f69e27cd3f02d4144a1e50dc551a2b7b1d6487fe237c8eb65732cc0c00a30b",
+      "size_bytes": 2796640,
+      "variant": "sayl_chair_upholstered_high_back_height_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_armless/autocad_3d/HMI_Sayl_Chair_Upholstered_Mid_Back_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c8e56267bf4e7ac3050e5b7c41be0388d4d303a1fc1278c5a5f0a59b54bd810a",
+      "size_bytes": 786407,
+      "variant": "sayl_chair_upholstered_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_armless/sketchup/HMI_Sayl_Chair_Upholstered_Mid_Back_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "14b74bee5b5f5def97c206a24cff8e87bde0dcaaa7c3169a8467305f80cbb1e7",
+      "size_bytes": 2568586,
+      "variant": "sayl_chair_upholstered_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_armless/revit/extracted/HermanMiller_Seating_SaylWorkChairUpholsteredMid-Back.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "8c25dd30575bee7afde01e158b455baf1b050a6db4f0550b1169f8b11dbf7e58",
+      "size_bytes": 1871872,
+      "variant": "sayl_chair_upholstered_mid_back_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_fixed_arms/autocad_3d/HMI_Sayl_Chair_Upholstered_Mid_Back_Fixed_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "516b03ec210436323131a2d5d87b639ff4f96dd5f7b02ba9943bae35fcf8e725",
+      "size_bytes": 844864,
+      "variant": "sayl_chair_upholstered_mid_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_fixed_arms/sketchup/HMI_Sayl_Chair_Upholstered_Mid_Back_Fixed_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "9692546390dd436abdb949359a074d6a8bb987255fce7bc946aac8a7223075d4",
+      "size_bytes": 2797901,
+      "variant": "sayl_chair_upholstered_mid_back_fixed_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_fully_adjustable_arms/sketchup/HMI_Sayl_Chair_Upholstered_Mid_Back_Fully_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "858afeda60accc7384195ca6b7c71fc632b6a3268c7fed7a175ea3cc4837044b",
+      "size_bytes": 2795250,
+      "variant": "sayl_chair_upholstered_mid_back_fully_adjustable_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/sayl-chairs/sayl_chair_upholstered_mid_back_height_adjustable_arms/sketchup/HMI_Sayl_Chair_Upholstered_Mid_Back_Height_Adjustable_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "b2c1ac354030e8192e13246089f8ea5636732eb2b6e9d37148aa90c2df11eb96",
+      "size_bytes": 2797935,
+      "variant": "sayl_chair_upholstered_mid_back_height_adjustable_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

@@ -1,0 +1,46 @@
+{
+  "brand": "naughtone",
+  "product": "knot side table",
+  "product_slug": "knot_side_table",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "naughtone/knot-side-table/knot_side_table_rectangular/autocad_3d/NTO_Knot_Side_Table_Rectangular_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "209d904198abd843a7495998ce7564533b9c6e8c1bd1f4efa7c039d138da1a72",
+      "size_bytes": 693099,
+      "variant": "knot_side_table_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "naughtone/knot-side-table/knot_side_table_rectangular/sketchup/NTO_Knot_Side_Table_Rectangular.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "757c54e8236e17be72499bc55116510c9bf1d7804b4f542e4060c1c15cf7296d",
+      "size_bytes": 1951276,
+      "variant": "knot_side_table_rectangular"
+    },
+    {
+      "source_url": null,
+      "stored_path": "naughtone/knot-side-table/knot_side_table_round/autocad_3d/NTO_Knot_Side_Table_Round_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c0c170042ba8a523e91313c3d61f1dfe0247bc2874d9538e05267479eb472ff0",
+      "size_bytes": 602765,
+      "variant": "knot_side_table_round"
+    },
+    {
+      "source_url": null,
+      "stored_path": "naughtone/knot-side-table/knot_side_table_round/sketchup/NTO_Knot_Side_Table_Round.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "44dc33f2ea440d45d144e96ccfa8aecb746d447966d1947a3ca25fd4f26be9b6",
+      "size_bytes": 1712715,
+      "variant": "knot_side_table_round"
+    }
+  ],
+  "updated_at": 1755362530
+}

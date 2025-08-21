@@ -1,0 +1,329 @@
+{
+  "brand": "herman_miller",
+  "product": "zeph chair",
+  "product_slug": "zeph-chair",
+  "category": null,
+  "source_pages": [
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/?pc=benches&pc=collaborative-furniture&pc=conference-tables&pc=decor&pc=desks&pc=workstations&pc=freestanding-screens&pc=lighting&pc=lounge-seating&pc=nesting-chairs&pc=occasional-tables&pc=office-chairs&pc=outdoor-seating&pc=outdoor-tables&pc=power-access&pc=privacy-screens&pc=room-dividers&pc=side-chairs&pc=sit-to-stand-tables&pc=stacking-chairs&pc=stools&pc=storage&pc=technology-support",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/zeph-chair-with-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/verus-chair-suspension-back-height-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/sayl-chair-suspension-mid-back-fully-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-soft-pad-chair-executive/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/caper-stacking-chair-fixed-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/cosm-chair-high-back-leaf-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/aeron-chair-b-size-fully-adjustable-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/eames-aluminum-group-chair-management-with-arms/",
+    "https://www.hermanmiller.com/resources/3d-models-and-planning-tools/product-models/individual/mirra-2-chair-suspension-back-adjustable-arms/"
+  ],
+  "files": [
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_armless/HMI_Zeph_Chair_Armless_3D.dwg",
+      "stored_path": "zeph_chair_armless/autocad_3d/HMI_Zeph_Chair_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "04bae8cc8a38605bb87cfd2d604666419bb628736f06df9f738caabd97adea11",
+      "size_bytes": 1338881,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_armless/HMI_Zeph_Chair_Armless_rfa.zip",
+      "stored_path": "zeph_chair_armless/revit/HMI_Zeph_Chair_Armless_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "42ba6194b95de8d38e6de593cd941e55741f0249715a3e5ca3d3adb10be56763",
+      "size_bytes": 7593698,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_armless/HMI_Zeph_Chair_Armless.skp",
+      "stored_path": "zeph_chair_armless/sketchup/HMI_Zeph_Chair_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f518d353b4b7f736d4f8e0ed3b86d63ddce681b41aa758c327297ae3b20e99ff",
+      "size_bytes": 2927518,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_armless/HMI_Zeph_Chair_Armless_rfa.zip#zip",
+      "stored_path": "zeph_chair_with_arms/revit/extracted/HermanMiller_Seating_ZephMultipurposeChairFullyAssembled.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "619e2e5802ee642d4186e3f717ef90414692f2f88a47fd5e138af61e7cfefad9",
+      "size_bytes": 7790592,
+      "variant": "zeph_chair_with_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_with_arms/HMI_Zeph_Chair_With_Arms_3D.dwg",
+      "stored_path": "zeph_chair_with_arms/autocad_3d/HMI_Zeph_Chair_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9fd404eeae2ed0197919042b8e4ab09d38f4930c85eda0ce1c00c3035d9f2254",
+      "size_bytes": 1334617,
+      "variant": "zeph_chair_with_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_with_arms/HMI_Zeph_Chair_With_Arms_rfa.zip",
+      "stored_path": "zeph_chair_with_arms/revit/HMI_Zeph_Chair_With_Arms_rfa.zip",
+      "file_type": "revit",
+      "ext": ".zip",
+      "sha256": "fa9f6ebd6e9c760d7498e307a28e4537af80f6fa19fc7283b0cd0982e437d086",
+      "size_bytes": 7593698,
+      "variant": "zeph_chair_with_arms"
+    },
+    {
+      "source_url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/z/zeph_chair/zeph_chair_with_arms/HMI_Zeph_Chair_With_Arms.skp",
+      "stored_path": "zeph_chair_with_arms/sketchup/HMI_Zeph_Chair_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "190dcaf2829fb4effec6ec12cd0edca372fb91df67863fc4a58863a674a12f72",
+      "size_bytes": 2924927,
+      "variant": "zeph_chair_with_arms"
+    }
+  ],
+  "updated_at": 1755361678,
+  "images": [
+    {
+      "id": "HM_ZPH_27108",
+      "title": "Zeph Chairs",
+      "alt": "Zeph Chairs",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27108.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27108.tif/jcr:content/renditions/HM_ZPH_27108_L.jpg",
+          "dimension": "1000 x 316",
+          "size": "19.9 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27108.tif/jcr:content/renditions/HM_ZPH_27108_P.jpg",
+          "dimension": "2000 x 633",
+          "size": "57.6 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27108.tif/jcr:content/renditions/HM_ZPH_27108_G.jpg",
+          "dimension": "3000 x 949",
+          "size": "112.5 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33268",
+      "title": "Zeph Chair and Stool with Seat Pad, Features Group Shot",
+      "alt": "Zeph Chair and Stool with Seat Pad, Features Group Shot",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33268.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33268.tif/jcr:content/renditions/HM_ZPH_33268_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "24.6 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33268.tif/jcr:content/renditions/HM_ZPH_33268_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "68.8 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33268.tif/jcr:content/renditions/HM_ZPH_33268_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "131.4 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33264",
+      "title": "Zeph Chair and Stool, Features Group Shot",
+      "alt": "Zeph Chair and Stool, Features Group Shot",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33264.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33264.tif/jcr:content/renditions/HM_ZPH_33264_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "24.4 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33264.tif/jcr:content/renditions/HM_ZPH_33264_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "66.9 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33264.tif/jcr:content/renditions/HM_ZPH_33264_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "125.9 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_27044_RET",
+      "title": "Zeph Chair,  Olive Fixed Arms with Olive Seat Pad",
+      "alt": "Zeph Chair,  Olive Fixed Arms with Olive Seat Pad",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27044_RET.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27044_RET.tif/jcr:content/renditions/HM_ZPH_27044_RET_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "35.6 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27044_RET.tif/jcr:content/renditions/HM_ZPH_27044_RET_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "126.7 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27044_RET.tif/jcr:content/renditions/HM_ZPH_27044_RET_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "283 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_27073_RET",
+      "title": "Zeph Chair,  Olive Fixed Arms with Olive Seat Pad",
+      "alt": "Zeph Chair,  Olive Fixed Arms with Olive Seat Pad",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27073_RET.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27073_RET.tif/jcr:content/renditions/HM_ZPH_27073_RET_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "39.3 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27073_RET.tif/jcr:content/renditions/HM_ZPH_27073_RET_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "149.5 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_27073_RET.tif/jcr:content/renditions/HM_ZPH_27073_RET_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "364.4 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33289",
+      "title": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "alt": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33289.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33289.tif/jcr:content/renditions/HM_ZPH_33289_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "23.7 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33289.tif/jcr:content/renditions/HM_ZPH_33289_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "67.7 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33289.tif/jcr:content/renditions/HM_ZPH_33289_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "129 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33291",
+      "title": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "alt": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33291.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33291.tif/jcr:content/renditions/HM_ZPH_33291_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "25.2 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33291.tif/jcr:content/renditions/HM_ZPH_33291_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "71.3 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33291.tif/jcr:content/renditions/HM_ZPH_33291_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "133.6 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33305",
+      "title": "Zeph Chair, Black Fixed Arms with Mustard Seed Seat Pad",
+      "alt": "Zeph Chair, Black Fixed Arms with Mustard Seed Seat Pad",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33305.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33305.tif/jcr:content/renditions/HM_ZPH_33305_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "27.7 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33305.tif/jcr:content/renditions/HM_ZPH_33305_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "82.7 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33305.tif/jcr:content/renditions/HM_ZPH_33305_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "158.3 KB",
+          "type": "G"
+        }
+      ]
+    },
+    {
+      "id": "HM_ZPH_33283",
+      "title": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "alt": "Zeph Chair, Nightfall Fixed Arms with Glacier Seat Pad ",
+      "original_url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33283.tif",
+      "search_term": "Zeph Chair",
+      "renditions": [
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33283.tif/jcr:content/renditions/HM_ZPH_33283_L.jpg",
+          "dimension": "800 x 1000",
+          "size": "24.7 KB",
+          "type": "L"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33283.tif/jcr:content/renditions/HM_ZPH_33283_P.jpg",
+          "dimension": "1600 x 2000",
+          "size": "69.4 KB",
+          "type": "P"
+        },
+        {
+          "url": "https://www.hermanmiller.com/content/dam/hmi/hmidam/active/2022/06/03/HM_ZPH_33283.tif/jcr:content/renditions/HM_ZPH_33283_G.jpg",
+          "dimension": "2400 x 3000",
+          "size": "130.9 KB",
+          "type": "G"
+        }
+      ]
+    }
+  ]
+}

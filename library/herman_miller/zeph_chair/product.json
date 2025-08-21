@@ -1,0 +1,55 @@
+{
+  "brand": "herman_miller",
+  "product": "zeph chair",
+  "product_slug": "zeph_chair",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-chair/zeph_chair_armless/autocad_3d/HMI_Zeph_Chair_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "04bae8cc8a38605bb87cfd2d604666419bb628736f06df9f738caabd97adea11",
+      "size_bytes": 1338881,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-chair/zeph_chair_armless/sketchup/HMI_Zeph_Chair_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f518d353b4b7f736d4f8e0ed3b86d63ddce681b41aa758c327297ae3b20e99ff",
+      "size_bytes": 2927518,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-chair/zeph_chair_armless/revit/extracted/HermanMiller_Seating_ZephMultipurposeChairFullyAssembled.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "619e2e5802ee642d4186e3f717ef90414692f2f88a47fd5e138af61e7cfefad9",
+      "size_bytes": 7790592,
+      "variant": "zeph_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-chair/zeph_chair_with_arms/autocad_3d/HMI_Zeph_Chair_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "9fd404eeae2ed0197919042b8e4ab09d38f4930c85eda0ce1c00c3035d9f2254",
+      "size_bytes": 1334617,
+      "variant": "zeph_chair_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/zeph-chair/zeph_chair_with_arms/sketchup/HMI_Zeph_Chair_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "190dcaf2829fb4effec6ec12cd0edca372fb91df67863fc4a58863a674a12f72",
+      "size_bytes": 2924927,
+      "variant": "zeph_chair_with_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}

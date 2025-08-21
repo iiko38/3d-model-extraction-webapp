@@ -1,0 +1,190 @@
+{
+  "brand": "herman_miller",
+  "product": "eames molded plywood chairs",
+  "product_slug": "eames_molded_plywood_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_metal_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plywood_Dining_Chair_Metal_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "6b3382e8d1b7f9c707f7fe75de7ff0123de9b3f992c4f3f084c2d8405ba28e82",
+      "size_bytes": 144067,
+      "variant": "eames_molded_plywood_dining_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_metal_base_nonupholstered/sketchup/HMI_Eames_Molded_Plywood_Dining_Chair_Metal_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "fc4754a0136652c167c28511a4d6d4a9322ad2e4fcbd78dbc1c59cbda76bab86",
+      "size_bytes": 303639,
+      "variant": "eames_molded_plywood_dining_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_metal_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedPlywoodDiningChairMtlBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "456c848b8769cf649eab72fbfb39c11f78dedcf8310328d0e4cbb7110fe3a53e",
+      "size_bytes": 843776,
+      "variant": "eames_molded_plywood_dining_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_metal_base_upholstered/autocad_3d/HMI_Eames_Molded_Plywood_Dining_Chair_Metal_Base_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d10a605ebad9a4b3f071483e747ab894041046aa618c6f3bafb2d1757cc7a014",
+      "size_bytes": 190606,
+      "variant": "eames_molded_plywood_dining_chair_metal_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_metal_base_upholstered/sketchup/HMI_Eames_Molded_Plywood_Dining_Chair_Metal_Base_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "1d7d5433d8de9fe4dd0ba6dc5e1770f5552b3b92d9c74b0b6dea4d9438485ca6",
+      "size_bytes": 401855,
+      "variant": "eames_molded_plywood_dining_chair_metal_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_wood_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plywood_Dining_Chair_Wood_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "e926d9533650edc55b864360a2b85d8c5c4aa9b15d3b6ad4a17387c009ec2d7d",
+      "size_bytes": 83441,
+      "variant": "eames_molded_plywood_dining_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_wood_base_nonupholstered/sketchup/HMI_Eames_Molded_Plywood_Dining_Chair_Wood_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "cbb8077d43388e2cf117060397796db045869989cda54292bdf445e07a343728",
+      "size_bytes": 194355,
+      "variant": "eames_molded_plywood_dining_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_wood_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedPlywoodDiningChairWoodBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "5de92e591f4c8d44c03770550a24837670dd5ca0e82722a7470482ec5393227b",
+      "size_bytes": 2187264,
+      "variant": "eames_molded_plywood_dining_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_wood_base_upholstered/autocad_3d/HMI_Eames_Molded_Plywood_Dining_Chair_Wood_Base_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "7cc24be8ecfc1782638b35d099e6e424b24806cd11801a9c78629949219db5eb",
+      "size_bytes": 130035,
+      "variant": "eames_molded_plywood_dining_chair_wood_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_dining_chair_wood_base_upholstered/sketchup/HMI_Eames_Molded_Plywood_Dining_Chair_Wood_Base_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "63eda2af3da47c4d407325c647779d52e96a416da921c36e123e9d048281c4a1",
+      "size_bytes": 292040,
+      "variant": "eames_molded_plywood_dining_chair_wood_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_metal_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plywood_Lounge_Chair_Metal_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "ae7a66ef840050cce285c6e0bee75d312d2b93ac0d1615c5c8c22cf3a4d49691",
+      "size_bytes": 144067,
+      "variant": "eames_molded_plywood_lounge_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_metal_base_nonupholstered/sketchup/HMI_Eames_Molded_Plywood_Lounge_Chair_Metal_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "af3e39f245f4cc56ea06eb04603f1af217188c579cd99bc9eef50c12b5121a29",
+      "size_bytes": 305399,
+      "variant": "eames_molded_plywood_lounge_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_metal_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedPlywoodLoungeChairMtlBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "446abdd3629a3ae22f6c6f683cf34c3d96624f7b7ee8c4bb6f8f4c94b1d5a611",
+      "size_bytes": 1507328,
+      "variant": "eames_molded_plywood_lounge_chair_metal_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_metal_base_upholstered/autocad_3d/HMI_Eames_Molded_Plywood_Lounge_Chair_Metal_Base_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "aec470f399f321a563143d7f5fe12851bbcd85d6f0e168651866f3197cc48834",
+      "size_bytes": 190606,
+      "variant": "eames_molded_plywood_lounge_chair_metal_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_metal_base_upholstered/sketchup/HMI_Eames_Molded_Plywood_Lounge_Chair_Metal_Base_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "e602783ac49d9fcee2ec98d9018f7e7fc17234291c33ebe13c04f1b11c6f1e6d",
+      "size_bytes": 401800,
+      "variant": "eames_molded_plywood_lounge_chair_metal_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_wood_base_nonupholstered/autocad_3d/HMI_Eames_Molded_Plywood_Lounge_Chair_Wood_Base_Nonupholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "cef43b793ac70acab0fad10a3b541b791d69230c798969e0e9388518ca7af0fc",
+      "size_bytes": 83441,
+      "variant": "eames_molded_plywood_lounge_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_wood_base_nonupholstered/sketchup/HMI_Eames_Molded_Plywood_Lounge_Chair_Wood_Base_Nonupholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "3e456f15be36de39b36f1d0c60e0f4f7f2ed996fa3dc50e49cd6aa8b6e06e659",
+      "size_bytes": 193994,
+      "variant": "eames_molded_plywood_lounge_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_wood_base_nonupholstered/revit/extracted/HermanMiller_Ancillary_EamesMoldedPlywoodLoungeChairWoodBase.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "d01e813a90fc2629a1dbb93ec84f71614445c74b240acb2cadc6d2908dff8a6a",
+      "size_bytes": 1744896,
+      "variant": "eames_molded_plywood_lounge_chair_wood_base_nonupholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_wood_base_upholstered/autocad_3d/HMI_Eames_Molded_Plywood_Lounge_Chair_Wood_Base_Upholstered_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "d0dfa67b376e55873360c816aa5cc777051893880203cbec596d48859a8b97bd",
+      "size_bytes": 130035,
+      "variant": "eames_molded_plywood_lounge_chair_wood_base_upholstered"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-molded-plywood-chairs/eames_molded_plywood_lounge_chair_wood_base_upholstered/sketchup/HMI_Eames_Molded_Plywood_Lounge_Chair_Wood_Base_Upholstered.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "7bfd2c98dc6cef7a4dbd2bc7af479a0f9fd87f39276d12db8f38ed0f22be242f",
+      "size_bytes": 290798,
+      "variant": "eames_molded_plywood_lounge_chair_wood_base_upholstered"
+    }
+  ],
+  "updated_at": 1755362530
+}

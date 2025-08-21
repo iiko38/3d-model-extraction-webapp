@@ -1,0 +1,181 @@
+{
+  "brand": "herman_miller",
+  "product": "eames soft pad chairs",
+  "product_slug": "eames_soft_pad_chairs",
+  "category": null,
+  "source_pages": [],
+  "files": [
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_executive/autocad_3d/HMI_Eames_Soft_Pad_Chair_Executive_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "c2f0d556bb4164e3680d4ca44c723dfe12febb6af409a90c79e86eb84e02bd25",
+      "size_bytes": 294999,
+      "variant": "eames_soft_pad_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_executive/sketchup/HMI_Eames_Soft_Pad_Chair_Executive.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "8e84d804cab1fb3e404482294bf2efcac88caee7bee445e5bfc6b5362a34776a",
+      "size_bytes": 807624,
+      "variant": "eames_soft_pad_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_executive/revit/extracted/HermanMiller_Ancillary_EamesSoftPadExecutiveChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "488c0f752e5267d50a1e5350bb329c95a94bcc820adbc6f8873b1c65c1d6c3c1",
+      "size_bytes": 1093632,
+      "variant": "eames_soft_pad_chair_executive"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_management_armless/autocad_3d/HMI_Eames_Soft_Pad_Chair_Management_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "1ac7a9da0ca823d1eab5fbbde0534de4cc66581ca9f5dbaa065f9683ff2f411f",
+      "size_bytes": 223283,
+      "variant": "eames_soft_pad_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_management_armless/sketchup/HMI_Eames_Soft_Pad_Chair_Management_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "87e890260de746ccd19cf6127980c6c30ee90257425bb7e7a0cb59642f5f54e9",
+      "size_bytes": 623228,
+      "variant": "eames_soft_pad_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_management_armless/revit/extracted/HermanMiller_Ancillary_EamesSoftPadManagementChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "ce9654dbe51df296e8b87c96ea0f09857085f9d9b65cfb66679ca76cf44e32fa",
+      "size_bytes": 1191936,
+      "variant": "eames_soft_pad_chair_management_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_management_with_arms/autocad_3d/HMI_Eames_Soft_Pad_Chair_Management_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "7e170ec114cc96aab9569ea269ca576b10390942a5a6f03714bcdbafa98cabdd",
+      "size_bytes": 334836,
+      "variant": "eames_soft_pad_chair_management_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_chair_management_with_arms/sketchup/HMI_Eames_Soft_Pad_Chair_Management_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "5f86b5b9e78294f8a1d6de6c54beb12955e1349cca76e23802a3673d11e2f52b",
+      "size_bytes": 723116,
+      "variant": "eames_soft_pad_chair_management_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_lounge_chair/autocad_3d/HMI_Eames_Soft_Pad_Lounge_Chair_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "ddf94f9e48837e33a9451b25d2fd97b32bbaeca0f694dfd2d35a3d1eb3789aea",
+      "size_bytes": 357115,
+      "variant": "eames_soft_pad_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_lounge_chair/sketchup/HMI_Eames_Soft_Pad_Lounge_Chair.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "f249b87470d5b302689fcf333a2e8c18b6e5f0efb79f5c2e06446d9d184bfa5c",
+      "size_bytes": 751654,
+      "variant": "eames_soft_pad_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_lounge_chair/revit/extracted/HermanMiller_Ancillary_EamesSoftPadLoungeChairTiltSwivel.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "76dc81874c15e0f8b1900ccac11f97a6d47d69b156d2497894f151973f5756df",
+      "size_bytes": 987136,
+      "variant": "eames_soft_pad_lounge_chair"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_ottoman/autocad_3d/HMI_Eames_Soft_Pad_Ottoman_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "218b4221431fc0396efaa8ada3af773ed425898dc6707753475df6771e031799",
+      "size_bytes": 148026,
+      "variant": "eames_soft_pad_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_ottoman/sketchup/HMI_Eames_Soft_Pad_Ottoman.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "5c71f4229c5e30705408552e6d61db2229978492ba54a903a21ef0407a7cbe84",
+      "size_bytes": 333728,
+      "variant": "eames_soft_pad_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_ottoman/revit/extracted/HermanMiller_Ancillary_EamesSoftPadOttoman.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "cc44170c2d95165c64c8c707c8313009fff70aee22e6c5d6fa870ac290d7b753",
+      "size_bytes": 1048576,
+      "variant": "eames_soft_pad_ottoman"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_side_chair_armless/autocad_3d/HMI_Eames_Soft_Pad_Side_Chair_Armless_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "ee1cb57421bddf2514a1617a24966169ec12c6ab1ff79737eed5c6d48bcfcd3a",
+      "size_bytes": 163223,
+      "variant": "eames_soft_pad_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_side_chair_armless/sketchup/HMI_Eames_Soft_Pad_Side_Chair_Armless.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "2588e8c67548b0b2e2f6d1803b8e36a8bec4e39f127c99f78ec7a8706ef1a71c",
+      "size_bytes": 481773,
+      "variant": "eames_soft_pad_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_side_chair_armless/revit/extracted/HermanMiller_Ancillary_EamesSoftPadSideChair.rfa",
+      "file_type": "revit",
+      "ext": ".rfa",
+      "sha256": "a5ffbe27d0d259c170138ff06d54f45e5c701340d063433646a0756a227b72c7",
+      "size_bytes": 942080,
+      "variant": "eames_soft_pad_side_chair_armless"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_side_chair_with_arms/autocad_3d/HMI_Eames_Soft_Pad_Side_Chair_With_Arms_3D.dwg",
+      "file_type": "autocad_3d",
+      "ext": ".dwg",
+      "sha256": "004e02ee2efa793bb097d37b6a6b1d1b790c45fef30a4abcebcd4b05b5b768c9",
+      "size_bytes": 254801,
+      "variant": "eames_soft_pad_side_chair_with_arms"
+    },
+    {
+      "source_url": null,
+      "stored_path": "herman_miller/eames-soft-pad-chairs/eames_soft_pad_side_chair_with_arms/sketchup/HMI_Eames_Soft_Pad_Side_Chair_With_Arms.skp",
+      "file_type": "sketchup",
+      "ext": ".skp",
+      "sha256": "4becfe7806e352b7dc8c81410496ef57a17b419ea0654fb514a23a9c8541ba97",
+      "size_bytes": 669813,
+      "variant": "eames_soft_pad_side_chair_with_arms"
+    }
+  ],
+  "updated_at": 1755362530
+}
