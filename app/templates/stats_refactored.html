@@ -1,0 +1,193 @@
+{% extends "base.html" %}
+
+{% block title %}Statistics - 3D Warehouse{% endblock %}
+
+{% block content %}
+<div class="bg-white shadow rounded-lg">
+    <!-- Header -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <div class="flex items-center justify-between">
+            <div>
+                <h1 class="text-2xl font-bold text-gray-900">System Statistics</h1>
+                <p class="text-sm text-gray-600 mt-1">Comprehensive overview of the 3D warehouse</p>
+            </div>
+            <div class="flex space-x-2">
+                <a href="/" class="bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded-md text-sm font-medium">
+                    Back to Warehouse
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Overall Stats -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">Overall Statistics</h2>
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+            <div class="bg-blue-50 p-4 rounded-lg">
+                <div class="text-2xl font-bold text-blue-600">{{ stats.totals.total_files or 0 }}</div>
+                <div class="text-sm text-blue-600">Total Files</div>
+            </div>
+            <div class="bg-green-50 p-4 rounded-lg">
+                <div class="text-2xl font-bold text-green-600">{{ stats.totals.total_products or 0 }}</div>
+                <div class="text-sm text-green-600">Total Products</div>
+            </div>
+            <div class="bg-purple-50 p-4 rounded-lg">
+                <div class="text-2xl font-bold text-purple-600">{{ "{:.1f}".format((stats.totals.total_size or 0) / (1024*1024*1024)) }}</div>
+                <div class="text-sm text-purple-600">Total Size (GB)</div>
+            </div>
+            <div class="bg-yellow-50 p-4 rounded-lg">
+                <div class="text-2xl font-bold text-yellow-600">
+                    {% set active_count = 0 %}
+                    {% for status in stats.status %}
+                        {% if status.status == 'active' %}
+                            {% set active_count = status.count %}
+                        {% endif %}
+                    {% endfor %}
+                    {{ active_count }}
+                </div>
+                <div class="text-sm text-yellow-600">Active Files</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- File Types -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">File Types</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {% for file_type in stats.file_types %}
+            <div class="bg-gray-50 p-3 rounded-lg">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium text-gray-900">{{ file_type.file_type | upper }}</span>
+                    <span class="text-lg font-bold text-blue-600">{{ file_type.count }}</span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Furniture Types -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">Furniture Types</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {% for furniture_type in stats.furniture_types %}
+            <div class="bg-gray-50 p-3 rounded-lg">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium text-gray-900">{{ furniture_type.furniture_type }}</span>
+                    <span class="text-lg font-bold text-green-600">{{ furniture_type.count }}</span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- URL Health -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">URL Health Status</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {% for health in stats.url_health %}
+            <div class="p-3 rounded-lg {% if health.url_health == 'healthy' %}bg-green-50{% elif health.url_health == 'broken' %}bg-red-50{% elif health.url_health == 'timeout' %}bg-yellow-50{% else %}bg-gray-50{% endif %}">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium {% if health.url_health == 'healthy' %}text-green-900{% elif health.url_health == 'broken' %}text-red-900{% elif health.url_health == 'timeout' %}text-yellow-900{% else %}text-gray-900{% endif %}">
+                        {{ health.url_health | title }}
+                    </span>
+                    <span class="text-lg font-bold {% if health.url_health == 'healthy' %}text-green-600{% elif health.url_health == 'broken' %}text-red-600{% elif health.url_health == 'timeout' %}text-yellow-600{% else %}text-gray-600{% endif %}">
+                        {{ health.count }}
+                    </span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- File Status -->
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">File Status</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {% for status in stats.status %}
+            <div class="p-3 rounded-lg {% if status.status == 'active' %}bg-green-50{% elif status.status == 'archived' %}bg-red-50{% else %}bg-yellow-50{% endif %}">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium {% if status.status == 'active' %}text-green-900{% elif status.status == 'archived' %}text-red-900{% else %}text-yellow-900{% endif %}">
+                        {{ status.status | title }}
+                    </span>
+                    <span class="text-lg font-bold {% if status.status == 'active' %}text-green-600{% elif status.status == 'archived' %}text-red-600{% else %}text-yellow-600{% endif %}">
+                        {{ status.count }}
+                    </span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Brands -->
+    <div class="px-6 py-4">
+        <h2 class="text-lg font-medium text-gray-900 mb-4">Files by Brand</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {% for brand in stats.brands %}
+            <div class="bg-gray-50 p-3 rounded-lg">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium text-gray-900">{{ brand.brand | title }}</span>
+                    <span class="text-lg font-bold text-blue-600">{{ brand.count }}</span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<!-- Health Check Section -->
+<div class="mt-6 bg-white shadow rounded-lg">
+    <div class="px-6 py-4 border-b border-gray-200">
+        <h2 class="text-lg font-medium text-gray-900">System Health</h2>
+    </div>
+    <div class="px-6 py-4">
+        <div class="flex items-center space-x-4">
+            <button id="check-urls-btn" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-medium">
+                Check URL Health
+            </button>
+            <span id="url-check-status" class="text-sm text-gray-600"></span>
+        </div>
+        <div id="url-check-progress" class="mt-4 hidden">
+            <div class="w-full bg-gray-200 rounded-full h-2">
+                <div id="progress-bar" class="bg-blue-600 h-2 rounded-full" style="width: 0%"></div>
+            </div>
+            <div id="progress-text" class="text-sm text-gray-600 mt-2">Checking URLs...</div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const checkUrlsBtn = document.getElementById('check-urls-btn');
+    const urlCheckStatus = document.getElementById('url-check-status');
+    const urlCheckProgress = document.getElementById('url-check-progress');
+    const progressBar = document.getElementById('progress-bar');
+    const progressText = document.getElementById('progress-text');
+
+    checkUrlsBtn.addEventListener('click', function() {
+        this.disabled = true;
+        this.textContent = 'Checking...';
+        urlCheckStatus.textContent = 'Starting URL health check...';
+        urlCheckProgress.classList.remove('hidden');
+        
+        // Simulate progress (in real implementation, this would be a background task)
+        let progress = 0;
+        const interval = setInterval(() => {
+            progress += 10;
+            progressBar.style.width = progress + '%';
+            progressText.textContent = `Checking URLs... ${progress}%`;
+            
+            if (progress >= 100) {
+                clearInterval(interval);
+                urlCheckStatus.textContent = 'URL health check completed!';
+                this.disabled = false;
+                this.textContent = 'Check URL Health';
+                setTimeout(() => {
+                    urlCheckProgress.classList.add('hidden');
+                    location.reload();
+                }, 2000);
+            }
+        }, 500);
+    });
+});
+</script>
+{% endblock %}

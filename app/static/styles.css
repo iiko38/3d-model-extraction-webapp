@@ -1,0 +1,99 @@
+/* Custom styles for 3D Model Library */
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* File type badges */
+.file-type-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+}
+
+.file-type-3d {
+    @apply bg-blue-100 text-blue-800;
+}
+
+.file-type-texture {
+    @apply bg-green-100 text-green-800;
+}
+
+.file-type-document {
+    @apply bg-yellow-100 text-yellow-800;
+}
+
+/* Loading states */
+.htmx-request {
+    opacity: 0.6;
+    transition: opacity 0.2s ease-in-out;
+}
+
+/* Custom focus styles */
+.focus-ring:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    box-shadow: 0 0 0 2px #3b82f6;
+}
+
+/* Table improvements */
+.table-hover tbody tr:hover {
+    background-color: #f8fafc;
+}
+
+/* Responsive improvements */
+@media (max-width: 640px) {
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+/* Custom animations */
+.fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Brand avatar colors */
+.brand-avatar {
+    @apply h-10 w-10 rounded-full flex items-center justify-center text-sm font-medium;
+}
+
+.brand-avatar.herman-miller {
+    @apply bg-red-100 text-red-800;
+}
+
+.brand-avatar.geiger {
+    @apply bg-blue-100 text-blue-800;
+}
+
+.brand-avatar.naughtone {
+    @apply bg-green-100 text-green-800;
+}
+
+.brand-avatar.hm {
+    @apply bg-purple-100 text-purple-800;
+}
