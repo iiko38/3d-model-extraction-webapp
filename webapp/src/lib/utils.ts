@@ -24,3 +24,7 @@ export function formatDate(dateString: string): string {
     day: 'numeric'
   })
 }
+
+export function isDatabaseConfigured(): boolean {
+  return !!(process.env.NEXT_PUBLIC_SUPABASE_URL && process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+}

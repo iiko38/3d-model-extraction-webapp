@@ -1,26 +1,76 @@
 import { supabase } from '@/lib/supabase'
+import { isDatabaseConfigured } from '@/lib/utils'
 import Image from 'next/image'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 
 export default async function CardsPage() {
+  // Check if database is configured
+  if (!isDatabaseConfigured()) {
+    return (
+      <div className="p-6">
+        <Card>
+          <CardHeader>
+            <CardTitle>Product Cards</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="text-amber-600 bg-amber-50 p-4 rounded-lg">
+              <h3 className="font-semibold mb-2">Configuration Required</h3>
+              <p className="text-sm">
+                Supabase environment variables are not configured. Please set the following in your Vercel environment:
+              </p>
+              <ul className="text-sm mt-2 space-y-1">
+                <li>• <code className="bg-gray-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_URL</code></li>
+                <li>• <code className="bg-gray-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_ANON_KEY</code></li>
+              </ul>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    )
+  }
+
   // Fetch products
-  const { data: products, error } = await supabase
-    .from('products')
-    .select('*')
-    .order('name')
+  let products = null
+  let error = null
+
+  try {
+    const result = await supabase
+      .from('products')
+      .select('*')
+      .order('name')
+    
+    products = result.data
+    error = result.error
+  } catch (err) {
+    error = err as any
+  }
 
   // Fetch images for all products
-  const { data: allImages } = await supabase
-    .from('images')
-    .select('product_uid, image_url, score, is_primary')
-    .eq('is_primary', true)
+  let allImages = null
+  try {
+    const imagesResult = await supabase
+      .from('images')
+      .select('product_uid, image_url, score, is_primary')
+      .eq('is_primary', true)
+    allImages = imagesResult.data
+  } catch (err) {
+    console.error('Error fetching images:', err)
+    allImages = []
+  }
 
   // Fetch file counts for all products
-  const { data: allFiles } = await supabase
-    .from('files')
-    .select('product_uid')
+  let allFiles = null
+  try {
+    const filesResult = await supabase
+      .from('files')
+      .select('product_uid')
+    allFiles = filesResult.data
+  } catch (err) {
+    console.error('Error fetching files:', err)
+    allFiles = []
+  }
 
   // Create lookup maps
   const imageMap = allImages?.reduce((acc: any, img: any) => {
