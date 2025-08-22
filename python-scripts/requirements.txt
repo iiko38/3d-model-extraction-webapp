@@ -1,0 +1,19 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+supabase==2.0.2
+pandas==2.3.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+
+# Database
+sqlite3
+psycopg2-binary==2.9.9
+
+# Image processing
+Pillow==10.1.0
+
+# Utilities
+tqdm==4.66.1
+schedule==1.2.0
