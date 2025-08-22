@@ -1,8 +1,8 @@
 import { supabase } from '@/lib/supabase'
-import { formatFileSize } from '@/lib/utils'
 import Image from 'next/image'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
+import { Button } from '@/components/ui/button'
 
 export default async function CardsPage() {
   // Fetch products
@@ -35,52 +35,55 @@ export default async function CardsPage() {
 
   if (error) {
     return (
-      <Card>
-        <CardHeader>
-          <CardTitle>Product Cards</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="text-red-600">Error loading data: {error.message}</div>
-        </CardContent>
-      </Card>
+      <div className="p-6">
+        <Card>
+          <CardHeader>
+            <CardTitle>Product Cards</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="text-red-600">Error loading data: {error.message}</div>
+          </CardContent>
+        </Card>
+      </div>
     )
   }
 
   return (
-    <Card>
-      <CardHeader>
-        <div className="flex items-center justify-between">
-          <div>
-            <CardTitle>Product Cards</CardTitle>
-            <CardDescription>Products with images and file information</CardDescription>
+    <div className="p-6">
+      <Card>
+        <CardHeader>
+          <div className="flex items-center justify-between">
+            <div>
+              <CardTitle>Product Cards</CardTitle>
+              <CardDescription>Products with images and file information</CardDescription>
+            </div>
+            <Badge variant="secondary">
+              {products?.length || 0} products
+            </Badge>
           </div>
-          <Badge variant="secondary">
-            {products?.length || 0} products
-          </Badge>
-        </div>
-      </CardHeader>
-      <CardContent>
-        {products && products.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {products.map((product: any) => (
-              <Card key={product.uid} className="overflow-hidden">
-                                 {/* Product Image */}
-                 <div className="relative h-48 bg-gray-100 rounded-t-lg overflow-hidden">
-                   {imageMap[product.uid]?.image_url ? (
-                     <Image
-                       src={imageMap[product.uid].image_url}
-                       alt={product.name}
-                       fill
-                       className="object-cover"
-                     />
-                   ) : (
-                     <div className="flex items-center justify-center h-full text-gray-400">
-                       <span>No Image</span>
-                     </div>
-                   )}
-                 </div>
+        </CardHeader>
+        <CardContent>
+          {products && products.length > 0 ? (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {products.map((product: any) => (
+                              <Card key={product.uid} className="overflow-hidden hover:shadow-lg transition-shadow">
+                  {/* Product Image */}
+                  <div className="relative h-48 bg-gray-100 rounded-t-lg overflow-hidden">
+                    {imageMap[product.uid]?.image_url ? (
+                      <Image
+                        src={imageMap[product.uid].image_url}
+                        alt={product.name}
+                        fill
+                        className="object-cover"
+                      />
+                    ) : (
+                      <div className="flex items-center justify-center h-full text-gray-400">
+                        <span>No Image</span>
+                      </div>
+                    )}
+                  </div>
 
-                                   <CardContent className="p-4">
+                  <CardContent className="p-4">
                     <h3 className="text-lg font-semibold mb-1">
                       {product.name}
                     </h3>
@@ -101,12 +104,13 @@ export default async function CardsPage() {
                 </Card>
             ))}
           </div>
-                 ) : (
-           <div className="text-center py-12">
-             <div className="text-muted-foreground">No products found</div>
-           </div>
-         )}
-       </CardContent>
-     </Card>
-   )
- }
+          ) : (
+            <div className="text-center py-12">
+              <div className="text-muted-foreground">No products found</div>
+            </div>
+          )}
+        </CardContent>
+      </Card>
+    </div>
+  )
+}

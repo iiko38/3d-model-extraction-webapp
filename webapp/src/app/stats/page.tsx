@@ -48,7 +48,7 @@ export default async function StatsPage() {
     .limit(10)
 
   return (
-    <div className="space-y-6">
+    <div className="p-6 space-y-6">
       {/* Header */}
       <Card>
         <CardHeader>
