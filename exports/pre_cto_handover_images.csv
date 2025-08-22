@@ -1,0 +1,2 @@
+product_uid,variant,image_url,provider,score,rationale,status,width,height,content_hash,local_path,created_at,updated_at,product_name,product_brand
+herman_miller:aeron_chairs,,https://example.com/a.jpg,test,10.0,seed,approved,,,,,1755386887,1755386887,aeron chairs,herman_miller

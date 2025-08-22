@@ -1,0 +1,4 @@
+brand,total_products,products_with_files,products_with_images,file_coverage_pct,image_coverage_pct
+herman_miller,557,557,24,100.0,4.31
+geiger,13,13,0,100.0,0.0
+naughtone,4,4,0,100.0,0.0
