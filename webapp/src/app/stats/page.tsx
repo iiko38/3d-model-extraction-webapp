@@ -2,24 +2,48 @@ import { supabase } from '@/lib/supabase'
 import { formatFileSize } from '@/lib/utils'
 
 export default async function StatsPage() {
-  // Fetch various statistics
+  // Fetch basic counts
   const [
     { count: totalProducts },
     { count: totalFiles },
-    { count: totalImages },
-    { data: fileTypes },
-    { data: brands },
-    { data: topProducts },
-    { data: heaviestFiles }
+    { count: totalImages }
   ] = await Promise.all([
     supabase.from('products').select('*', { count: 'exact', head: true }),
     supabase.from('files').select('*', { count: 'exact', head: true }),
-    supabase.from('images').select('*', { count: 'exact', head: true }),
-    supabase.from('files').select('file_type').select('file_type, count').group('file_type').order('count', { ascending: false }),
-    supabase.from('products').select('brand').select('brand, count').group('brand').order('count', { ascending: false }),
-    supabase.from('files').select('product_uid, count').group('product_uid').order('count', { ascending: false }).limit(10),
-    supabase.from('files').select('product_uid, size_bytes, file_type').order('size_bytes', { ascending: false }).limit(10)
+    supabase.from('images').select('*', { count: 'exact', head: true })
   ])
+
+  // Fetch file types breakdown
+  const { data: allFiles } = await supabase.from('files').select('file_type')
+  const fileTypes = allFiles?.reduce((acc: any, file: any) => {
+    acc[file.file_type] = (acc[file.file_type] || 0) + 1
+    return acc
+  }, {}) || {}
+
+  // Fetch brands breakdown
+  const { data: allProducts } = await supabase.from('products').select('brand')
+  const brands = allProducts?.reduce((acc: any, product: any) => {
+    acc[product.brand] = (acc[product.brand] || 0) + 1
+    return acc
+  }, {}) || {}
+
+  // Fetch top products by file count
+  const { data: allFilesForCount } = await supabase.from('files').select('product_uid')
+  const productCounts = allFilesForCount?.reduce((acc: any, file: any) => {
+    acc[file.product_uid] = (acc[file.product_uid] || 0) + 1
+    return acc
+  }, {}) || {}
+  const topProducts = Object.entries(productCounts)
+    .map(([product_uid, count]) => ({ product_uid, count }))
+    .sort((a: any, b: any) => b.count - a.count)
+    .slice(0, 10)
+
+  // Fetch heaviest files
+  const { data: heaviestFiles } = await supabase
+    .from('files')
+    .select('product_uid, size_bytes, file_type')
+    .order('size_bytes', { ascending: false })
+    .limit(10)
 
   return (
     <div className="space-y-6">
@@ -74,31 +98,31 @@ export default async function StatsPage() {
         </div>
       </div>
 
-      {/* File Types Breakdown */}
-      <div className="bg-white shadow rounded-lg p-6">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">File Types</h2>
-        <div className="space-y-2">
-          {fileTypes?.map((type: any) => (
-            <div key={type.file_type} className="flex justify-between items-center">
-              <span className="text-sm font-medium text-gray-700">{type.file_type}</span>
-              <span className="text-sm text-gray-500">{type.count} files</span>
-            </div>
-          ))}
-        </div>
-      </div>
+             {/* File Types Breakdown */}
+       <div className="bg-white shadow rounded-lg p-6">
+         <h2 className="text-lg font-semibold text-gray-900 mb-4">File Types</h2>
+         <div className="space-y-2">
+           {Object.entries(fileTypes).map(([fileType, count]: [string, any]) => (
+             <div key={fileType} className="flex justify-between items-center">
+               <span className="text-sm font-medium text-gray-700">{fileType}</span>
+               <span className="text-sm text-gray-500">{count} files</span>
+             </div>
+           ))}
+         </div>
+       </div>
 
-      {/* Brands Breakdown */}
-      <div className="bg-white shadow rounded-lg p-6">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">Brands</h2>
-        <div className="space-y-2">
-          {brands?.map((brand: any) => (
-            <div key={brand.brand} className="flex justify-between items-center">
-              <span className="text-sm font-medium text-gray-700">{brand.brand}</span>
-              <span className="text-sm text-gray-500">{brand.count} products</span>
-            </div>
-          ))}
-        </div>
-      </div>
+       {/* Brands Breakdown */}
+       <div className="bg-white shadow rounded-lg p-6">
+         <h2 className="text-lg font-semibold text-gray-900 mb-4">Brands</h2>
+         <div className="space-y-2">
+           {Object.entries(brands).map(([brand, count]: [string, any]) => (
+             <div key={brand} className="flex justify-between items-center">
+               <span className="text-sm font-medium text-gray-700">{brand}</span>
+               <span className="text-sm text-gray-500">{count} products</span>
+             </div>
+           ))}
+         </div>
+       </div>
 
       {/* Top Products by File Count */}
       <div className="bg-white shadow rounded-lg p-6">
