@@ -1,5 +1,7 @@
 import { supabase } from '@/lib/supabase'
 import { formatFileSize } from '@/lib/utils'
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
 
 export default async function StatsPage() {
   // Fetch basic counts
@@ -48,114 +50,138 @@ export default async function StatsPage() {
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="bg-white shadow rounded-lg p-6">
-        <h1 className="text-2xl font-bold text-gray-900 mb-4">Database Statistics</h1>
-        <p className="text-sm text-gray-600">Overview of your 3D model library</p>
-      </div>
+      <Card>
+        <CardHeader>
+          <CardTitle>Database Statistics</CardTitle>
+          <CardDescription>Overview of your 3D model library</CardDescription>
+        </CardHeader>
+      </Card>
 
       {/* Summary Cards */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div className="bg-white shadow rounded-lg p-6">
-          <div className="flex items-center">
-            <div className="flex-shrink-0">
-              <div className="w-8 h-8 bg-blue-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">P</span>
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center">
+              <div className="flex-shrink-0">
+                <div className="w-8 h-8 bg-blue-500 rounded-lg flex items-center justify-center">
+                  <span className="text-white font-bold">P</span>
+                </div>
+              </div>
+              <div className="ml-4">
+                <p className="text-sm font-medium text-muted-foreground">Total Products</p>
+                <p className="text-2xl font-bold">{totalProducts || 0}</p>
               </div>
             </div>
-            <div className="ml-4">
-              <p className="text-sm font-medium text-gray-500">Total Products</p>
-              <p className="text-2xl font-bold text-gray-900">{totalProducts || 0}</p>
-            </div>
-          </div>
-        </div>
+          </CardContent>
+        </Card>
 
-        <div className="bg-white shadow rounded-lg p-6">
-          <div className="flex items-center">
-            <div className="flex-shrink-0">
-              <div className="w-8 h-8 bg-green-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">F</span>
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center">
+              <div className="flex-shrink-0">
+                <div className="w-8 h-8 bg-green-500 rounded-lg flex items-center justify-center">
+                  <span className="text-white font-bold">F</span>
+                </div>
+              </div>
+              <div className="ml-4">
+                <p className="text-sm font-medium text-muted-foreground">Total Files</p>
+                <p className="text-2xl font-bold">{totalFiles || 0}</p>
               </div>
             </div>
-            <div className="ml-4">
-              <p className="text-sm font-medium text-gray-500">Total Files</p>
-              <p className="text-2xl font-bold text-gray-900">{totalFiles || 0}</p>
-            </div>
-          </div>
-        </div>
+          </CardContent>
+        </Card>
 
-        <div className="bg-white shadow rounded-lg p-6">
-          <div className="flex items-center">
-            <div className="flex-shrink-0">
-              <div className="w-8 h-8 bg-purple-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">I</span>
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center">
+              <div className="flex-shrink-0">
+                <div className="w-8 h-8 bg-purple-500 rounded-lg flex items-center justify-center">
+                  <span className="text-white font-bold">I</span>
+                </div>
+              </div>
+              <div className="ml-4">
+                <p className="text-sm font-medium text-muted-foreground">Total Images</p>
+                <p className="text-2xl font-bold">{totalImages || 0}</p>
               </div>
             </div>
-            <div className="ml-4">
-              <p className="text-sm font-medium text-gray-500">Total Images</p>
-              <p className="text-2xl font-bold text-gray-900">{totalImages || 0}</p>
-            </div>
-          </div>
-        </div>
+          </CardContent>
+        </Card>
       </div>
 
-             {/* File Types Breakdown */}
-       <div className="bg-white shadow rounded-lg p-6">
-         <h2 className="text-lg font-semibold text-gray-900 mb-4">File Types</h2>
-         <div className="space-y-2">
-           {Object.entries(fileTypes).map(([fileType, count]: [string, any]) => (
-             <div key={fileType} className="flex justify-between items-center">
-               <span className="text-sm font-medium text-gray-700">{fileType}</span>
-               <span className="text-sm text-gray-500">{count} files</span>
-             </div>
-           ))}
-         </div>
-       </div>
+                   {/* File Types Breakdown */}
+      <Card>
+        <CardHeader>
+          <CardTitle>File Types</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-2">
+            {Object.entries(fileTypes).map(([fileType, count]: [string, any]) => (
+              <div key={fileType} className="flex justify-between items-center">
+                <span className="text-sm font-medium">{fileType}</span>
+                <Badge variant="outline">{count} files</Badge>
+              </div>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
 
-       {/* Brands Breakdown */}
-       <div className="bg-white shadow rounded-lg p-6">
-         <h2 className="text-lg font-semibold text-gray-900 mb-4">Brands</h2>
-         <div className="space-y-2">
-           {Object.entries(brands).map(([brand, count]: [string, any]) => (
-             <div key={brand} className="flex justify-between items-center">
-               <span className="text-sm font-medium text-gray-700">{brand}</span>
-               <span className="text-sm text-gray-500">{count} products</span>
-             </div>
-           ))}
-         </div>
-       </div>
+      {/* Brands Breakdown */}
+      <Card>
+        <CardHeader>
+          <CardTitle>Brands</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-2">
+            {Object.entries(brands).map(([brand, count]: [string, any]) => (
+              <div key={brand} className="flex justify-between items-center">
+                <span className="text-sm font-medium">{brand}</span>
+                <Badge variant="outline">{count} products</Badge>
+              </div>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
 
       {/* Top Products by File Count */}
-      <div className="bg-white shadow rounded-lg p-6">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">Top Products by File Count</h2>
-        <div className="space-y-2">
-          {topProducts?.map((product: any, index: number) => (
-            <div key={product.product_uid} className="flex justify-between items-center">
-              <span className="text-sm font-medium text-gray-700">
-                {index + 1}. {product.product_uid}
-              </span>
-              <span className="text-sm text-gray-500">{product.count} files</span>
-            </div>
-          ))}
-        </div>
-      </div>
+      <Card>
+        <CardHeader>
+          <CardTitle>Top Products by File Count</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-2">
+            {topProducts?.map((product: any, index: number) => (
+              <div key={product.product_uid} className="flex justify-between items-center">
+                <span className="text-sm font-medium">
+                  {index + 1}. {product.product_uid}
+                </span>
+                <Badge variant="outline">{product.count} files</Badge>
+              </div>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
 
       {/* Heaviest Files */}
-      <div className="bg-white shadow rounded-lg p-6">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">Heaviest Files</h2>
-        <div className="space-y-2">
-          {heaviestFiles?.map((file: any, index: number) => (
-            <div key={index} className="flex justify-between items-center">
-              <div>
-                <span className="text-sm font-medium text-gray-700">
-                  {index + 1}. {file.product_uid}
-                </span>
-                <span className="text-xs text-gray-500 ml-2">({file.file_type})</span>
+      <Card>
+        <CardHeader>
+          <CardTitle>Heaviest Files</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-2">
+            {heaviestFiles?.map((file: any, index: number) => (
+              <div key={index} className="flex justify-between items-center">
+                <div>
+                  <span className="text-sm font-medium">
+                    {index + 1}. {file.product_uid}
+                  </span>
+                  <span className="text-xs text-muted-foreground ml-2">({file.file_type})</span>
+                </div>
+                <Badge variant="outline">{formatFileSize(file.size_bytes)}</Badge>
               </div>
-              <span className="text-sm text-gray-500">{formatFileSize(file.size_bytes)}</span>
-            </div>
-          ))}
-        </div>
-      </div>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
     </div>
   )
 }

@@ -1,6 +1,8 @@
 import { supabase } from '@/lib/supabase'
 import { formatFileSize } from '@/lib/utils'
 import Image from 'next/image'
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
 
 export default async function CardsPage() {
   // Fetch products
@@ -33,34 +35,35 @@ export default async function CardsPage() {
 
   if (error) {
     return (
-      <div className="bg-white shadow rounded-lg p-6">
-        <h1 className="text-2xl font-bold text-gray-900 mb-4">Product Cards</h1>
-        <div className="text-red-600">Error loading data: {error.message}</div>
-      </div>
+      <Card>
+        <CardHeader>
+          <CardTitle>Product Cards</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="text-red-600">Error loading data: {error.message}</div>
+        </CardContent>
+      </Card>
     )
   }
 
   return (
-    <div className="bg-white shadow rounded-lg">
-      {/* Header */}
-      <div className="px-6 py-4 border-b border-gray-200">
+    <Card>
+      <CardHeader>
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-gray-900">Product Cards</h1>
-            <p className="text-sm text-gray-600 mt-1">Products with images and file information</p>
+            <CardTitle>Product Cards</CardTitle>
+            <CardDescription>Products with images and file information</CardDescription>
           </div>
-          <div className="text-sm text-gray-500">
+          <Badge variant="secondary">
             {products?.length || 0} products
-          </div>
+          </Badge>
         </div>
-      </div>
-
-      {/* Product Cards Grid */}
-      <div className="p-6">
+      </CardHeader>
+      <CardContent>
         {products && products.length > 0 ? (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {products.map((product: any) => (
-              <div key={product.uid} className="bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
+              <Card key={product.uid} className="overflow-hidden">
                                  {/* Product Image */}
                  <div className="relative h-48 bg-gray-100 rounded-t-lg overflow-hidden">
                    {imageMap[product.uid]?.image_url ? (
@@ -77,34 +80,33 @@ export default async function CardsPage() {
                    )}
                  </div>
 
-                 {/* Product Info */}
-                 <div className="p-4">
-                   <h3 className="text-lg font-semibold text-gray-900 mb-1">
-                     {product.name}
-                   </h3>
-                   <p className="text-sm text-gray-600 mb-2">
-                     {product.brand}
-                   </p>
-                   
-                   {/* File Count Badge */}
-                   <div className="flex items-center justify-between">
-                     <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
-                       {fileCountMap[product.uid] || 0} files
-                     </span>
-                     <span className="text-xs text-gray-500">
-                       Score: {imageMap[product.uid]?.score?.toFixed(1) || 'N/A'}
-                     </span>
-                   </div>
-                 </div>
-              </div>
+                                   <CardContent className="p-4">
+                    <h3 className="text-lg font-semibold mb-1">
+                      {product.name}
+                    </h3>
+                    <p className="text-sm text-muted-foreground mb-2">
+                      {product.brand}
+                    </p>
+                    
+                    {/* File Count Badge */}
+                    <div className="flex items-center justify-between">
+                      <Badge variant="outline">
+                        {fileCountMap[product.uid] || 0} files
+                      </Badge>
+                      <span className="text-xs text-muted-foreground">
+                        Score: {imageMap[product.uid]?.score?.toFixed(1) || 'N/A'}
+                      </span>
+                    </div>
+                  </CardContent>
+                </Card>
             ))}
           </div>
-        ) : (
-          <div className="text-center py-12">
-            <div className="text-gray-500">No products found</div>
-          </div>
-        )}
-      </div>
-    </div>
-  )
-}
+                 ) : (
+           <div className="text-center py-12">
+             <div className="text-muted-foreground">No products found</div>
+           </div>
+         )}
+       </CardContent>
+     </Card>
+   )
+ }
