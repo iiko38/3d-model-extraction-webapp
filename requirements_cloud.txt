@@ -1,0 +1,22 @@
+# Cloud deployment requirements
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+jinja2==3.1.2
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Supabase integration
+supabase==2.0.2
+psycopg2-binary==2.9.9
+
+# Database and data processing
+pandas==2.3.1
+sqlalchemy==2.0.23
+
+# Cloud storage and caching
+redis==5.0.1
+python-jose[cryptography]==3.3.0
+
+# Development and deployment
+python-dotenv==1.0.0
+vercel==0.0.1
