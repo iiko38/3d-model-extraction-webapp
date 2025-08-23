@@ -1,5 +1,5 @@
-import { supabase } from '@/lib/supabase'
-import { formatFileSize, isDatabaseConfigured } from '@/lib/utils'
+import { supabase, isSupabaseConfigured } from '@/lib/supabase'
+import { formatFileSize } from '@/lib/utils'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button'
 
 export default async function HomePage() {
   // Check if database is configured
-  if (!isDatabaseConfigured()) {
+  if (!isSupabaseConfigured) {
     return (
       <div className="p-6">
         <Card>
